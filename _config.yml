@@ -37,6 +37,16 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "initiatives"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "page"
 
 # Pagination
 paginate: 5
