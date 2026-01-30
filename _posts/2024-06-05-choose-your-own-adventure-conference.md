@@ -7,13 +7,15 @@ categories: [events, conferences]
 tags: [conference, research-creation, participatory, interactive]
 ---
 
-SORCE Collective hosted an interactive event called "The Choose-Your-Own-Adventure-Conference" on Saturday, June 29th, 2024, at the Daphne Coxwell Complex (288 Church St., 7th floor).
+Our party-based event structure combined art making with deep conversation, all while mapping the dimensions of space-time! The party was broken up into four sections: the point, the line, the space, and the time. We met together as a group at the beginning and the end of the celebration, allowing everyone to change their positions and point with the ringing of a bell. As we each took our own trajectories through the concepts, we met back together at the beginning and end in circle to share our discoveries.
 
-The event structure combined artistic creation with meaningful dialogue. Participants explored four conceptual dimensions—the point, the line, the space, and the time—through self-directed paths. The day began with an extended land acknowledgment recognizing all living beings past, present, and future in that location. A bell signaled transitions between sections, allowing attendees to regroup and share discoveries.
+The day opened with an extended land acknowledgment, attempting to remember all living thing past, present, and future existing in the location of the Daphne Coxwell Complex, including the cloud people who were watching us make on on the 7th floor.
 
-The organizers emphasized gathering and knowledge-sharing "while having fun, making art, and talking about our experiences."
+During each pause, we invoked different dimensions of space-time to be explored, concepts that were both colloquial, spatial, temporal, and epistemological in nature. The interrelatedness and un-relatedness of these concepts were attempts to resist the process of synthesis, and instead generate a diverse ecology of responses that then find shared resonance as perceivers reveal their different positions.
 
-## A Poet's Reflection — by Kyra Min Poole
+Our focus was on gathering, and sharing knowledge while having fun, making art, and talking about our experiences.
+
+## A Poet's Reflection – by Kyra Min Poole
 
 I've found the leading questions sticking with me in unexpected places. This long weekend has been subsumed by thoughts of circularity and universality. Our train rides were juxtaposed by dewy flora and poorly paved sidewalks enticing conversations of creation's utopically unbothered and dependable return to land. Upon our own return, to the place we are molding into a home, we see blooms of this welcoming us back, in the form of yellow and purple and white wildflowers in the abandoned sandy hollows that lie beyond our lot.
 
@@ -23,16 +25,23 @@ Furthermore I am appreciative of the artful thought exercise, both in time and n
 
 It seems now that without awareness, we naturally returned to 'the point' of our position, in the room and the land more broadly. I was truly delighted to doodle my way down a desired path: of monolithic eyes with lashes of jagged root structures and soft dandelion puffs, of obscure butterflies in golden bell jars crowded with light and creeping with fireflies, and of monstrous deep sea creatures with shell shanked teeth.
 
-## Event Schedule
+## Event Details
 
-- 1:00 pm: Greeting the Land
-- 1:30 pm: The Point
-- 2:00 pm: The Line
-- 2:30 pm: The Space
-- 3:00 pm: The Time
-- 3:30 pm: Plenary Closing
+**Saturday, June 29th, 2024**
 
-The venue offered accessibility features including elevators, power doors, quiet spaces for sensory sensitivities, and dietary accommodations (vegan and gluten-free options).
+The Daphne Coxwell Complex
+288 Church St. (7th floor)
+
+**Schedule: 1:00 pm – 4:00 pm**
+
+- 1:00: Greeting the Land
+- 1:30: the point
+- 2:00: the line
+- 2:30: the space
+- 3:00: the time
+- 3:30: Plenary Closing
+
+(Accessibility notes: the DCC is an accessible space with elevators and power doors; the space will likely be loud but there are several quiet spaces available for those with sensory sensitivities; vegan and gluten free options will be available)
 
 ---
 
