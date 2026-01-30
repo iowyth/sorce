@@ -4,30 +4,55 @@ title: About
 permalink: /about/
 ---
 
-**SORCE Collective** is a Canadian artist-academic network that facilitates connections among creative academics.
+**SORCE** — Supportive Organic Reflexive Community/Creative Empowerment — is a research-creation collective based at T'karonto Metropolitan University and York University.
 
-## Our Mission
+We work through open-ended, creative, empowering methods for pursuing justice and structural change, mixing deep philosophical work with grounded solutions through community activity.
 
-We generate opportunities for artist-academics to connect, reflect, and share their practices in the hopes of fostering creative collaborations.
+---
 
 ## What We Do
 
-- **Connect**: We bring together practitioners across disciplines and institutions
-- **Reflect**: We create spaces for critical dialogue about art-research practices
-- **Share**: We facilitate the exchange of knowledge, methods, and creative work
-- **Collaborate**: We foster interdisciplinary partnerships and collective projects
+SORCE hosts events, workshops, skill shares, and gatherings to:
+
+- **Support** creative engagement within university contexts and beyond
+- **Discuss** emerging research methodologies and ethical considerations
+- **Showcase** member talent and creative work
+- **Foster** liberation opportunities connecting universities with broader communities
+
+We embrace diverse perspectives and work to build connections among marginalized communities and their allies through what scholars call *transverse politics*.
+
+---
+
+## How We Work
+
+SORCE operates on a **horizontal model** where members maintain semi-autonomous roles while engaging in mutual support. We move theory into praxis through creative, iterative, community activity.
+
+### Participation
+
+Participation is flexible — involvement can range from observation to leadership. We welcome:
+
+- Masters students
+- Doctoral candidates
+- Artists
+- Community allies
+
+There are no rigid requirements. Come as you are, contribute what you can.
+
+---
 
 ## Join Us
 
-SORCE Collective welcomes artist-academics from all disciplines. If you're interested in joining our network or collaborating on initiatives, please reach out through our [GitHub discussions](https://github.com/{{ site.repository }}/discussions).
+Interested in connecting with SORCE?
 
-## Contribute
+- **Join the conversation** — Start or participate in [GitHub Discussions](https://github.com/{{ site.repository }}/discussions)
+- **Add your profile** — Submit a pull request to be listed on our [People](/people/) page
+- **Propose an initiative** — Share your ideas for events, workshops, or projects
+- **Contribute to this site** — Help build this collaborative resource
 
-This site is collaboratively maintained. You can:
+---
 
-- **Suggest edits** to any page by clicking "Suggest an edit on GitHub"
-- **Propose new content** by opening a pull request
-- **Join discussions** on our blog posts
-- **Share resources** with the community
+## This Site
 
-[Learn more about contributing &rarr;](/contribute/)
+This website is an experiment in collective knowledge-making, hosted on GitHub to enable collaborative editing and transparent development. Anyone can propose changes, add content, or start discussions.
+
+[Learn how to contribute](/contribute/)
