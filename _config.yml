@@ -72,3 +72,4 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
+  - vendor
