@@ -9,15 +9,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
-# Theme
-remote_theme: pages-themes/minimal@v0.2.0
-
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # Collections
 collections:
