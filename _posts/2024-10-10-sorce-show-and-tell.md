@@ -9,6 +9,8 @@ tags: [show-and-tell, interdisciplinary, networking]
 
 SORCE Collective generates opportunities for artist-academics to connect, reflect, and share their practices in the hopes of fostering creative collaborations and interdisciplinary outputs.
 
+## Format
+
 Our sessions are open-ended, social, and about finding out where and how we connect in our creative missions.
 
 ---
