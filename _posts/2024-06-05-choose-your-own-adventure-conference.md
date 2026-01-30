@@ -13,11 +13,15 @@ The event structure combined artistic creation with meaningful dialogue. Partici
 
 The organizers emphasized gathering and knowledge-sharing "while having fun, making art, and talking about our experiences."
 
-## Poet's Reflection
+## A Poet's Reflection — by Kyra Min Poole
 
-Kyra Min Poole reflected on lingering thoughts about circularity and universality from the weekend. She described unexpected observations during train travel and upon returning home, where wildflowers welcomed the group back. Poole expressed gratitude for land's support and contemplated organic connections occupying space.
+I've found the leading questions sticking with me in unexpected places. This long weekend has been subsumed by thoughts of circularity and universality. Our train rides were juxtaposed by dewy flora and poorly paved sidewalks enticing conversations of creation's utopically unbothered and dependable return to land. Upon our own return, to the place we are molding into a home, we see blooms of this welcoming us back, in the form of yellow and purple and white wildflowers in the abandoned sandy hollows that lie beyond our lot.
 
-She appreciated the "artful thought exercise" that catalyzed both immediate and delayed experiences. Rather than structured questions, conversations naturally centered on research interests and creative outputs. Poole documented her artistic journey through drawings of imaginative subjects.
+The gratitude for land and its indefinite support, even and especially when we propel ourselves into the sky, has also left me with many thoughts and doodles of organic matter — of the circles and fractals and webs of connections that occupy and refract the emptiness of space. I'm reminded of this perpetual engulfment of space, wondering what it means to occupy space and land as beings made up by space and land.
+
+Furthermore I am appreciative of the artful thought exercise, both in time and now, as a catalyst of these immediate and delayed, solitary and collaborative experiences. I was expecting more structured questions and enforced spoken elaborations on our work, and so was surprised by the near immediate shift into casual conversations centred around research desires and creation outputs.
+
+It seems now that without awareness, we naturally returned to 'the point' of our position, in the room and the land more broadly. I was truly delighted to doodle my way down a desired path: of monolithic eyes with lashes of jagged root structures and soft dandelion puffs, of obscure butterflies in golden bell jars crowded with light and creeping with fireflies, and of monstrous deep sea creatures with shell shanked teeth.
 
 ## Event Schedule
 
