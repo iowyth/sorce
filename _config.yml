@@ -1,8 +1,8 @@
 # Site settings
 title: SORCE Collective
 description: "A Canadian artist-academic network facilitating connections among creative academics to connect, reflect, and share their practices."
-baseurl: "" # subpath of site, e.g. /blog
-url: "https://iowyth.github.io/sorce" # base hostname & protocol
+baseurl: "/sorce" # subpath of site
+url: "https://iowyth.github.io" # base hostname & protocol
 
 # Build settings
 markdown: kramdown
