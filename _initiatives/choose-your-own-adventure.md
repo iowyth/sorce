@@ -1,27 +1,10 @@
 ---
-title: Choose-Your-Own-Adventure Conference
-description: A party-based event combining art-making with conversation, structured around spatial-temporal dimensions.
+title: The Choose-Your-Own-Adventure-Conference
 status: Past
 ---
 
-An experimental conference format that reimagines how knowledge exchange can happen.
+The party-based event structure combined art making with conversation, all while mapping the dimensions of space-time. The party was broken up into four sections: the point, the line, the space, and the time. We met together as a group at the beginning and the end of the celebration, allowing everyone to change their positions and point with the ringing of a bell. As we each took our own trajectories through the concepts, we met back together at the beginning and end in circle to share our discoveries.
 
-## Format
+The day opened with an extended land acknowledgment, attempting to remember all living thing past, present, and future existing in the location of the Daphne Coxwell Complex, including the cloud people who were watching us make on on the 7th floor.
 
-A party-based event structure combining art-making with conversation, organized into four sections:
-
-- **Point**
-- **Line**
-- **Space**
-- **Time**
-
-## Structure
-
-- Extended land acknowledgment at opening
-- Participants invited to change positions throughout
-- Sharing trajectories through concepts
-- Non-linear navigation based on interest
-
-## Philosophy
-
-Rather than passive audiences listening to presentations, all attendees participate as active contributors, following threads of curiosity rather than predetermined schedules.
+Our focus was on gathering, and sharing knowledge while having fun, making art, and talking about our experiences.

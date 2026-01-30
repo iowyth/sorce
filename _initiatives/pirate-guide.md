@@ -1,26 +1,14 @@
 ---
 title: The Pirate Guide
-description: A grassroots wiki by and for graduate students, demystifying graduate studies for those with intersectional identities.
 status: Ongoing
 ---
 
-The Pirate Guide is a grassroots wiki authored and edited by ComCult students to demystify graduate studies for those with intersectional identities.
+The Pirate Guide is a grassroots wiki owned and edited by ComCult students for ComCult Students. Emerging from the Ad Hoc Graduate Committee on Accessibility, the Pirate Guide is a central pool of resources meant to demystify graduate studies for those with intersectional identities.
 
-## Origins
+This process of demystification was determined to be an important aspect of horizontal solidarity and a means of increasing the accessibility of graduate education.
 
-Emerged from the Ad Hoc Graduate Committee on Accessibility, the guide documents systemic barriers, difficulties, and successes for marginalized students pursuing solidarity and mutual aid.
+This is a living document, open to contributions and updates. The unofficial quality of this document enables students to share practical skills, tricks, and techniques for getting through the bureaucratic difficulties that come with working under an institutional framework.
 
-## What It Offers
+Our approach to liberatory methods is to create community access through informal infrastructures enabling small acts of care to become mobilized into broader processes of solidarity. This form of praxis enables a piecework approach to community infrastructure, creating a commons that empowers individuals to work towards collective goals. This guide is a form of a praxis meant to level power and hierarchies in higher-education by collectivizing the means to academic success.
 
-A living document open to contributions addressing bureaucratic challenges, with practical advice on navigating:
-
-- Program requirements and timelines
-- Funding and financial support
-- Accommodations and accessibility
-- Institutional processes and hidden knowledge
-
-## Access
-
-To access the Pirate Guide:
-- Submit a request via the contact form
-- Join the Discordant Communications Discord Server (see #accommodations and support channels)
+To get access to the guide, please submit a request or access the guide through the Discordant Communications Discord Server in #accommodations and support.

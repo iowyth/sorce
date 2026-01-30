@@ -1,24 +1,8 @@
 ---
 title: "Outsider Pedagogies: Research-Creation for Social Change"
-description: A panel discussion exploring research-creation as methodology combining artistic and academic praxis.
 status: Past
 ---
 
-A panel discussion exploring research-creation as a methodology that combines artistic and academic praxis for social change.
+SORCE members iowyth hezel ulthiin and Miranda McKee defined research-creation as a valuable, momentum-gaining qualitative research methodology. Combining artistic and academic praxis, researchers use creative expression to investigate, co-create, develop and disseminate knowledge, ultimately challenging the limits of knowledge making itself.
 
-## Panelists
-
-- iowyth hezel ulthiin
-- Miranda McKee
-- Alexa Vachon (contributor)
-
-## Topics Explored
-
-- Counter-mapping
-- Participatory theatre
-- Improv spaces
-- Photography for climate activism
-
-## Questions Addressed
-
-How can creative practice serve as rigorous research? What does it mean to work at the intersection of art and scholarship toward justice?
+The discussion explored research-creation's history, uses, strengths, and challenges through case studies and personal experience. Examined modalities included counter-mapping as liberatory data activism, participatory theatre for policy change, outsider improv spaces as equitable praxis, and photography for climate activism.

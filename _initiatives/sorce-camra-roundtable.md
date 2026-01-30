@@ -1,23 +1,9 @@
 ---
 title: SORCE/CAMRA Roundtable
-description: A December 2020 community exchange with University of Pennsylvania scholars on art-based methodologies.
 status: Past
 date: 2020-12-10
 ---
 
-A community exchange between SORCE and the University of Pennsylvania's CAMRA (Center for Advanced Media Research & Analysis).
+On December 10th, 2020, SORCE held a roundtable with CAMRA, an initiative from the University of Pennsylvania. Seven scholars from each university presented their work in a community-building exercise.
 
-## Event Details
-
-**Date:** December 10, 2020
-
-## Format
-
-- Fourteen presentations total
-- Seven scholars from each institution
-- Discussion of art-based methodologies
-- Exploration of departmental expectations for creative research
-
-## Significance
-
-An early example of SORCE's commitment to building connections across institutions and borders, sharing knowledge about how research-creation is practiced and recognized in different academic contexts.
+The presentations included a generative Q&A discussing navigating art-based methodologies within academic departmental expectations. Fourteen presentations total were delivered with substantial audience participation.

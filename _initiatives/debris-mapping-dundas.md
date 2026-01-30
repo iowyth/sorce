@@ -1,23 +1,10 @@
 ---
 title: Debris Mapping Dundas
-description: A walking and map-making workshop exploring urban space, waste, memory, and place politics through collected debris.
 status: Past
 ---
 
-A two-hour walking and map-making workshop led by Tricia Enns (Montréal) and Andrew Lochhead (Toronto).
+Artists Tricia Enns (Tioht:àke/Montréal) and Andrew Lochhead (Tkaronto/Toronto) led a two-hour workshop exploring walking and map-making using debris and handmade paper techniques.
 
-## Route
+Collecting debris while walking and learning the stories of what is now called Trinity-Bellwoods Park, Garrison Creek, and nearby Dundas Street, participants examined how discarded objects, like the land they are found on, connect to historic global trajectories of power that reverberate through our present day.
 
-Trinity-Bellwoods Park, Garrison Creek, Dundas Street West
-
-## Focus
-
-Exploring urban space, waste, memory, and place politics through:
-- Guided walking
-- Debris collection
-- Handmade paper techniques
-- Collaborative mapping
-
-## Questions
-
-What can trash tell us about a place? What are we to make of the remains left all around us? How do material remnants carry memory and meaning?
+The workshop combined scenographic walking, debris mapping, and paper-making to present hybrid chorography of Toronto spaces amid ongoing public memory debates.

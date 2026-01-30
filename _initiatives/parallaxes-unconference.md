@@ -1,22 +1,8 @@
 ---
 title: "Parallaxes: UNCONFERENCE 2022"
-description: SORCE's inaugural experiment exploring research-creation practices through horizontal, inclusive inquiry.
 status: Past
 ---
 
-SORCE's inaugural experiment, bringing together over 30 participants for a full-day event.
+The 2022 Parallaxes Unconference was the inaugural SORCE experiment. Deconstructing traditional modes of scholarship and sharing to create a horizontal and inclusive space for mutual discovery, our mission for the unconference was to "ask better questions."
 
-## Mission
-
-To "ask better questions" through horizontal, inclusive inquiry.
-
-## Format
-
-- No spectators — all attendees participated as presenters
-- Praxis sharing sessions
-- Engaged workshops focused on "questing and questioning"
-- Lively discussions and theoretical examinations
-
-## Philosophy
-
-Exploring how research-creation operates within various practices and interests, creating space for collective knowledge-making.
+Over 30 co-creative participants gathered for a full-day event sharing practices and generating ideas about research-creation's role in their lives and interests.

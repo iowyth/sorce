@@ -1,18 +1,6 @@
 ---
-title: "Beyond Talk: Embodiment, Relation, Play"
-description: An embodied, process-oriented workshop helping students reconnect with their bodies through creative techniques.
+title: "Beyond Talk: (embodiment, relation, play)"
 status: Past
 ---
 
-An embodied, process-oriented workshop led by Kathy Porter and the Relational Studio Collective.
-
-## Methodology
-
-Grounded in:
-- Participatory action research
-- Performance ethnography
-- Participatory theatre
-
-## Focus
-
-Helping students reconnect with their bodies through creative techniques, moving beyond purely verbal/textual modes of academic engagement.
+The Relational Studio Collective hosted this embodied workshop inviting students to reconnect with their bodies. Grounded in participatory action research, performance ethnography, and participatory theatre, facilitator Kathy Porter led students through embodied and creative techniques from theatre, communication, and therapeutic knowledges.
