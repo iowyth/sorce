@@ -7,37 +7,31 @@ categories: [events, workshops]
 tags: [walking, mapping, urban-space, debris, papermaking, memory]
 ---
 
-SORCE members **Andrew Lochhead** and collaborator **Tricia Enns** (Montréal) facilitated a participatory workshop exploring urban waste and spatial narratives through walking and papermaking. The two-hour session addressed issues of urban space, waste, memory, and the politics of place.
+SORCE Collective member **Andrew Lochhead** and his collaborator **Tricia Enns** led participants on an exploration of trash and what we are to make of the remains left all around us. As we approached the park on a grey afternoon, participants stood in a circle getting to know one another and their walk leaders. A quick history was given of the area, including some aspects of the park that were hidden from view. The participants were able to discuss their immediate reception of the space before setting out, with little garbage bags in hand.
 
-## The Walk: Trinity-Bellwoods to Dundas West
+As we walked, we were invited to look around for material traces that had been left and that "leapt out" at us. Each of the participants became entranced in the activity of finding treasures that had once been discarded, allowing for the vitality of these pieces to be transformed into something precious and desired. As we collected fragments into our bags, we began to show each other what we had found, looking at one another's treasures with joy and even envy at the interesting garbage that was able to be discovered.
 
-Participants gathered in Trinity-Bellwoods Park to explore the landscape while collecting discarded materials that "leapt out" at them. The facilitators shared historical context about the area, including what they called the "hidden" aspects of the park — histories and presences not immediately visible to casual visitors.
+During one moment, a certain Portuguese cigarette package was revealed to have been photographed by one of the participants during another walk in the park earlier that week and we were able to reflect on the various encounters we have with discarded materials, them moving into and out of our fields of interest.
 
-As materials accumulated, participants shared their findings with one another. There was joy and even envy at the interesting garbage discovered along the route. One notable moment: a Portuguese cigarette package was recognized from a participant's earlier visit to Portugal — debris as unexpected connection across geographies.
+As we walked back to the activity room of a large condo complex, we were invited into a process of paper making, submerging our hands in water that had a suspension of paper fibers that were filtered through a screen. On these wet fibres, we were able to place our recovered debris which became embedded into the paper itself. Each participant was then able to take home their (somewhat dripping) paper which would cure overnight, revealing a made grouping of material traces that are held within the paper, making them into something new, a map of encounters relative to each participant.
 
-## Debris as Archive
+The workshop was able to bring about new kinds of interactions with space to recontextualize discarded materials as having the potential for reinvention and perhaps reinvigoration.
 
-What can trash tell us about a place? Discarded objects carry information that official archives exclude: what people consumed, what they threw away, what moved through this space and was left behind. Attending to debris means attending to a different kind of historical record — one that's accidental, partial, and constantly being produced and erased.
+---
 
-The walk followed Garrison Creek (now buried beneath the city) and moved along Dundas Street West. This route was deliberate. Lochhead's broader work includes leading the campaign to rename Toronto's Dundas Street over its connections to slavery and genocide — Henry Dundas, the street's namesake, delayed the abolition of slavery in the British Empire. Walking this street while attending to its debris layers contemporary waste over contested historical memory.
+## Original Event Details
 
-## Making Paper from What's Left
+**Date:** Saturday, August 12, 2023
+**Location:** Trinity-Bellwoods Park, Toronto
+**Time:** 4pm-6pm
 
-Returning indoors, facilitators guided participants through handmade paper creation. Collected debris was embedded into wet paper fiber suspended on screens, transforming discarded objects into permanent artifacts. Each participant took home a cured paper work containing their debris collection — a material record of their encounter with the space and its remains.
+Join artists and creative researchers Tricia Enns (Tioht:àke/Montréal) and Andrew Lochhead (Tkaronto/Toronto) for a two-hour workshop of walking and "map" making using debris and handmade paper techniques that explores, issues of urban space, waste, memory and the politics of place through a participation-based approach.
 
-This process literalizes the transformation of waste into artifact, of scattered debris into coherent form. The paper doesn't represent the walk; it contains it.
+Collect debris while walking and learning the stories of what is now called Trinity-Bellwoods Park, Garrison Creek, and nearby Dundas Street and how these discarded objects, like the land they are found on, connect to historic global trajectories of power that reverberate through our present day.
 
-## Alternative Cartographies
+Learn how to make paper out of recycled material, incorporate your debris, to create an alternative map, highlighting spatial narratives and stories rather than roads and ownership boundaries, that shares your walking journey, and visually orientates your relationships to where, who, and what you walked along with.
 
-The workshop produced what might be called alternative maps — visualizations emphasizing spatial narratives and stories rather than roads and ownership boundaries. These maps document personal relationships to location and landscape rather than claiming objective representation.
-
-Official maps enforce particular ways of seeing space: property lines, street names, transit routes. Debris maps propose different questions: What accumulates here? What gets left behind? What stories do discarded objects tell about who moves through this space and under what conditions?
-
-## Walking as Method
-
-The workshop exemplifies walking as research methodology — a practice with deep roots in psychogeography, situationist practice, and Indigenous land-based knowledge. Walking refuses the abstraction of studying space from a distance. You encounter urban space through your feet, your breath, your attention to what's underfoot.
-
-Combined with collection and making, walking becomes a way of producing knowledge rather than just observing. The debris map isn't a document of what was already known but a record of what emerged through embodied engagement with place.
+This workshop has 15 available spaces, and is offered on a sliding scale to cover artistic labour, research time and materials, with a minimum suggestion of $20-$40/pp. 10% of funds raised will be donated to Toronto Council Fire and the Ontario Black History Society.
 
 ---
 

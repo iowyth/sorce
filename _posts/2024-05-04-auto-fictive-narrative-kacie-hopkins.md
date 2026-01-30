@@ -3,42 +3,24 @@ layout: post
 title: "Auto-Fictive Narrative with Kacie Hopkins"
 date: 2024-05-04
 author: SORCE Collective
-categories: [workshops, research-creation]
-tags: [auto-fiction, stitching, methodology, textiles, feminism]
+categories: [events, skill-shares]
+tags: [research-creation, textiles, stitching, feminism, skill-share]
 ---
 
-SORCE skill-shares offer creative researchers the opportunity to talk about their experiences, successes, and failures in an open and collaborative atmosphere. On May 9th, SORCE member **Kacie Hopkins** led an interactive dialogue exploring **Auto-Fictive Narratives** through textile practice.
+You are invited to learn from SORCE member Kacie Hopkins as she shares her unique insights into creative research.
 
-## Stitching as Inquiry
+In this interactive dialogue about _Auto Fictive Narratives_, Kacie will explore her innovative, heart-centred approach to research, speaking about a project grounded in stitching as a form of craft and inquiry. Kacie invites us to engage with serious alternatives to neoliberalism that she performs through the creation of a feminist textural collage. Included in this collage is her great grandmother's handmade garment, a link to the past, that she adds to through the meaningful inclusion of textures, exploring the dimensions of relationship and sense through acts of making.
 
-Hopkins' research centers on stitching as a form of craft and inquiry — not as metaphor but as literal methodology. Her work incorporates her great-grandmother's handmade garment alongside newly added textures, exploring relationship dimensions and sensory experience through the act of making.
+There will be time to speak with Kacie about her work.
 
-The practice engages with feminist critiques of neoliberalism through what Hopkins describes as creating "a feminist textural collage." This isn't purely theoretical engagement but embodied practice: the physical act of stitching becomes both research method and creative output, inseparable from the knowledge it generates.
+Following the presentation, SORCE will be giving a sneak peak into our upcoming Choose-Your-Own-Adventure Conference.
 
-## What is Auto-Fictive Narrative?
+Come out and see the potential of Research-Creation might offer you!
 
-Auto-fiction blends autobiographical material with fictional techniques. Unlike memoir or personal essay, auto-fiction doesn't claim transparent access to lived experience. Instead, it acknowledges that all narrative — including self-narrative — involves construction, selection, and transformation.
+**When:** May 9th @ 1 pm
 
-For Hopkins, stitching enacts this methodology materially. Thread traces a path through fabric just as narrative traces a path through experience. The seams are visible; the construction is part of the work. There's no pretense of unmediated truth, only the honest labor of making meaning from fragments.
-
-## Embodied Research
-
-Hopkins' approach refuses the mind/body split that structures much academic work. Rather than thinking *about* experience and then writing it up, she thinks *through* making. The needle moving through fabric isn't illustration of pre-formed ideas but the site where ideas emerge.
-
-This positions her work within broader conversations about practice-based research, material feminism, and the politics of craft. Domestic textile arts have long been devalued as "women's work," excluded from both fine art canons and academic knowledge production. Hopkins' research-creation reclaims this labor as rigorous intellectual practice.
-
-## The Workshop Format
-
-SORCE skill-shares create space for this kind of methodological exchange outside formal academic structures. Hopkins presented her work and process, followed by interactive dialogue exploring how participants might adapt similar approaches within their own practices.
-
-These sessions position shared knowledge as mutual aid: not experts transmitting information to passive audiences, but practitioners learning from one another's experiments, failures, and discoveries.
-
-## Why This Matters
-
-Research-creation challenges disciplinary boundaries by insisting that making is a way of knowing. Hopkins' work demonstrates this concretely: stitching isn't a creative supplement to her research but *is* her research. The textile artifact and the knowledge it embodies can't be separated.
-
-For those working at the intersection of creative practice and scholarly inquiry, sessions like this offer models, provocations, and solidarity. We don't have to work in isolation, reinventing methodologies from scratch. We can learn from one another.
+SORCE skill-shares offer creative researchers the opportunity to talk about their experiences, successes, and failures in an open and collaborative atmosphere. We see this work as a method of mutual aid, offering our knowledge and our grounded experiences, as ways to make research more human.
 
 ---
 
-*SORCE skill-shares happen throughout the year. [Join our discussions](https://github.com/{{ site.repository }}/discussions) to propose topics or express interest in leading a session.*
+*For updates on future SORCE skill-shares, [join our discussions](https://github.com/{{ site.repository }}/discussions) or check our [Initiatives]({{ '/initiatives/' | relative_url }}) page.*
