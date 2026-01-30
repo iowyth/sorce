@@ -55,9 +55,9 @@ comments:
   provider: giscus
   giscus:
     repo: iowyth/sorce
-    repo_id: "" # Will be set after repo creation
+    repo_id: "R_kgDORFGf7Q"
     category: "Announcements"
-    category_id: "" # Will be set after enabling discussions
+    category_id: "DIC_kwDORFGf7c4C1qHO"
     mapping: pathname
     reactions_enabled: '1'
     emit_metadata: '0'
