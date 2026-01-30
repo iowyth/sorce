@@ -12,7 +12,7 @@ A curated collection of resources for artist-academics.
 
 A grassroots wiki created by graduate students addressing accessibility in academic studies. This community-maintained resource provides practical guidance for navigating graduate programs in communication and cultural studies.
 
-[Learn more about the Pirate Guide](/initiatives/pirate-guide/)
+[Learn more about the Pirate Guide]({{ '/initiatives/pirate-guide/' | relative_url }})
 
 ---
 

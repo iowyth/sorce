@@ -41,7 +41,7 @@ Rather than proceedings or papers, the conference generates:
 
 ## Get Involved
 
-Interested in participating in future Choose-Your-Own-Adventure events? [Join the discussion](https://github.com/{{ site.repository }}/discussions) or check our [Initiatives](/initiatives/) page for updates.
+Interested in participating in future Choose-Your-Own-Adventure events? [Join the discussion](https://github.com/{{ site.repository }}/discussions) or check our [Initiatives]({{ '/initiatives/' | relative_url }}) page for updates.
 
 ---
 

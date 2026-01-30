@@ -29,4 +29,4 @@ Unlike formal presentations or critiques, Show-and-Tell emphasizes:
 
 Show-and-Tell sessions are open to all members of the SORCE network and those interested in joining.
 
-Check our [Initiatives](/initiatives/) page for upcoming sessions, or [join the discussion](https://github.com/{{ site.repository }}/discussions) to propose topics.
+Check our [Initiatives]({{ '/initiatives/' | relative_url }}) page for upcoming sessions, or [join the discussion](https://github.com/{{ site.repository }}/discussions) to propose topics.

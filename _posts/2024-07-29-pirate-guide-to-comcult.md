@@ -30,7 +30,7 @@ The Pirate Guide is a living document. If you have experience to share, consider
 
 ## Access
 
-Visit the guide through our [Resources](/resources/) page.
+Visit the guide through our [Resources]({{ '/resources/' | relative_url }}) page.
 
 ---
 

@@ -36,4 +36,4 @@ To submit a post:
 2. Create a new file in the `_posts` folder following the naming convention: `YYYY-MM-DD-title.md`
 3. Submit a pull request
 
-[View contribution guidelines &rarr;](/contribute/)
+[View contribution guidelines]({{ '/contribute/' | relative_url }})

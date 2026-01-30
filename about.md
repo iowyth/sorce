@@ -45,7 +45,7 @@ There are no rigid requirements. Come as you are, contribute what you can.
 Interested in connecting with SORCE?
 
 - **Join the conversation** — Start or participate in [GitHub Discussions](https://github.com/{{ site.repository }}/discussions)
-- **Add your profile** — Submit a pull request to be listed on our [People](/people/) page
+- **Add your profile** — Submit a pull request to be listed on our [People]({{ '/people/' | relative_url }}) page
 - **Propose an initiative** — Share your ideas for events, workshops, or projects
 - **Contribute to this site** — Help build this collaborative resource
 
@@ -55,4 +55,4 @@ Interested in connecting with SORCE?
 
 This website is an experiment in collective knowledge-making, hosted on GitHub to enable collaborative editing and transparent development. Anyone can propose changes, add content, or start discussions.
 
-[Learn how to contribute](/contribute/)
+[Learn how to contribute]({{ '/contribute/' | relative_url }})
