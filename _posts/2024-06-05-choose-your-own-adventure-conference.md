@@ -4,45 +4,57 @@ title: "Choose-Your-Own-Adventure Conference"
 date: 2024-06-05
 author: SORCE Collective
 categories: [events, experiments]
-tags: [conference, interdisciplinary, experimental-format]
+tags: [conference, interdisciplinary, experimental-format, space-time]
 ---
 
-SORCE Collective is proud to present the **Choose-Your-Own-Adventure Conference** — an experimental event combining art-making with conversation, structured around spatial-temporal dimensions.
+On June 29th, 2024, SORCE Collective hosted the **Choose-Your-Own-Adventure Conference** at the Daphne Coxwell Complex in Toronto — an experimental gathering combining art-making with deep conversation, all while mapping the dimensions of space-time.
 
-## Rethinking the Conference
+## Rethinking the Conference Form
 
-Traditional academic conferences follow predictable formats: keynotes, parallel panels, Q&A sessions. The Choose-Your-Own-Adventure Conference asks: what if we organized knowledge exchange differently?
+Traditional academic conferences follow predictable formats: keynotes establish authority, parallel panels create artificial scarcity of attention, Q&A sessions enforce hierarchies between speakers and audiences. The Choose-Your-Own-Adventure Conference asked: what if we organized knowledge exchange around movement, choice, and embodied participation?
 
-## The Format
+Rather than synthesizing diverse responses into unified conclusions, this gathering aimed to generate a diverse ecology of responses that find shared resonance as perceivers reveal their different positions.
 
-Instead of linear programming, participants navigate through interconnected sessions based on their interests and curiosity. The conference is structured around:
+## Structure: Point, Line, Space, Time
 
-- **Spatial dimensions**: Different rooms/spaces hosting different modes of engagement
-- **Temporal dimensions**: Sessions that overlap, allowing for movement and choice
-- **Art-making**: Creative practice integrated throughout, not separated into "arts programming"
+The conference organized around four conceptual dimensions:
 
-## Key Features
+- **The Point** — foundational position-taking, where participants articulated their starting places
+- **The Line** — directional movement through ideas, tracing trajectories of thought
+- **The Space** — spatial relationships and occupation, attending to where bodies gather
+- **The Time** — temporal considerations and sequence, the rhythm of encounter
 
-### Non-linear Navigation
-Participants chart their own path through the conference, following threads of interest rather than predetermined schedules.
+Participants moved through these sections independently, reconvening in circle at designated intervals marked by a bell. This structure honored individual pathways while maintaining collective rhythm.
 
-### Integrated Practice
-Making is part of thinking. Sessions include hands-on creative elements alongside discussion.
+## Beginning with Land
 
-### Emergent Connections
-The structure encourages unexpected encounters and interdisciplinary exchange.
+The event opened with an extended land acknowledgment addressing all living things past, present, and future at the venue — including, poetically, "the cloud people" observing from the seventh floor. This wasn't perfunctory institutional language but an attempt to situate the gathering within longer histories of place and presence.
 
-## Outcomes
+## Participant Reflections
 
-Rather than proceedings or papers, the conference generates:
-- Collaborative artworks
-- New connections and future collaborations
-- Shared documentation and reflection
+Poet Kyra Min Poole, reflecting on the experience, described how the day prompted sustained contemplation about "circularity and universality" and "what it means to occupy space and land as beings made up by space and land."
 
-## Get Involved
+She appreciated the informal structure that allowed "casual conversations centred around research desires and creation outputs" rather than enforced formal presentations. The format created space for emergence rather than performance.
+
+## Accessibility as Foundation
+
+The venue provided elevators, accessible entrances, quiet spaces for sensory sensitivities, and dietary accommodations including vegan and gluten-free options. Accessibility wasn't an afterthought but a condition for the kind of gathering SORCE wanted to create.
+
+## What Emerged
+
+Rather than conference proceedings or published papers, the gathering generated:
+
+- Collaborative artworks created through shared making
+- New connections and potential future collaborations
+- Shared documentation and collective reflection
+- Questions that participants carried forward into their own practices
+
+## The Format as Research-Creation
+
+This event format is itself an ongoing experiment in research-creation methodology. How does the structure of a gathering shape what knowledge can emerge? What becomes possible when we refuse the conventions that academic events typically enforce?
+
+We welcome feedback, critique, and iterations. The Choose-Your-Own-Adventure Conference isn't a finished form but an invitation to keep experimenting with how we come together to think.
+
+---
 
 Interested in participating in future Choose-Your-Own-Adventure events? [Join the discussion](https://github.com/{{ site.repository }}/discussions) or check our [Initiatives]({{ '/initiatives/' | relative_url }}) page for updates.
-
----
-
-*This event format is itself an ongoing experiment. We welcome feedback and iterations.*
