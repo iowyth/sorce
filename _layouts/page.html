@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="page">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+
+  {% if page.editable != false %}
+  <div class="page-edit">
+    <a href="https://github.com/{{ site.repository }}/edit/main/{{ page.path }}" target="_blank">
+      Suggest an edit on GitHub
+    </a>
+  </div>
+  {% endif %}
+</article>

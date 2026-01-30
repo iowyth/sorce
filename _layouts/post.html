@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% if page.author %} &bull; {{ page.author }}{% endif %}
+      {% if page.categories.size > 0 %}
+        &bull;
+        {% for category in page.categories %}
+          <a href="{{ '/blog/category/' | append: category | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="post-tags">
+    <strong>Tags:</strong>
+    {% for tag in page.tags %}
+      <a href="{{ '/blog/tag/' | append: tag | relative_url }}" class="tag">{{ tag }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="post-edit">
+    <a href="https://github.com/{{ site.repository }}/edit/main/{{ page.path }}" target="_blank">
+      Edit this post on GitHub
+    </a>
+  </div>
+
+  {% if page.comments %}
+  <div class="post-comments">
+    <h2>Discussion</h2>
+    {% include giscus.html %}
+  </div>
+  {% endif %}
+
+  <nav class="post-navigation">
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | relative_url }}" class="prev">&larr; {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.title }} &rarr;</a>
+    {% endif %}
+  </nav>
+</article>
