@@ -4,114 +4,94 @@ permalink: /wiki/research-ethics/
 section: Program Requirements
 ---
 
-If your research involves human participants, you must obtain ethics approval before beginning any data collection. Both York and TMU have Research Ethics Boards (REBs) that review research to ensure it meets ethical standards and protects participants.
+People talk about the research ethics board with fear and anxiety. It can often be a mystifying process, with many back and forth interactions that can take many months. Those on the research ethics boards are volunteers, who are attempting to interpret the ethical guidelines of the Tri-Council Policy Statement (TCPS2).
 
-## When Do You Need Ethics Approval?
+## Important Links
 
-### You Need REB Approval If Your Research Involves:
+- [TCPS2 Full Statement](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html)
+- [Official TCPS2 Training](https://tcps2core.ca/)
+- [Research Ethics FAQ](https://www.torontomu.ca/research/resources/ethics/)
 
-- Interviews (in-person, phone, video)
-- Surveys or questionnaires
-- Focus groups
-- Observation of people (even in public spaces, in some cases)
-- Analysis of personal data or records
-- Any direct interaction with human participants
-- Secondary use of data that contains identifying information
+### REB Drop-in Office Hours
 
-### You May NOT Need REB Approval For:
+Zoom every Thursday between 10 am - 12 pm.
+- Meeting ID: 949 1974 0301
 
-- Textual analysis of published works
-- Analysis of publicly available data (with some exceptions)
-- Archival research with historical documents (depending on content)
-- Artistic practice that doesn't involve research on human subjects
+## How to Apply
 
-**When in doubt, consult with your supervisor or the REB office.** It's better to ask than to start research that should have been reviewed.
+**Portal:** my.torontomu.ca → "Online Ethics Protocol Submission"
 
-## Before You Apply
+**What to include:** Recruitment notices, consent forms and data collection forms that include surveys, questionnaires and interview guides must be submitted with the application form.
 
-### Complete the TCPS 2 CORE Tutorial
+The TCPS2 training is often considered essential for those working in research and may be a requirement when accepting research focused positions.
 
-Before submitting an ethics application, you must complete the Tri-Council Policy Statement (TCPS 2) CORE tutorial. This online course covers the ethical principles that govern research with human participants in Canada.
+It may seem like the demands of the research ethics board are set in stone, yet it is important to remember that the board members are still individuals. Considering that they have a limited time to review applications, these volunteers are attempting to interpret and apply complex research ethics protocols to new research. It is possible to present grounded arguments in response to requested revisions, entering into a good faith dialogue around best practices.
 
-- [TCPS 2 CORE Tutorial](https://tcps2core.ca/)
-- Takes 2-3 hours to complete
-- You'll receive a certificate when finished
-- Include this certificate with your ethics application
+The research ethics board, while primarily concerned with ethics, is also interested in protecting the university from complaints and legal blowback from bad studies. Ensuring ethical boundaries in your own studies may benefit from thinking alongside and beyond board recommendations as some methods are unfairly excluded when they upset institutional practices. University regulations regarding community consent may not always take into consideration the complex intersections of committing to ethical praxis within marginalised communities, especially when it comes to who owns the data, who benefits from the research, and who controls what facts are determined? Therefore, it is important to extend ethical considerations beyond the recommendations of the ethics board.
 
-### Prepare Your Materials
+## Contacts
 
-Before applying, you'll need:
+**Frederica Berdini** (she/they), PhD
+Research Ethics Administrator
+416-979-5000 ext. 552963
+fberdini@torontomu.ca
 
-- Detailed methodology
-- All research instruments (interview guides, surveys, etc.)
-- Recruitment materials (emails, posters, scripts)
-- Informed consent forms
-- Data management and security plan
-- Risk assessment
+**Melissa Sidhu**
+Research Ethics Administrator
+416-979-5000 ext. 552963
+melissa.sidhu@torontomu.ca
 
-### Discuss with Your Supervisor
+**Seema Tejani**, B.A/B.Ed
+Research Ethics Administrator
+416-979-5000 ext. 552963
+stejani2@torontomu.ca
 
-Go through your ethics application with your supervisor before submitting. They can help you anticipate issues and strengthen your application.
+### Considerations Regarding Vulnerable Communities to Which You Are a Member
 
-## The Application
+Volunteer members of the research ethics boards may not understand the ethical nuances of working within marginalised or diverse communities. It may therefore be important to advocate for appropriate ethical approaches, grounded in community standards. Research ethics boards can have their own problems with diversity, and as such, it is important to know that you can guard your community against institutional over-reach by knowing your rights.
 
-### What's Included
+## Ethics Applications
 
-Your application typically includes:
+**Policy 51:** Ethical conduct for research involving human participants
 
-- Description of your research and its purpose
-- Methodology and procedures
-- Participant recruitment strategies
-- Informed consent process and forms
-- Data storage and security plans
-- Risk assessment and mitigation
-- Copies of all research instruments
+### Principles
 
-### Review Process
+1. **Respect for persons:** respect for autonomy and protecting against diminished autonomy
+2. **Concern for welfare:** protecting physical, mental, and spiritual health, and avoiding negative effects and risks
+3. **Justice:** treating people equitably and fairly
 
-- **Delegated review**: For minimal risk research, reviewed by designated REB members. Faster turnaround.
-- **Full board review**: For higher risk research (vulnerable populations, sensitive topics, etc.). Reviewed at monthly board meetings.
+All research involving human participants that makes reference to Toronto Metropolitan University or uses its resources to carry out research, requires ethics board approval.
 
-### Timeline
+> "The ethics review process itself must be fair both in standards and procedures, as well as impartial towards particular proposals and independent of institutional agendas or pressures."
 
-Plan ahead! The ethics approval process takes time:
+Once you gain approval, it is valid for one year after the original date of approval. After this, you need to submit extensions if the research continues past this date. You can also file changes to your research once in the system. Submitting a final report means that your study is no longer active. This closes your protocol.
 
-- **Delegated review**: 2-4 weeks (if no revisions needed)
-- **Full board review**: 4-8 weeks (must align with board meeting schedule)
-- **Revisions**: Add additional time if changes are requested
+## Minimal vs. High Risk Studies
 
-**Do not schedule interviews or begin data collection until you have approval.** Research conducted without ethics approval is a serious violation.
+**Minimal risk:** "research in which the probability and magnitude of possible harms implied by participation in the research is no greater than those encountered by participants in those aspects of their everyday life that relate to the research."
 
-## Common Issues and Revisions
+Anything beyond this scope is considered to contain risk, with high risk activities being those well beyond the scope of everyday life and especially concerning vulnerable populations, especially when researchers are not themselves part of that population.
 
-Most applications require some revisions. Common issues include:
+## Primary vs. Secondary Data
 
-- **Insufficient methodological detail**: Be specific about what you'll do
-- **Unclear or overly complex consent forms**: Use plain language
-- **Inadequate data security plans**: Explain where and how data will be stored
-- **Missing information about risks**: Even minimal risk research has some risks
-- **Recruitment issues**: Ensure voluntary participation, especially with vulnerable populations
+**Primary data** is data that you personally collect during the course of a study.
 
-### Amendments
+**Secondary data** has already been collected by someone else and is publicly available.
 
-If your research changes after approval (new questions, different participant group, extended timeline), you must submit an amendment before implementing changes.
+## Appeals to REB Decisions
 
-## Resources
+Researchers can appeal within 30 days of receiving notice on an REB decision. If not properly resolved, researchers can write to the Vice-President, Research and Innovation:
 
-### York University
+**Steven N. Liss:** ovpri@torontomu.ca (extension 555283)
 
-- [Office of Research Ethics](https://www.yorku.ca/research/research-ethics/)
-- [Ethics Application Forms](https://www.yorku.ca/research/research-ethics/human-participants/)
+## What is NOT Covered by the TCPS2
 
-### Toronto Metropolitan University
+- Studies based on publicly available information
+- Internal evaluations to improve institutional practices
+- Research done for other reasons that contribute to generalizable knowledge
+- Creative and artistic endeavours not involving human participants
 
-- [Research Ethics Board](https://www.torontomu.ca/research/resources/ethics/)
-- [REB Application Process](https://www.torontomu.ca/research/resources/ethics/human-research/applying/)
-
-### General Resources
-
-- [TCPS 2 CORE Tutorial](https://tcps2core.ca/) — Required training
-- [Tri-Council Policy Statement (TCPS 2)](https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html) — The official policy document
+It is possible to create a public performance or creative output and then to analyse that output rather than using the creative process as a study—the output becomes a publicly available media able to be analysed from that angle. To avoid ethics involvement, you cannot collect information on an audience or analyse behaviours ethnographically. You can, however, reflect on your own experiences.
 
 ---
 

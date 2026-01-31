@@ -4,110 +4,65 @@ permalink: /wiki/publishing/
 section: Academic Life
 ---
 
-Publishing is an important part of academic life, though the pressure to publish can feel overwhelming. This section covers the basics of academic publishing and some strategies for getting your work out there.
+Publishing is an important activity for those who want to pursue a career as an academic. There can be a rather toxic dynamic of "publish or perish" amongst academic scholars that can lead to toxic productivity culture and interpersonal competition, so we can also think about it as "connect and thrive". We all need to develop productive relationships with those we can converse and work with, including as co-authors and collaborators. These relationships are vitally important to the development of a network and this can lead to opportunities in the future. For example, gathering together scholars into edited collections is only possible when scholars form networks, where strong scholarship can be drawn together into larger volumes.
 
-## Why Publish?
+Many people start out by publishing a book review in a more accessible journal. You may be able to get access to free books when doing such a review, especially through informal channels. There are many open-source publications that will enable you to get your work out there, while also being accessible to early career academics. The "impact factor" is one way to assess the importance of a publication but citations aren't always a marker of importance. Often peer-reviewed journals are considered more reputable, merely due to their more rigorous refinement process.
 
-Publishing allows you to:
+Open-access journal articles are the easiest research to access and can be most effectively communicated beyond the borders of the academy. Many journals have been advocating for more open-source sharing of publicly funded knowledge as a contribution to the public good. It is also to the benefit of early career academics to be able to share their publications with as wide an audience as possible in order to maximise their potential impact. Forging coalitions within smaller publishing circles, with local independent journals can also be a way of forming new ways of working and thinking. Engaging in strong relationship building can lead to long-term sustainable working dynamics that lead to greater success through investment in community infrastructures. For marginalised scholars, these networks are all the more vital when facing institutional pushback and discrimination.
 
-- Contribute to scholarly conversations in your field
-- Build your academic profile and CV
-- Share your research with a wider audience
-- Meet requirements for some funding applications and jobs
-- Develop your writing and revision skills
-- Get feedback on your work from peer reviewers
+## Submitting a Paper for Peer-Review
 
-## Types of Publications
+You can create an account with an academic journal and submit a paper through their system. Different journals will have different processes for this, so be sure to read through their submissions page to flag formatting considerations, journal scope, and other relevant details. Different journals use different forms of citation, for example, and will expect submitted papers and manuscripts to adhere to their internal standards.
 
-### Peer-Reviewed Journal Articles
+Once you have submitted a paper to a peer-reviewed journal, it will then be sent to be reviewed, often by two reviewers with expertise in your area of research. This can take literally forever. Certain journals can take years between submission and publication. For this reason, you need to manage invitations to revise and resubmit, which can sometimes come back at inconvenient times with the expectation of a quick turnaround.
 
-The "gold standard" of academic publishing. Your article is reviewed by experts in your field (usually anonymously) before being accepted for publication.
+### Possible Outcomes
 
-- **Open access journals**: Free for anyone to read; may charge author processing fees (APCs)
-- **Traditional/subscription journals**: Readers pay (usually through library subscriptions); typically no fees for authors
-- **Hybrid journals**: Subscription-based but offer open access option for a fee
+- **Rejected** (womp-womp)
+- **Substantially revise:** you need major structural changes, but if you can successfully make these, you may be accepted upon resubmission
+- **Revise and resubmit:** there are minor issues, but if you can fix these, it is likely you will be accepted
+- **Accepted:** a highly unlikely outcome, sort of like a unicorn
 
-### Book Chapters
+### Responding to Reviewers
 
-Contributing to edited collections is another way to publish. These may or may not be peer-reviewed, and the process is often faster than journals.
+You will need to respond to reviewer critiques. It can be helpful to go through the critiques systematically, separating them out into a document that lists each critique as an action point. As you respond to the critique, you may want to include specific snippets of your text into this separate document. This allows reviewers to quickly see how and where you have responded to their critiques. This can lead to them feeling less stressed out by you, and they might be more favourable to your work for this reason.
 
-### Conference Proceedings
+After you have finished your revisions, you will re-submit your piece, including the document you have drafted to reply to reviewer critiques. After this, if you need to do further revisions, this may be allowed, but it may also lead you to be conditionally rejected with an invitation to submit at a later date.
 
-Some conferences publish proceedings that include full papers or extended abstracts. The prestige varies by field.
+## Where To Publish
 
-### Book Reviews
+- [TMU Affiliated Journals](https://library.torontomu.ca/publishing/)
+- [York Affiliated Journals](https://www.library.yorku.ca/web/research/publishing/)
 
-Writing book reviews is a good way to start publishing and to engage with new scholarship. Many journals actively seek graduate student reviewers.
+### Interesting Alternative Journals
 
-### Popular and Public Writing
+- [First Monday](https://firstmonday.org/)
+- [Imaginations: Journal of Cross Cultural Image Studies](https://imaginationsjournal.ca/)
+- [Atlantis: Critical Studies in Gender, Culture, and Social Justice](https://journals.msvu.ca/index.php/atlantis)
+- [Canadian Journal of Theology, Mental Health and Disability](https://cjtmhd.ca/)
+- [Review of Education, Pedagogy, and Cultural Studies](https://www.tandfonline.com/toc/gred20/current)
+- [Fast Capitalism](https://fastcapitalism.journal.library.uta.edu/)
+- [Murmurations: Journal of Transformative Systemic Practice](https://murmurations.cloud/)
 
-Academic ideas shared in non-academic venues: blogs, magazines, podcasts, newspapers, public lectures. Increasingly valued, though not always "counted" for academic purposes.
+## Publishing a Book
 
-## The Publishing Process
+You can publish your Master's Thesis, Dissertation, or other work by turning it into a book. If you have a contact at a publishing house, you would ideally send them an inquiry with a short proposal. You might want to include a table of contents, with short descriptions of each chapter, as well as a sample chapter. For cold submissions, you will need to review the publisher's website and adhere to their desired formats. This can be anywhere from submitting the full manuscript to a similar query with a table of contents and sample chapter.
 
-### Finding the Right Venue
+Publishers will often be interested in your proposed audience, similar books in your field, why you want to publish with them specifically, and any plans you may have for the promotion of your work. Search their back catalogues for work that might be similar to your own. It may be helpful to demonstrate how your work would add to their catalogue, extending or changing what they are already offering.
 
-- Read journals in your field to understand their scope and style
-- Check recent issues to see what they're publishing now
-- Look at where your sources and citations are published
-- Ask your supervisor and peers for suggestions
-- Check acceptance rates and review times (some journals are very slow)
+This proposal is often something that is sent out to reviewers who may then have comments on the scope and focus of your publication. This may require you to change the framing of the overall book, adding or subtracting things that may make it a stronger publication (at least in their opinion). You would then be asked to resubmit your proposal with a changed framing.
 
-### Preparing Your Submission
+A **monograph** is a book published under one author, but other popular formats are books containing a collection of essays written by different people with an editor or group of editors who work to make this a cohesive whole. These editors will often write a preface and/or introduction to the collection that gives the book its shape. The only thing you need to create such a book is a solid network and a good idea that draws the interest of those working on the problem. This can be a great way to gather strength in numbers.
 
-- Follow the journal's submission guidelines exactly
-- Write a clear, compelling abstract
-- Prepare a cover letter explaining why your article fits the journal
-- Format citations and bibliography correctly
-- Have someone else proofread before you submit
+Another way to do this, is to work collaboratively between several authors on one text, so each author might contribute to parts or to the whole text. This requires much more detailed collaborative work, but these kinds of efforts are drawing attention and can be a good way to leverage multiple viewpoints and areas of expertise to create a better book overall. For example, if a social scientist paired up with a data scientist, they could work together to create compelling data visualizations of social phenomena.
 
-### Peer Review
+### Updating Your Thesis/Dissertation Format
 
-Your article will be sent to 2-3 experts who provide anonymous feedback. Possible outcomes:
+The thesis/dissertation format is a bit too on the nose for publishers and so, it is likely that you will have to change the format to be more approachable to readers. A thesis will often have a literature review and methodology section. These can become part of an introductory chapter. Rewriting these sections to appeal to lay readers, means making the language more simple and straight-forward, avoiding jargon and making the work more approachable. This may then mean attempting to think through your audience, why they are reading your book, and what is important to tell this audience about your approach. Why would this approach speak to them? What can you say about your methods that would take them out of academia and into the wider world? It can be helpful to think of how to ground your work in a human way.
 
-- **Accept**: Rare on first submission; your article is accepted as-is
-- **Accept with minor revisions**: Small changes required; usually accepted after revision
-- **Revise and resubmit (R&R)**: More substantial changes needed; no guarantee of acceptance but encouraging
-- **Reject**: The article isn't right for this journal; you're free to submit elsewhere
+Thinking through the narrative of the overall work can also be helpful. To reach a wider audience, you are going to be guiding them through your process and findings. Establishing a narrative throughout can help readers to move through this in an easier way. Establishing a narrative can also help to make your writing more engaging. This may be helpful to keep in mind when you are writing your dissertation, as creating approachable and grounded work that engages in a clear narrative can also help others to understand and apply the knowledge you are sharing.
 
-### Responding to Reviews
-
-- Take reviewer feedback seriously, but not personally
-- Respond to each point, even if you disagree
-- Write a detailed response letter explaining your revisions
-- You don't have to accept every suggestion, but you should explain why not
-- Be professional and gracious in your response
-
-### Rejection
-
-Rejection is a normal part of academic publishing. Even successful scholars get rejected regularly.
-
-If rejected:
-- Give yourself time to process the disappointment
-- Read the feedback carefully — often there's useful critique
-- Revise if the feedback is helpful
-- Submit to another journal
-- Remember: rejection is about fit, not your worth as a scholar
-
-## Tips for Graduate Students
-
-- **Start early**: Publishing takes much longer than you expect
-- **Develop coursework into publications**: Papers you wrote for class can become articles
-- **Collaborate**: Co-authoring with peers or supervisors can help you learn the process
-- **Don't wait until it's perfect**: Perfectionism stops many good articles from ever being submitted
-- **Celebrate acceptances**: They're hard to get!
-- **Learn from rejections**: They're part of the process
-
-## Predatory Journals
-
-Watch out for predatory journals that charge fees but don't provide real peer review. Red flags include:
-
-- Unsolicited emails asking you to submit
-- Very fast promised review times
-- Vague or no information about the editorial board
-- High fees with no clear value
-
-If you're unsure, ask your supervisor or check resources like Think Check Submit.
+Great resources for making your research more publishable are these books by William Germano: *Getting it Published* and *From Dissertation to Book*.
 
 ---
 

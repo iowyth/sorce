@@ -4,7 +4,11 @@ permalink: /wiki/masters-students/
 section: Program Requirements
 ---
 
+ComCult at TMU and York is an orphan program located under the Yeates School of Graduate and Postdoctoral Studies and the Faculty of Graduate Studies. Professors affiliated with ComCult are all rooted in other departments. Affiliation with ComCult includes some teaching and departmental duties. As such, the department does not have any dedicated faculty and thus faculty will have varying levels of understanding around ComCult specific regulations and processes.
+
 ## Coursework
+
+*Note that York and TMU semesters do not start on the same day! Pay attention to this so that you do not miss a class.*
 
 MA students in Communication and Culture must complete **9.0 credits** of coursework total.
 
@@ -35,6 +39,10 @@ You may take as many courses as you can or want. If you are on fellowship fundin
 Half courses are 0.5 credits (lectures are typically 3h once a week) and are offered either in the Fall (Sep-Dec) or Winter (Jan-Apr) semesters. Full year courses are 1.0 credits (lectures are 1.5h or 2h twice a week) and usually run from September through April. If they are required courses, there will be a 3h lecture once a week for the first half of the year, and they will switch to an independent study for the second half.
 
 When it comes to coursework, there are several different forms of evaluation. While the two required courses often involve response papers and a major research paper, many other courses may incorporate oral presentations and alternative formats. It is important to look at the modes of evaluation for any course that you decide to take to ensure that they are in alignment with your goals and learning capacities. A good approach is to take a course where you will work on something that you can later integrate into your MRP or dissertation.
+
+### Directed Reading Courses
+
+Directed reading courses are offered by individual faculty members, consisting of reading lists developed in collaboration between faculty and individual students. Faculty are not paid extra for these courses and can be reluctant to take them on unless the readings have specific interest for them. If the faculty member you approach to supervise this research might receive some benefit from the knowledge you are assembling, they are more likely to be tempted to host you.
 
 ## MRP vs Thesis
 

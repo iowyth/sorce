@@ -4,111 +4,85 @@ permalink: /wiki/dissertation-proposal/
 section: Program Requirements
 ---
 
-The dissertation proposal outlines your research plan and demonstrates that you are ready to undertake dissertation research. It is developed after comprehensive exams and must be approved by your committee.
+**Official Regulations:**
+- [TMU Dissertation Requirements](https://www.torontomu.ca/graduate/current-students/)
+- [York Dissertation Requirements](https://www.yorku.ca/gradstudies/students/current-students/)
+- [York Guide to Dissertation Formatting](https://www.yorku.ca/gradstudies/students/current-students/thesis-dissertation/)
 
-## What Is a Dissertation Proposal?
+> "The purpose, meaning, and scope of the PhD are changing in response to profound changes in both the academy and society. University researchers are increasingly engaged with other societal sectors and across disciplinary boundaries to address contemporary challenges. Doctoral graduates are contributing to society in increasingly varied ways and contexts. To engage in these diverse forms of research and to work and communicate both within and beyond the confines of the academy, doctoral students and graduates require new competencies. As the core of the PhD, the doctoral dissertation is diversifying in its forms and content in step with these changes… The report concludes with a call to action for universities. The dissertation is changing, and it is crucial that our policies and practices acknowledge and facilitate this reality, so that we can fulfil our mandate to promote and ensure the highest standards of scholarly rigour."
 
-The proposal is a document that:
+## Considerations for Students
 
-- Articulates your research question(s)
-- Situates your project within relevant scholarly conversations
-- Describes your methodology and theoretical framework
-- Outlines your chapter structure
-- Presents a realistic timeline
+- How does your form and format hold scholarly merit?
+- Are there practical applications in line with your aspirations?
+- What is the relevance in pursuing this alternative mode of research?
+- Is the project possible in a reasonable time frame without stressin' everyone?
+- Could you all stand behind the thesis or dissertation in the years to come?
+- Does the outcome of the research project reflect a good direction for you?
+- How could you disseminate the value to your research through other means?
+- Can you say why a particular medium or proposed format is important?
 
-Think of it as a contract between you and your committee about what your dissertation will do.
+## Traditional Formatting
 
-## Components of a Proposal
+**Basic Requirements:**
+- Title, name of the supervisor and the supervisory committee
+- Length: 8-10 pages + bibliography (maximum = 3500 words)
 
-While formats vary based on your field and committee preferences, most proposals include:
+### Title
+
+Quick and direct, name the subject of your research (a.k.a. the point).
 
 ### Introduction
 
-- Clear statement of your research question(s)
-- Significance of the study — why does this matter?
-- Overview of the project and its contributions
-- What gap or problem you're addressing
+Describe your project and say why you are doing this project, in this specific way.
 
-### Literature Review
+### Objectives
 
-- Key conversations in your field
-- How your work relates to existing scholarship
-- Gaps your research addresses
-- Your theoretical framework and key concepts
+- Share a problem or question with how you intend to respond
+- Go into your perspective
+- Present how these thoughts extend, add, or subtract to ongoing discourse
 
-### Methodology
+### Methods and Sources
 
-- Research design and approach
-- Data collection methods (if applicable)
-- Analysis approach
-- Materials you'll be working with
-- Ethical considerations
-- Limitations and scope
+- Describe how you are doing your project: the how
+- Describe your source: the who, what, where, when
+- Discuss what problems might arise, and how you propose to engage
 
-### Chapter Outline
+### Relationship to Existing Literature or Professional Practice
 
-- Proposed chapter structure
-- Brief description of each chapter's content and argument
-- How chapters build on each other
+- Discuss where you are and who will read this
+- Review the literature
+- Say how your work fits or doesn't
 
-### Timeline
+### Chapter or Section Outline
 
-- Realistic schedule for completion
-- Key milestones (chapter drafts, ethics approval, etc.)
-- Any constraints (funding end date, life circumstances)
+Propose a structure for the dissertation.
 
-### Bibliography
+### Timeline to Completion
 
-- Sources consulted and anticipated
-- Usually 50-100+ sources
+**Example Timeline #1:**
+- Literature review: January-February
+- Interviews / archival work: March-April
+- Analysis: May-June
+- Writing: July-August
+- Completion: September 15
 
-## Length
+**Example Timeline #2:**
+- Literature review: January-June
+- Writing/embedded activism: June 2024 - January 2025
+- Writing/analysis/activism: January-January
+- Activism/writing: next January
+- Completion: 2028
 
-Proposals typically range from 20-50 pages, though this varies significantly. Some committees want comprehensive documents; others prefer concise statements. Consult with your supervisor about appropriate length and depth for your committee.
+**Example Timeline #3:**
+- Spacetime breaks down
+- We return to being ethereal jellyfish
 
-## The Proposal Defense
+### Select Bibliography
 
-Most proposals are defended orally before your committee. This meeting is an opportunity to:
-
-- Present your research plan
-- Receive feedback and suggestions
-- Clarify your approach
-- Discuss potential challenges
-- Demonstrate your readiness to proceed
-
-### Preparing for the Defense
-
-- Know your proposal thoroughly
-- Anticipate questions and objections
-- Prepare a brief presentation (10-20 minutes, unless told otherwise)
-- Prepare to discuss alternatives and limitations
-- Have honest answers about things you're still figuring out
-- Remember: your committee wants you to succeed
-
-### During the Defense
-
-- Listen carefully to questions
-- Take notes on feedback
-- Ask for clarification if needed
-- It's okay to say "I don't know, but here's how I might find out"
-- Treat it as a collaborative conversation
-
-### After the Defense
-
-Possible outcomes:
-
-- **Approved**: You're ready to proceed!
-- **Approved with minor revisions**: Small changes needed, then proceed
-- **Major revisions required**: More substantial work before approval
-- **Resubmission required**: Significant reconceptualization needed (rare)
-
-Most students pass with some revisions. Incorporate committee feedback and get final approval before beginning your dissertation research.
-
-## Ethics Approval
-
-If your research involves human participants, you will need ethics approval from the Research Ethics Board **before** you begin data collection. See the [Research Ethics]({{ '/wiki/research-ethics/' | relative_url }}) section for more information.
-
-Start the ethics process early — it can take several months.
+- Theoretical works relevant to your methods
+- Works important to your topic
+- Any accepted citation form can be used, but not too many footnotes…
 
 ---
 

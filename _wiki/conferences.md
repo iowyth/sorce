@@ -1,5 +1,5 @@
 ---
-title: "Conferences"
+title: "Conferences & Presentations"
 permalink: /wiki/conferences/
 section: Academic Life
 ---
@@ -36,33 +36,40 @@ Some major conferences where ComCult students present:
 - **Specialized conferences**: Smaller gatherings focused on your specific area
 - **Interdisciplinary conferences**: Good for broadening your perspective
 
-## The Submission Process
+## Types of Presentations
 
-### Finding Calls for Papers (CFPs)
+### Poster Presentations
 
-- Sign up for mailing lists in your field
-- Follow organizations and scholars on social media
-- Check [H-Net](https://networks.h-net.org/), [UPenn CFP list](https://call-for-papers.sas.upenn.edu/), and discipline-specific lists
-- Ask your supervisor and colleagues what conferences they recommend
+Poster presentations involve creating a visual display of your research that you present in a dedicated session. Attendees walk around viewing posters and speaking with presenters. These are often seen as more casual but can be great for in-depth one-on-one conversations about your work.
 
-### Writing Abstracts
+### Conference Papers
 
-Most conferences require abstract submissions (usually 150-500 words). A strong abstract:
+Conference papers are written documents that you may read or present from. Some conferences require submission of a full paper before or after the conference. The paper format allows for more detailed argumentation than a presentation alone.
 
-- Clearly states your argument or research question
-- Indicates your methodology or approach
-- Suggests your contribution to the field or conversation
-- Is well-written, specific, and error-free
-- Matches the conference theme (if there is one)
+### Conference Presentations
 
-### Panels
+Oral presentations are typically 15-20 minutes where you share your research with an audience, followed by Q&A. This is the most common conference format.
 
-Some conferences accept panel proposals (3-4 presenters on a common theme). Panels can be:
+## Fording Difficult Questions
 
-- **Pre-constituted**: You organize the panel and submit it together
-- **Formed by organizers**: Individual submissions grouped by theme
+Questions after presentations can be nerve-wracking. Some tips:
 
-Organizing a panel can increase your chances of acceptance and lets you shape the conversation.
+- It's okay to take a moment to think before answering
+- If you don't know the answer, say so honestly and offer to follow up
+- "That's a great question that I'm still thinking through" is a valid response
+- Redirect to what you do know if a question is outside your scope
+- Hostile questions are rare, but if they happen, stay calm and professional
+- You can say "I'd love to discuss this more after the session"
+
+## After Hours Networking
+
+A lot of conference networking happens outside of formal sessions — at receptions, dinners, and informal gatherings. This can be challenging for introverts or those uncomfortable in social situations.
+
+- You don't have to attend everything
+- Find one or two people to talk to rather than working the whole room
+- It's okay to leave early if you're exhausted
+- Coffee breaks and meals are lower-pressure networking opportunities
+- Following up after the conference is just as valuable as connecting in person
 
 ## Funding
 
@@ -77,25 +84,7 @@ Conferences can be expensive (registration, travel, accommodation, food). Look f
 
 **Apply early** — many funding sources have limited pools and deadlines well before the conference.
 
-## At the Conference
-
-### Presenting Your Work
-
-- Practice your presentation multiple times before the conference
-- Time yourself (most presentations are 15-20 minutes; respect the limit)
-- Prepare for questions
-- Bring notes, but don't just read them
-- Have backup plans for technology failures
-
-### Networking
-
-- Attend panels beyond your own area — you might discover new connections
-- Go to receptions and social events (this is where a lot of networking happens)
-- Introduce yourself to scholars whose work you admire (they're usually happy to meet you!)
-- Exchange contact information (or just find them on social media later)
-- Follow up after the conference with people you connected with
-
-### Self-Care at Conferences
+## Self-Care at Conferences
 
 Conferences can be exhausting, especially for introverts or those with social anxiety.
 
@@ -105,13 +94,6 @@ Conferences can be exhausting, especially for introverts or those with social an
 - Get enough sleep
 - Find quiet spaces when you need to recharge
 - It's okay to skip the reception and go to bed
-
-## After the Conference
-
-- Follow up with people you met
-- Revise your paper based on feedback you received
-- Consider submitting to journals or other publications
-- Reflect on what you learned and what you'd do differently
 
 ---
 

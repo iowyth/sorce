@@ -77,6 +77,41 @@ Your union and association can help with benefits, advocacy, and community.
 
 **TTC**: Both campuses are accessible by TTC. York is at the end of Line 1 (Keele Campus). TMU is downtown near Dundas and Yonge.
 
+## Booking Space on Campus
+
+### TMU
+- [Stuff Happening on Campus, Booking Spaces](https://www.torontomu.ca/student-life-and-learning/)
+- Booking Rooms at the DCC (email Sarah to set-up Skedda account)
+- The Active Learning Classroom
+
+### York
+- [York Library Bookings](https://www.library.yorku.ca/web/study-work/)
+- [York Athletic Bookings](https://www.yorku.ca/athletics/)
+- [York Study Rooms](https://www.library.yorku.ca/web/study-work/)
+- [Bookable Spaces at York](https://www.yorku.ca/gradstudies/)
+
+## Interesting Places
+
+### TMU
+- [The Collaboratory](https://www.torontomu.ca/collaboratory/) — Maker space
+- [The Innovation Studio](https://www.torontomu.ca/)
+- [The Catalyst](https://www.torontomu.ca/catalyst/)
+- TMU Urban Farm: DCC 8th floor
+- The Music Den
+- [DMZ Tech Incubator](https://dmz.torontomu.ca/)
+- [Artspace TMU](https://www.torontomu.ca/the-creative-school/)
+- [Allan Slaight Radio Institute](https://www.torontomu.ca/the-creative-school/)
+- [Digital Media Experience Lab](https://www.torontomu.ca/the-creative-school/)
+- The Fashion Zone: Design Incubator
+- The Centre for Excellence in Teaching and Learning
+
+### York
+- [The Sensorium](https://sensorium.info.yorku.ca/) — Media arts, performance, & digital tech
+- [York U Art Gallery](https://yufoundation.ca/artgallery/)
+- [Digital Scholarship Center](https://www.library.yorku.ca/web/research/digital-scholarship/) — Equipment Loans & space
+- Sound and Moving Image Archive
+- Dispersion Lab
+
 ---
 
 *Have a link to add or update? Edit this page to contribute.*

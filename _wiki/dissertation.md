@@ -4,138 +4,25 @@ permalink: /wiki/dissertation/
 section: Program Requirements
 ---
 
-The dissertation is the culminating project of your PhD. It is an original contribution to knowledge in your field.
+A dissertation follows a recognizable format: if it looks and functions like a dissertation, it will likely be accepted as such. The key is ensuring it meets enough of the standard elements to be defensible. Departments and supervisors may vary in their openness to experimental methods or unconventional structures, so proposing an unorthodox format depends on how supportive and flexible your academic environment is.
 
-## What Is a Dissertation?
+At its core, the dissertation is a long-form argument aimed at a specific audience, including your supervisor, committee members, examiners, department chairs, and the broader academic discipline you're engaging with. The success of this argument requires both intellectual exploration and social navigation, as the research process is shaped by departmental dynamics and interpersonal relationships.
 
-A dissertation is an extended scholarly work that:
+Those involved in evaluating your work impose both explicit and implicit boundaries on what is considered "appropriate" and "rigorous." These standards are flexible and influenced by biases, including those rooted in white supremacy and colonialism, which can marginalise non-traditional or Indigenous forms of knowledge. Consequently, some valuable knowledge may be excluded, while other forms that align with established norms may not be truly ethical or appropriate. The quality and integrity of the knowledge produced are, therefore, shaped by the people and systems involved in the process.
 
-- Makes an original contribution to your field
-- Demonstrates your ability to conduct independent research
-- Engages deeply with scholarly conversations
-- Is typically 200-400 pages (though this varies by field)
+## Constructing Your Argument
 
-The dissertation is what transforms you from a student into a scholar.
+To construct a persuasive argument, it helps to think of it as a story. Even in positivist frameworks, where factual mechanisms are central, the narrative needs to explain how these facts intersect with existing knowledge to make the material comprehensible. Knowing your audience—those engaged with similar questions—guides the depth and focus of your explanation.
 
-## Structure
+The way you communicate your findings should adapt to the context of the discussion and the people involved. Rather than limiting the scope of the study, this relational approach allows complex ideas to be conveyed simply, while broader theoretical insights can be made applicable through focused, case-specific examples. Framing your argument as a discussion opens space for broad intellectual exploration, which can then be strategically narrowed to fit the contextual needs of your field.
 
-Dissertations vary in structure depending on field and methodology. Common formats include:
+## E-Learning Portals
 
-### Traditional Format
+Both York and TMU have e-learning systems for managing coursework and accessing resources:
 
-- Introduction (setting up the problem, questions, approach)
-- Literature Review / Theoretical Framework
-- Methodology
-- Analysis Chapters (usually 3-5 chapters)
-- Conclusion
-
-### Article-Based Format
-
-Some programs allow article-based dissertations:
-
-- Introduction
-- 3-4 publishable articles (some may already be published)
-- Conclusion connecting the articles
-
-Discuss format options with your supervisor and committee early in the process.
-
-## Writing the Dissertation
-
-### Getting Started
-
-- You don't have to write in order — many people write the introduction last
-- Start with the chapter you're most excited about
-- Set realistic goals: a page a day, a section a week
-- Perfectionism is the enemy of progress
-
-### Staying on Track
-
-- Write regularly, even when you don't feel like it
-- Set up accountability structures (writing groups, check-ins)
-- Protect your writing time
-- Take breaks and maintain your health
-- Celebrate small milestones
-
-### Getting Feedback
-
-- Share drafts with your supervisor as you go
-- Don't wait until something is "perfect"
-- Be specific about what feedback you need
-- Give your supervisor time to read (2+ weeks for chapters)
-
-### Common Challenges
-
-- **Perfectionism and procrastination**: Done is better than perfect
-- **Isolation**: Find community with other dissertators
-- **Imposter syndrome**: This is normal; you belong here
-- **Balancing writing with life**: Protect your time, but also protect your life
-- **Knowing when you're done**: Your committee will help with this
-
-You are not alone in facing these challenges. Reach out to peers, your supervisor, and support services.
-
-## The Defense
-
-### What Is the Defense?
-
-The dissertation defense (also called the oral examination or viva) is a formal examination where you present and defend your dissertation before your committee.
-
-### Scheduling
-
-Work with your supervisor and the Graduate Program Director to schedule your defense:
-
-- Submit your dissertation to your committee with adequate notice (usually 4-6 weeks minimum)
-- Coordinate schedules for all committee members plus external examiner
-- Book a room
-- Complete all required paperwork
-
-### The Defense Format
-
-A typical defense at York/ComCult includes:
-
-1. **Opening presentation** (20-30 minutes): Present your research and key arguments
-2. **Committee questions** (1-2 hours): Each committee member asks questions in turn
-3. **External examiner questions**: The external examiner (who hasn't met you before) asks questions
-4. **Public questions** (if applicable): Questions from audience members
-5. **Deliberation**: Committee discusses in private while you wait
-6. **Result**: Committee announces their decision
-
-### Preparing for the Defense
-
-- Know your dissertation thoroughly — reread it before the defense
-- Anticipate likely questions (your supervisor can help)
-- Practice your presentation
-- Prepare for both big-picture and detailed questions
-- Think about what you would do differently or what's next
-- Get enough sleep the night before
-- Remember: you are the expert on your own work
-
-### Possible Outcomes
-
-- **Pass**: Congratulations, Doctor!
-- **Pass with minor revisions**: Small changes, usually completed quickly
-- **Pass with major revisions**: More substantial changes required
-- **Revise and resubmit**: Rare; significant work needed before degree is awarded
-
-The vast majority of students who reach the defense stage pass. Your committee would not let you defend if they didn't believe you were ready.
-
-## After the Defense
-
-### Revisions
-
-Most students have some revisions to complete. Work with your supervisor to address committee feedback and submit your final version according to FGS guidelines.
-
-### Submission
-
-Submit your final dissertation to the Faculty of Graduate Studies. Follow all formatting and submission guidelines carefully — there are specific requirements for margins, fonts, title pages, etc.
-
-### Convocation
-
-Apply to graduate and attend convocation to receive your degree!
-
-### Celebration
-
-You did it! Take time to celebrate this major accomplishment. You've earned it.
+- **York**: [eClass (Moodle)](https://eclass.yorku.ca/)
+- **TMU**: [D2L Brightspace](https://my.torontomu.ca)
 
 ---
 
-*Have tips for dissertation writing or the defense? Edit this page to contribute.*
+*Have tips for dissertation writing? Edit this page to contribute.*
