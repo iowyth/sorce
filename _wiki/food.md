@@ -13,14 +13,14 @@ Graduate student stipends can make eating well a challenge. Here are some resour
 ### Campus Food Banks
 
 **York**
-- [YFS Food Bank](https://www.yfs.ca/food-bank)
-- Location: Scott Library
+- [YFS Food Support Centre](http://www.yfs.ca/fsc)
+- Location: Members' Services Office, Room 106, First Student Centre
 - No questions asked, available to all students
 
 **TMU**
-- [TMU Food Centre](https://www.torontomu.ca/goodfood/)
-- Good Food Centre in Student Campus Centre
-- Free groceries for students
+- [TMU Good Food Centre](https://www.torontomu.ca/tmueats/food-security/)
+- Location: SCC B-03A, 55 Gould St., Basement
+- Register as a member to access groceries
 
 ### Community Resources
 

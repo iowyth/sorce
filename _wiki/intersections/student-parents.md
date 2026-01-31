@@ -31,12 +31,13 @@ Parenting while in graduate school brings unique joys and challenges. This secti
 ### On Campus
 
 **York**
-- [York Childcare Centre](https://yorkchildcare.yorku.ca/)
+- [York University Co-operative Daycare](https://www.yorku.ca/services/daycare/)
+- [FGS Childcare Resources](https://gradstudies.yorku.ca/current-students/campus-resources/childcare/)
 - Family-friendly spaces on campus
 - Parenting rooms for nursing/pumping
 
 **TMU**
-- [TMU Early Learning Centre](https://www.torontomu.ca/early-learning-centre/)
+- TMU Early Learning Centre
 - Parenting rooms on campus
 
 ### Off Campus

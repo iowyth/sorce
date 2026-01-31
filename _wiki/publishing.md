@@ -31,8 +31,8 @@ After you have finished your revisions, you will re-submit your piece, including
 
 ## Where To Publish
 
-- [TMU Affiliated Journals](https://library.torontomu.ca/publishing/)
-- [York Affiliated Journals](https://www.library.yorku.ca/web/research/publishing/)
+- [TMU Library Publishing](https://library.torontomu.ca/)
+- [York Open Access Publishing](https://www.library.yorku.ca/web/research-learn/research/oapublishing/)
 
 ### Interesting Alternative Journals
 

@@ -27,16 +27,16 @@ The York University Graduate Students' Association (YUGSA) provides health and d
 - Eye exams
 - Prescription glasses/contacts allowance
 
-[YUGSA Health Plan details](https://yugsa.ca/services/health-plan/) | [Green Shield Portal](https://www.greenshield.ca/)
+[YUGSA Health Plan details](https://www.yugsa.ca/health-plan) | [ClaimSecure Portal](https://www.claimsecure.com/)
 
-### TMU (GSU)
+### TMU (TMGSU)
 
-The Graduate Students' Union at TMU provides similar coverage:
+The Toronto Metropolitan Graduate Students' Union (TMGSU) provides similar coverage through **Greenshield**:
 
 - Extended health
 - Dental
 - Vision
-- [GSU Health Plan details](https://www.rsugsu.ca/)
+- [TMGSU Health Plan details](https://www.tmgsu.ca/health-dental-plan)
 
 ### Opting Out
 

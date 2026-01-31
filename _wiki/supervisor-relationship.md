@@ -21,7 +21,7 @@ All activities outside of these official duties, including meeting frequency, co
 
 ## Finding a Supervisor and Committee
 
-If you are completely at a loss of who might fit with your research, the [York program website](https://www.yorku.ca/gradstudies/communication-and-culture/) has a search option for the faculty that can be very helpful.
+If you are completely at a loss of who might fit with your research, the [York program website](https://www.yorku.ca/gradstudies/cmct/) has a search option for the faculty that can be very helpful.
 
 ### Considerations When Locating an Appropriate Supervisor
 

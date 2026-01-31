@@ -39,7 +39,7 @@ BIPOC students often face:
 - Various racialized student groups
 
 **Toronto Metropolitan University**
-- [Aboriginal Student Services](https://www.torontomu.ca/aboriginal/)
+- [Indigenous Student Services](https://www.torontomu.ca/indigenous-student-services/)
 - [Office of Equity and Community Inclusion](https://www.torontomu.ca/equity/)
 - Black Students' Association
 - Various cultural student groups

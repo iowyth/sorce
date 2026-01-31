@@ -108,7 +108,7 @@ Your union can help with:
 - Contract Lecturers (Unit 1)
 - Continuing Education Instructors (Unit 2)
 
-[CUPE 3904 website](https://cupe3904.org/)
+[CUPE 3904 website](https://www.cupe3904.org/)
 
 ### Why This Matters
 

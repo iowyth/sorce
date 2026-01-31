@@ -35,10 +35,10 @@ Decisions about disclosure are personal. Consider:
 
 ### York University
 
-- [Centre for Sexual and Gender Diversity](https://www.yorku.ca/scld/sexual-and-gender-diversity/)
+- [SexGen York Committee](https://rights.info.yorku.ca/sexgen-york-committee/)
+- [LGBTQ* Campus Organizations](https://rights.info.yorku.ca/lgbtq-campus-organizations/)
 - Trans@York
-- LGBTQ+ student groups
-- Sexuality Studies as a field of study
+- [School of Gender, Sexuality & Women's Studies](https://www.yorku.ca/laps/gsws/)
 
 ### Toronto Metropolitan University
 

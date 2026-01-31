@@ -5,9 +5,9 @@ section: Program Requirements
 ---
 
 **Official Regulations:**
-- [TMU Dissertation Requirements](https://www.torontomu.ca/graduate/current-students/)
-- [York Dissertation Requirements](https://www.yorku.ca/gradstudies/students/current-students/)
-- [York Guide to Dissertation Formatting](https://www.yorku.ca/gradstudies/students/current-students/thesis-dissertation/)
+- [TMU Graduate Student Guide](https://www.torontomu.ca/graduate/student-guide/)
+- [York FGS Current Students](https://www.yorku.ca/gradstudies/students/current-students/)
+- [York Thesis & Dissertation](https://www.yorku.ca/gradstudies/students/current-students/thesis-and-dissertation/)
 
 > "The purpose, meaning, and scope of the PhD are changing in response to profound changes in both the academy and society. University researchers are increasingly engaged with other societal sectors and across disciplinary boundaries to address contemporary challenges. Doctoral graduates are contributing to society in increasingly varied ways and contexts. To engage in these diverse forms of research and to work and communicate both within and beyond the confines of the academy, doctoral students and graduates require new competencies. As the core of the PhD, the doctoral dissertation is diversifying in its forms and content in step with these changes… The report concludes with a call to action for universities. The dissertation is changing, and it is crucial that our policies and practices acknowledge and facilitate this reality, so that we can fulfil our mandate to promote and ensure the highest standards of scholarly rigour."
 

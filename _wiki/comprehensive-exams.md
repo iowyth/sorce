@@ -66,8 +66,8 @@ Committees will often select those questions that appear to be invested with spe
 - Is your question grounded, enabling you to selectively read your texts?
 
 **Request Your Exam:**
-- [TMU Exam Request](https://www.torontomu.ca/graduate/current-students/forms/)
-- [York Exam Request](https://www.yorku.ca/gradstudies/students/current-students/student-forms/)
+- [TMU Forms & Resources](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/)
+- [York FGS Forms](https://www.yorku.ca/gradstudies/students/current-students/registration-enrolment/fgs-forms/)
 
 ## Writing Your Comps Papers
 
