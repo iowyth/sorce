@@ -63,4 +63,17 @@ document.addEventListener('DOMContentLoaded', function() {
       link.setAttribute('rel', 'noopener noreferrer');
     }
   });
+
+  // Wiki navigation: scroll to top when clicking sidebar links
+  const wikiNav = document.querySelector('.wiki-nav');
+  if (wikiNav) {
+    wikiNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', function() {
+        // Small delay to allow page load, then scroll to top
+        setTimeout(() => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        }, 50);
+      });
+    });
+  }
 });
