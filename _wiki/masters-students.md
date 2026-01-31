@@ -6,11 +6,29 @@ section: Program Requirements
 
 ## Coursework
 
-As of Fall 2022, only three courses are required for the MA:
+MA students in Communication and Culture must complete **9.0 credits** of coursework total.
 
-- CMCT 6000 (York) / CC 8915 (TMU) in Year 1 Fall Semester
-- CMCT 6001 (York) / CC 8916 (TMU) in Year 1 Winter Semester
-- One additional half-course from either institution
+### Required Core Courses
+
+| TMU Code | York Code | Course Title |
+|----------|-----------|--------------|
+| CC 8902 | CMCT 6000 | Research Methodologies |
+| CC 8905 | CMCT 6001 | MA Research Specialization and Practice |
+| CC 8906 | — | Communication and Culture: An Interdisciplinary Approach |
+
+### Electives
+
+The remaining credits come from specialization electives (approximately 5 credits), organized into three groups:
+- **Group I**: Communication Theory
+- **Group II**: Culture Theory
+- **Group III**: Research Methodologies
+
+### Completion Options (1 credit)
+
+You must complete one of the following:
+- **Research Paper** (MRP) — most common option
+- **Thesis** — involves committee and defense
+- **Project** — creative or applied work
 
 You may take as many courses as you can or want. If you are on fellowship funding through the department, however, you get free courses, and the faculty pays per course, so don't go crazy. That said, a lot of learning and networking happens during the courses that happens nowhere else; it's nice to take full advantage of the courses offered.
 

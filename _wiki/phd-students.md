@@ -6,14 +6,22 @@ section: Program Requirements
 
 ## Coursework
 
-PhD students in Communication and Culture must complete a minimum of 4.0 credits (8 half-courses) of coursework.
+PhD students in Communication and Culture must complete **6.0 credits** of coursework (typically 6 one-credit courses or equivalent).
 
 ### Required Courses
 
-- CMCT 7000 (York) / CC 9000 (TMU) - PhD Seminar, typically in Year 1
-- Additional courses as determined by your supervisor and committee
+The following core courses are required:
 
-### Course Selection
+| TMU Code | York Code | Course Title |
+|----------|-----------|--------------|
+| CC 9900 | CMCT 7000 | Doctoral Research and Scholarly Writing |
+| CC 9904 | — | Doctoral Research Specialization and Practice |
+| CC 9906 | — | Communication and Culture: An Interdisciplinary Approach (Doctoral) |
+
+The remaining credits come from specialization electives, which are organized into three groups:
+- **Group I**: Communication Theory
+- **Group II**: Culture Theory
+- **Group III**: Research Methodologies
 
 You may take courses at either York or TMU. When selecting courses, consider:
 

@@ -8,14 +8,26 @@ section: Living Well
 
 Graduate students at York and TMU have access to health benefits through their student unions.
 
-### York (GSA)
+### York (YUGSA)
 
-The York Graduate Students' Association (YUGSA) provides health and dental coverage:
+The York University Graduate Students' Association (YUGSA) provides health and dental coverage through **Green Shield Canada**:
 
-- Extended health (prescriptions, paramedical, etc.)
-- Dental coverage
-- Vision care
-- [YUGSA Health Plan details](https://yugsa.ca/services/health-plan/)
+**Extended Health Coverage includes:**
+- Prescription drugs (80% coverage, up to $3,000/year)
+- Paramedical services (massage, physio, chiro, etc.)
+- Mental health practitioners (psychologist, social worker)
+- Medical equipment and supplies
+
+**Dental Coverage includes:**
+- Preventive care (cleanings, exams)
+- Basic services (fillings, extractions)
+- Some major services
+
+**Vision Care:**
+- Eye exams
+- Prescription glasses/contacts allowance
+
+[YUGSA Health Plan details](https://yugsa.ca/services/health-plan/) | [Green Shield Portal](https://www.greenshield.ca/)
 
 ### TMU (GSU)
 
@@ -28,7 +40,13 @@ The Graduate Students' Union at TMU provides similar coverage:
 
 ### Opting Out
 
-If you have equivalent coverage elsewhere (parent's plan, spouse's plan, etc.), you may be able to opt out and receive a refund. Check deadlines carefully - they're usually early in the fall term.
+If you have equivalent coverage elsewhere (parent's plan, spouse's plan, ODSP, etc.), you may be able to opt out and receive a refund.
+
+**Important:**
+- Opt-out deadlines are typically within the **first few weeks of September** — check exact dates each year
+- You need proof of alternative coverage
+- Once you opt out, you cannot opt back in until the next enrollment period
+- Consider carefully — the student plan is often better and cheaper than alternatives
 
 ## Mental Health Resources
 

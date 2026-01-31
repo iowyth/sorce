@@ -103,9 +103,12 @@ Your union can help with:
 
 ### Toronto Metropolitan University
 
-**CUPE 233** represents Teaching Assistants and other graduate employees.
+**CUPE 3904** represents:
+- Teaching Assistants, Graduate Assistants, and Sessional Instructors (Unit 3)
+- Contract Lecturers (Unit 1)
+- Continuing Education Instructors (Unit 2)
 
-[CUPE 233 website](https://cupe233.ca/)
+[CUPE 3904 website](https://cupe3904.org/)
 
 ### Why This Matters
 

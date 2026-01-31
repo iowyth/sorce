@@ -29,7 +29,7 @@ The primary federal funding source for humanities and social sciences research i
 #### SSHRC Doctoral Fellowship
 
 - **For**: Doctoral students
-- **Amount**: $20,000/year for up to 4 years
+- **Amount**: $40,000/year for 1-3 years
 - **Competitiveness**: Less competitive than CGS-D
 - **Deadline**: Usually October (same application as CGS-D)
 
