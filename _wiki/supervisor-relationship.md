@@ -4,25 +4,27 @@ permalink: /wiki/supervisor-relationship/
 section: Program Requirements
 ---
 
-## Finding a Supervisor
+Your supervisor is your main point of contact for your graduate studies. This is also the relationship you might encounter the most difficulties with, and where the power dynamics are the most imbalanced. Below are some things to consider when looking for a supervisor, as well as for the relationship itself.
 
-Finding a supervisor is one of the most important decisions you will make in your graduate career. Your supervisor will guide your research, provide feedback on your work, and advocate for you within the program and beyond.
+## Why Does This Relationship Matter?
 
-### Before You Approach Someone
+- Your supervisor is your main advocate in the program
+- They provide guidance on your research direction
+- They sign off on your major milestones
+- They write reference letters for jobs and further study
+- The relationship can significantly impact your wellbeing
 
-- Research faculty members whose work aligns with your interests
-- Read their publications
-- Attend their talks or lectures if possible
-- Ask current students about their experiences
+## Looking for a Supervisor
 
-### Making Contact
+We hope that you found a supervisor before you started your program. At the same time, it may be the case that you are looking for a new supervisor, either because yours has become unavailable (sabbatical, departure, conflict) or because you haven't found one yet. When looking for a supervisor there are many things to consider.
 
-When reaching out to a potential supervisor:
+### Questions to Ask Yourself
 
-- Be clear about your research interests
-- Explain why you think they would be a good fit
-- Ask if they are taking on new students
-- Request a meeting to discuss further
+- What are you working on?
+- What supervision style matches your work style?
+- Do you want a supervisor who is hands-on or hands-off?
+- How often do you want to meet?
+- Do you want someone in your specific field or adjacent?
 
 ### Questions to Ask Potential Supervisors
 
@@ -31,9 +33,18 @@ When reaching out to a potential supervisor:
 - What are your expectations for student progress?
 - How do you prefer to give feedback?
 - What is your current workload like?
-- Do you have funding available for students?
+- Are you planning any sabbaticals or leaves?
 
-## Working with Your Supervisor
+### Questions to Ask Their Students
+
+One of the best ways to learn about a potential supervisor is to ask their current or former students:
+
+- What is it like to work with them?
+- How responsive are they?
+- What are meetings like?
+- Would you recommend them?
+
+## Maintaining the Relationship
 
 ### Communication
 
@@ -46,10 +57,12 @@ Clear, regular communication is essential. Establish early on:
 
 ### Managing Expectations
 
-Be honest about:
+Be honest with your supervisor about:
+
 - Your progress and any challenges
-- Your timeline and commitments
+- Your timeline and external commitments
 - Your needs for support or guidance
+- When things aren't working
 
 ### When Things Get Difficult
 
@@ -59,13 +72,15 @@ Supervisory relationships can be challenging. If you're experiencing difficultie
 - Seek advice from other faculty members you trust
 - Contact the Graduate Program Director
 - Reach out to the graduate student association
-- Know that changing supervisors, while difficult, is sometimes necessary
+- Know that changing supervisors, while difficult, is sometimes necessary and more common than you think
 
 ## Changing Supervisors
 
-Sometimes a supervisory relationship doesn't work out. This is more common than you might think. If you need to change supervisors:
+Sometimes a supervisory relationship doesn't work out. This is more common than you might think, and it is not a reflection of your worth as a student.
 
-- Reflect on what isn't working and what you need
+If you need to change supervisors:
+
+- Reflect on what isn't working and what you need differently
 - Speak with the Graduate Program Director
 - Approach potential new supervisors carefully
 - Be professional in your transition

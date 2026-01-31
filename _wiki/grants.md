@@ -4,38 +4,45 @@ permalink: /wiki/grants/
 section: Finances & Employment
 ---
 
+External grants can significantly improve your financial situation during graduate school and strengthen your CV. This section covers major funding opportunities and tips for applying.
+
 ## Major Funding Sources
 
 ### SSHRC (Social Sciences and Humanities Research Council)
 
-The primary federal funding source for humanities and social sciences research in Canada.
+The primary federal funding source for humanities and social sciences research in Canada. Most ComCult students are eligible for SSHRC funding.
 
-**Canada Graduate Scholarships - Master's (CGS-M)**
-- For master's students
-- $17,500 for one year
-- Applied through your institution
+#### Canada Graduate Scholarships - Master's (CGS-M)
 
-**Canada Graduate Scholarships - Doctoral (CGS-D)**
-- For doctoral students
-- $35,000/year for 3 years
-- Highly competitive
+- **For**: Master's students
+- **Amount**: $17,500 for one year
+- **Applied through**: Your institution (internal competition first)
+- **Deadline**: Usually early December for the following September
 
-**SSHRC Doctoral Fellowship**
-- For doctoral students
-- $20,000/year for up to 4 years
-- Less competitive than CGS-D
+#### Canada Graduate Scholarships - Doctoral (CGS-D)
 
-**Joseph-Armand Bombardier CGS (Master's and Doctoral)**
-- Same amounts as above
-- Different application streams
+- **For**: Doctoral students
+- **Amount**: $35,000/year for 3 years
+- **Competitiveness**: Highly competitive (national competition)
+- **Deadline**: Usually October
+
+#### SSHRC Doctoral Fellowship
+
+- **For**: Doctoral students
+- **Amount**: $20,000/year for up to 4 years
+- **Competitiveness**: Less competitive than CGS-D
+- **Deadline**: Usually October (same application as CGS-D)
+
+When you apply for CGS-D, you're automatically considered for the Doctoral Fellowship if you don't receive CGS-D.
 
 ### OGS (Ontario Graduate Scholarship)
 
-Provincial funding for graduate students in Ontario.
+Provincial funding for graduate students studying in Ontario.
 
-- $5,000 per term (up to $15,000/year)
-- Available for master's and doctoral students
-- Applied through your institution
+- **Amount**: $5,000 per term (up to $15,000/year)
+- **For**: Both master's and doctoral students
+- **Applied through**: Your institution
+- **Deadline**: Varies by institution, usually early spring
 
 ### Internal Awards
 
@@ -44,50 +51,73 @@ Both York and TMU offer numerous internal awards and bursaries:
 - Entrance scholarships
 - Continuing student awards
 - Research-specific awards
-- Travel grants
+- Travel grants for conferences
 - Need-based bursaries
 
-Check with your graduate program and Financial Aid office regularly.
+**Check award databases regularly** — many go unclaimed because students don't know about them or don't apply.
 
 ## The Application Process
 
-### Timelines
+### Timeline
 
-Most major awards have fall deadlines (September-November) for the following year. Start early!
+Most major awards have fall deadlines (September-November) for funding starting the following September. This means:
 
-### Components
+- **Summer/early fall**: Develop your proposal
+- **Fall**: Submit applications
+- **Winter/spring**: Results announced
+- **Following September**: Funding begins
 
-Typical application materials include:
+Start early! Good applications take time.
 
-- Research proposal
-- Personal statement
-- Transcripts
-- Letters of reference (usually 2-3)
-- CV
+### Typical Components
+
+Most funding applications include:
+
+- **Research proposal**: What you plan to research and why it matters
+- **Personal statement**: Your background, preparation, and goals
+- **Transcripts**: Academic record
+- **Letters of reference**: Usually 2-3, from people who know your work
+- **CV**: Your academic and relevant experience
 
 ### Writing a Strong Proposal
 
-- Clear, focused research question
-- Significance and contribution
-- Feasible methodology
-- Realistic timeline
-- Well-written and error-free
+Your research proposal is usually the most important part. A strong proposal:
+
+- Has a clear, focused research question
+- Explains why the research matters (significance and contribution)
+- Describes a feasible methodology
+- Shows you know the relevant literature
+- Is realistic about timeline and scope
+- Is well-written, clear, and error-free
 
 ### Getting Feedback
 
-- Ask your supervisor to review drafts
-- Use writing center resources
-- Peer review with other applicants
-- Apply to workshops on grant writing
+- Ask your supervisor to review drafts well before the deadline
+- Use writing center resources if available
+- Exchange drafts with other applicants for peer feedback
+- Attend workshops on grant writing (check FGS and your department)
 
 ## If You Don't Get It
 
-Rejection is common and not a reflection of your worth as a scholar.
+Rejection is common and does not mean your research isn't valuable or that you're not a good scholar.
 
-- Read any feedback carefully
+- Many successful academics were rejected for major grants multiple times
+- Read any feedback you receive carefully
 - Revise and apply again next year
 - Look for alternative funding sources
-- Many successful scholars were rejected multiple times
+- Don't let rejection define your self-worth
+
+## Beyond the Big Ones
+
+There are many other funding sources:
+
+- Professional association awards
+- Foundation grants (check those relevant to your topic)
+- Research-specific grants
+- Travel and conference funding
+- Awards for specific identity groups or research areas
+
+Ask your supervisor and check with FGS for opportunities you might not know about.
 
 ---
 

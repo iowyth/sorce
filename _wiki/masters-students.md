@@ -4,68 +4,29 @@ permalink: /wiki/masters-students/
 section: Program Requirements
 ---
 
-## Coursework Requirements
+## Coursework
 
 As of Fall 2022, only three courses are required for the MA:
 
 - CMCT 6000 (York) / CC 8915 (TMU) in Year 1 Fall Semester
 - CMCT 6001 (York) / CC 8916 (TMU) in Year 1 Winter Semester
-- One additional half course from either institution
+- One additional half-course from either institution
 
-You may take courses at either university. Half courses (0.5 credits) count as a single course. Full year courses (1.0 credits) may count as two courses toward your requirements.
+You may take as many courses as you can or want. If you are on fellowship funding through the department, however, you get free courses, and the faculty pays per course, so don't go crazy. That said, a lot of learning and networking happens during the courses that happens nowhere else; it's nice to take full advantage of the courses offered.
 
-## Timeline
+Half courses are 0.5 credits (lectures are typically 3h once a week) and are offered either in the Fall (Sep-Dec) or Winter (Jan-Apr) semesters. Full year courses are 1.0 credits (lectures are 1.5h or 2h twice a week) and usually run from September through April. If they are required courses, there will be a 3h lecture once a week for the first half of the year, and they will switch to an independent study for the second half.
 
-### Year 1
+When it comes to coursework, there are several different forms of evaluation. While the two required courses often involve response papers and a major research paper, many other courses may incorporate oral presentations and alternative formats. It is important to look at the modes of evaluation for any course that you decide to take to ensure that they are in alignment with your goals and learning capacities. A good approach is to take a course where you will work on something that you can later integrate into your MRP or dissertation.
 
-**Fall Semester**
-- Complete CMCT 6000 / CC 8915
-- Begin exploring potential supervisors
-- Attend departmental events and get to know your cohort
+## MRP vs Thesis
 
-**Winter Semester**
-- Complete CMCT 6001 / CC 8916
-- Complete your third required course
-- Secure a supervisor
-- Begin developing your MRP topic
+Picking between an MRP (Major Research Paper) or a thesis is another decision that many MA students will deliberate on. This choice isn't available to all students: some students may come in on funding or admission that is contingent on the completion of one format or the other. If you are not contingent, the main thing to consider here is: do you want to do a PhD?
 
-**Summer**
-- Work on MRP proposal
-- Form your committee (if applicable)
+### Why Choose an MRP?
+- If you choose an MRP, you are probably not going to do a PhD. An MRP is probably not going to qualify as a writing sample for PhD applications. You might still want a PhD and that's okay! But you won't have an MRP to bolster your PhD application. If you're not doing a PhD, an MRP is a great way to engage deeply in your research and writing practice without spending months in a project that may not be applicable outside of the academy.
 
-### Year 2
-
-**Fall Semester**
-- Complete MRP research and writing
-- Regular meetings with supervisor
-
-**Winter Semester**
-- Final MRP revisions
-- Submit and defend MRP
-- Graduate!
-
-## The Major Research Paper (MRP)
-
-The MRP is your culminating project for the MA. It is typically:
-
-- 50-70 pages in length
-- Supervised by one faculty member
-- May include a second reader or small committee
-- Does not require a formal oral defense (though some supervisors prefer one)
-
-### Finding Your Topic
-
-Your MRP topic should:
-- Connect to your interests and expertise
-- Be manageable within the time frame
-- Align with your supervisor's areas of knowledge
-
-### Working with Your Supervisor
-
-Regular communication with your supervisor is essential. Establish early on:
-- How often you will meet
-- How you prefer to receive feedback
-- Timeline expectations for drafts and revisions
+### Why Choose a Thesis?
+- If you choose a thesis, you are probably thinking about doing a PhD, since a thesis is often a preliminary writing sample for PhD applications. A thesis will involve a lot more writing, research, and defense time than an MRP, as well as a lot of back and forth with your committee. If you pick a thesis, you are asking to do a PhD half a year before you finish your PhD, regardless of whether you actually want to do a PhD. So, if you want to do a PhD, it's a great way to get a head start!
 
 ---
 
