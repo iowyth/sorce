@@ -19,7 +19,9 @@ Our approach to liberatory methods is to create community access through informa
 
 ## Access
 
-To get access to the guide, please submit a request or access the guide through the Discordant Communications Discord Server in #accommodations and support.
+**[View the Pirate Guide Wiki →]({{ '/wiki/' | relative_url }})**
+
+The guide is now hosted on this site and open for collaborative editing. You can also access the guide through the Discordant Communications Discord Server in #accommodations and support.
 
 ---
 
