@@ -1,0 +1,90 @@
+---
+layout: default
+---
+<div class="wiki-container">
+  <aside class="wiki-sidebar">
+    <nav class="wiki-nav">
+      <h3><a href="{{ '/wiki/' | relative_url }}">Pirate Guide</a></h3>
+
+      <h4>Getting Started</h4>
+      <ul>
+        <li><a href="{{ '/wiki/introduction/' | relative_url }}">Introduction</a></li>
+        <li><a href="{{ '/wiki/important-links/' | relative_url }}">Important Links</a></li>
+      </ul>
+
+      <h4>Program Requirements</h4>
+      <ul>
+        <li><a href="{{ '/wiki/masters-students/' | relative_url }}">Masters Students</a></li>
+        <li><a href="{{ '/wiki/phd-students/' | relative_url }}">PhD Students</a></li>
+        <li><a href="{{ '/wiki/supervisor-relationship/' | relative_url }}">Supervisor Relationship</a></li>
+        <li><a href="{{ '/wiki/committee/' | relative_url }}">Committee</a></li>
+        <li><a href="{{ '/wiki/comprehensive-exams/' | relative_url }}">Comprehensive Exams</a></li>
+        <li><a href="{{ '/wiki/dissertation-proposal/' | relative_url }}">Dissertation Proposal</a></li>
+        <li><a href="{{ '/wiki/dissertation/' | relative_url }}">Dissertation</a></li>
+        <li><a href="{{ '/wiki/research-ethics/' | relative_url }}">Research Ethics Board</a></li>
+      </ul>
+
+      <h4>Academic Life</h4>
+      <ul>
+        <li><a href="{{ '/wiki/publishing/' | relative_url }}">Publishing</a></li>
+        <li><a href="{{ '/wiki/conferences/' | relative_url }}">Conferences</a></li>
+        <li><a href="{{ '/wiki/presentations/' | relative_url }}">Presentations</a></li>
+      </ul>
+
+      <h4>Finances & Employment</h4>
+      <ul>
+        <li><a href="{{ '/wiki/finances/' | relative_url }}">Finances</a></li>
+        <li><a href="{{ '/wiki/employment/' | relative_url }}">Employment</a></li>
+        <li><a href="{{ '/wiki/grants/' | relative_url }}">Grants</a></li>
+      </ul>
+
+      <h4>Living Well</h4>
+      <ul>
+        <li><a href="{{ '/wiki/healthcare/' | relative_url }}">Healthcare</a></li>
+        <li><a href="{{ '/wiki/food/' | relative_url }}">Food</a></li>
+        <li><a href="{{ '/wiki/housing/' | relative_url }}">Housing</a></li>
+      </ul>
+
+      <h4>Intersections</h4>
+      <ul>
+        <li><a href="{{ '/wiki/intersections/disabled-neurodiverse/' | relative_url }}">Disabled/Neurodiverse</a></li>
+        <li><a href="{{ '/wiki/intersections/first-generation/' | relative_url }}">First Generation</a></li>
+        <li><a href="{{ '/wiki/intersections/international/' | relative_url }}">International</a></li>
+        <li><a href="{{ '/wiki/intersections/bipoc/' | relative_url }}">BIPOC</a></li>
+        <li><a href="{{ '/wiki/intersections/queer/' | relative_url }}">Queer</a></li>
+        <li><a href="{{ '/wiki/intersections/student-parents/' | relative_url }}">Student Parents</a></li>
+        <li><a href="{{ '/wiki/intersections/part-time/' | relative_url }}">Part-Time</a></li>
+      </ul>
+
+      <div class="wiki-contribute">
+        <a href="https://github.com/{{ site.repository }}/tree/main/_wiki">+ Add a Section</a>
+      </div>
+    </nav>
+  </aside>
+
+  <article class="wiki-content">
+    <header class="wiki-header">
+      <h1>{{ page.title }}</h1>
+      {% if page.section %}
+      <p class="wiki-section-label">{{ page.section }}</p>
+      {% endif %}
+    </header>
+
+    <div class="wiki-body">
+      {{ content }}
+    </div>
+
+    <footer class="wiki-footer">
+      <div class="wiki-edit">
+        <a href="https://github.com/{{ site.repository }}/edit/main/{{ page.path }}" target="_blank">
+          Edit this page on GitHub
+        </a>
+      </div>
+      {% if page.comments != false %}
+      <div class="wiki-comments">
+        {% include comments.html %}
+      </div>
+      {% endif %}
+    </footer>
+  </article>
+</div>

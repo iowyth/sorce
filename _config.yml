@@ -23,6 +23,9 @@ collections:
   initiatives:
     output: true
     permalink: /initiatives/:name/
+  wiki:
+    output: true
+    permalink: /wiki/:path/
 
 # Defaults
 defaults:
@@ -47,6 +50,12 @@ defaults:
       type: "people"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "wiki"
+    values:
+      layout: "wiki"
+      comments: true
 
 # Pagination
 paginate: 5
