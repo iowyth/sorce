@@ -110,17 +110,18 @@ a:hover {
 }
 
 .site-nav {
-  display: flex;
-  gap: 1.5rem;
+  display: block;
   padding: 1rem 2.5rem;
   background: transparent;
   border: 3px solid var(--primary-blue);
   border-top: none;
   border-radius: 0 0 2rem 2rem;
-  justify-content: center;
+  text-align: center;
 }
 
 .site-nav a {
+  display: inline-block;
+  margin: 0 0.75rem;
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
