@@ -164,7 +164,7 @@ a:hover {
   padding: 1.5rem 2.5rem;
   border: 3px solid var(--primary-blue);
   border-radius: 2rem;
-  background: transparent;
+  background-color: transparent !important;
 }
 
 .site-footer p {
@@ -179,7 +179,7 @@ a:hover {
 
 /* Home Page */
 .home-intro {
-  background: transparent;
+  background-color: transparent !important;
   padding: 3rem;
   border-radius: 2rem;
   margin-bottom: 3rem;
@@ -196,7 +196,7 @@ a:hover {
 }
 
 .posts-list li {
-  background: transparent;
+  background-color: transparent !important;
   padding: 1.5rem 2rem;
   margin-bottom: 1rem;
   border-radius: 2rem;
@@ -227,7 +227,7 @@ a:hover {
 
 /* Post/Page Styles */
 .post, .page {
-  background: transparent;
+  background-color: transparent !important;
   padding: 2.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
@@ -366,7 +366,7 @@ li {
 }
 
 .person-card {
-  background: transparent;
+  background-color: transparent !important;
   padding: 1.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
@@ -389,7 +389,7 @@ li {
 }
 
 .initiative-card {
-  background: transparent;
+  background-color: transparent !important;
   padding: 2rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
@@ -471,7 +471,7 @@ li {
 }
 
 .wiki-nav {
-  background: transparent;
+  background-color: transparent !important;
   padding: 1.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
@@ -541,7 +541,7 @@ li {
 }
 
 .wiki-content {
-  background: transparent;
+  background-color: transparent !important;
   padding: 2.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
