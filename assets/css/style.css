@@ -551,7 +551,8 @@ li {
 
 .wiki-nav-scroll::-webkit-scrollbar-thumb {
   background: var(--primary-blue);
-  border-radius: 0;
+  border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
 }
 
 .wiki-nav-scroll::-webkit-scrollbar-thumb:hover {
