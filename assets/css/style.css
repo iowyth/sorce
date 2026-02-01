@@ -119,6 +119,16 @@ a:hover {
   grid-template-columns: 1fr;
 }
 
+.title-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2.5rem;
+  background: transparent;
+  border: 3px solid var(--primary-blue);
+  border-radius: 2rem 2rem 0 0;
+}
+
 .site-title {
   font-family: 'uni 05_53', 'DM Mono', monospace;
   font-size: 2rem;
@@ -126,10 +136,6 @@ a:hover {
   color: var(--primary-blue);
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  padding: 1rem 2.5rem;
-  background: transparent;
-  border: 3px solid var(--primary-blue);
-  border-radius: 2rem 2rem 0 0;
   text-align: center;
 }
 
@@ -446,16 +452,22 @@ li {
     grid-template-columns: 1fr;
   }
 
-  /* When nav is closed, title has full rounded border (pill shape) */
-  .site-title {
-    font-size: 1.5rem;
+  .title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     padding: 0.75rem 1.5rem;
     border-radius: 1.5rem;
+    gap: 1rem;
   }
 
-  /* When nav is open, title gets top corners only to connect with nav */
-  .header-horseshoe.nav-open .site-title {
+  /* When nav is open, title row gets top corners only to connect with nav */
+  .header-horseshoe.nav-open .title-row {
     border-radius: 1.5rem 1.5rem 0 0;
+  }
+
+  .site-title {
+    font-size: 1.5rem;
   }
 
   .site-nav {
@@ -474,8 +486,10 @@ li {
   }
 
   .nav-toggle {
-    display: block;
-    margin-top: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   .home-intro {
