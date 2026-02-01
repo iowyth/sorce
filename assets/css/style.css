@@ -74,6 +74,18 @@ h1 { font-size: 2rem; }
 h2 { font-size: 1.5rem; }
 h3 { font-size: 1.1rem; }
 
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 2px solid var(--primary-blue);
+  margin: 2rem 0;
+}
+
+/* Ensure spacing after hr before headings */
+hr + h1, hr + h2, hr + h3, hr + h4, hr + h5, hr + h6 {
+  margin-top: 2rem;
+}
+
 p {
   margin-bottom: 1.25rem;
 }
