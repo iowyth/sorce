@@ -89,7 +89,8 @@ a:hover {
 .header-box {
   display: flex;
   justify-content: center;
-  min-width: 600px;
+  width: 100%;
+  max-width: 650px;
 }
 
 .site-title {
@@ -121,7 +122,6 @@ a:hover {
   border-radius: 0 0 2rem 2rem;
   width: 100%;
   justify-content: center;
-  margin-top: -3px;
 }
 
 .site-nav a {
