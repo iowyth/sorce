@@ -170,11 +170,11 @@ a:hover {
 
 /* Home Page */
 .home-intro {
-  background: var(--text-light);
+  background: transparent;
   padding: 3rem;
-  border-radius: 8px;
+  border-radius: 2rem;
   margin-bottom: 3rem;
-  border-left: 4px solid var(--primary-blue);
+  border: 3px solid var(--primary-blue);
 }
 
 .home-intro p {
@@ -187,16 +187,16 @@ a:hover {
 }
 
 .posts-list li {
-  background: var(--text-light);
+  background: transparent;
   padding: 1.5rem 2rem;
   margin-bottom: 1rem;
-  border-radius: 8px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
+  transition: transform 0.2s ease;
 }
 
 .posts-list li:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(4, 13, 225, 0.1);
 }
 
 .posts-list .post-link {
@@ -218,15 +218,16 @@ a:hover {
 
 /* Post/Page Styles */
 .post, .page {
-  background: var(--text-light);
+  background: transparent;
   padding: 2.5rem;
-  border-radius: 8px;
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
 }
 
 .post-header, .page-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 2px solid var(--lavender-bg);
+  border-bottom: 2px solid var(--primary-blue);
 }
 
 .post-title, .page-title {
@@ -255,9 +256,10 @@ a:hover {
 
 .tag {
   display: inline-block;
-  background: var(--lavender-light);
+  background: transparent;
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
+  border: 2px solid var(--primary-blue);
   font-size: 0.8rem;
   margin-right: 0.5rem;
   margin-bottom: 0.5rem;
@@ -265,8 +267,9 @@ a:hover {
 
 .post-edit, .page-edit {
   padding: 1rem;
-  background: var(--lavender-light);
-  border-radius: 4px;
+  background: transparent;
+  border-radius: 1rem;
+  border: 2px solid var(--primary-blue);
   font-size: 0.9rem;
   margin-bottom: 2rem;
 }
@@ -274,7 +277,7 @@ a:hover {
 .post-comments {
   margin-top: 2rem;
   padding-top: 2rem;
-  border-top: 2px solid var(--lavender-bg);
+  border-top: 2px solid var(--primary-blue);
 }
 
 .post-navigation {
@@ -282,7 +285,7 @@ a:hover {
   justify-content: space-between;
   margin-top: 2rem;
   padding-top: 1.5rem;
-  border-top: 1px solid var(--lavender-bg);
+  border-top: 2px solid var(--primary-blue);
 }
 
 .post-navigation a {
@@ -296,9 +299,10 @@ pre, code {
 }
 
 code {
-  background: var(--lavender-light);
+  background: transparent;
   padding: 0.15rem 0.4rem;
   border-radius: 3px;
+  border: 1px solid var(--primary-blue);
 }
 
 pre {
@@ -337,9 +341,9 @@ li {
 
 /* Interactive Elements */
 .interactive-embed {
-  background: var(--lavender-light);
+  background: transparent;
   border: 2px dashed var(--primary-blue);
-  border-radius: 8px;
+  border-radius: 2rem;
   padding: 2rem;
   margin: 1.5rem 0;
   text-align: center;
@@ -353,9 +357,10 @@ li {
 }
 
 .person-card {
-  background: var(--text-light);
+  background: transparent;
   padding: 1.5rem;
-  border-radius: 8px;
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
   text-align: center;
 }
 
@@ -365,6 +370,7 @@ li {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
+  border: 3px solid var(--primary-blue);
 }
 
 /* Initiatives */
@@ -374,10 +380,10 @@ li {
 }
 
 .initiative-card {
-  background: var(--text-light);
+  background: transparent;
   padding: 2rem;
-  border-radius: 8px;
-  border-left: 4px solid var(--primary-blue);
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
 }
 
 /* Responsive */
@@ -450,16 +456,17 @@ li {
 }
 
 .wiki-nav {
-  background: var(--text-light);
+  background: transparent;
   padding: 1.5rem;
-  border-radius: 8px;
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
 }
 
 .wiki-nav h3 {
   font-size: 1.1rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid var(--lavender-bg);
+  border-bottom: 2px solid var(--primary-blue);
 }
 
 .wiki-nav h3 a {
@@ -500,35 +507,36 @@ li {
 .wiki-contribute {
   margin-top: 1.5rem;
   padding-top: 1rem;
-  border-top: 2px solid var(--lavender-bg);
+  border-top: 2px solid var(--primary-blue);
 }
 
 .wiki-contribute a {
   display: block;
   padding: 0.5rem 1rem;
-  background: var(--lavender-light);
-  border-radius: 4px;
+  background: transparent;
+  border-radius: 1rem;
+  border: 2px solid var(--primary-blue);
   text-align: center;
   font-size: 0.9rem;
-  border: none;
   transition: background 0.2s ease;
 }
 
 .wiki-contribute a:hover {
-  background: var(--lavender-bg);
+  background: rgba(4, 13, 225, 0.1);
 }
 
 .wiki-content {
-  background: var(--text-light);
+  background: transparent;
   padding: 2.5rem;
-  border-radius: 8px;
+  border-radius: 2rem;
+  border: 3px solid var(--primary-blue);
   min-width: 0;
 }
 
 .wiki-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 2px solid var(--lavender-bg);
+  border-bottom: 2px solid var(--primary-blue);
 }
 
 .wiki-header h1 {
@@ -556,13 +564,14 @@ li {
 
 .wiki-footer {
   padding-top: 1.5rem;
-  border-top: 2px solid var(--lavender-bg);
+  border-top: 2px solid var(--primary-blue);
 }
 
 .wiki-edit {
   padding: 1rem;
-  background: var(--lavender-light);
-  border-radius: 4px;
+  background: transparent;
+  border-radius: 1rem;
+  border: 2px solid var(--primary-blue);
   font-size: 0.9rem;
   margin-bottom: 2rem;
 }
