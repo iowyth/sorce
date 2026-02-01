@@ -121,6 +121,7 @@ a:hover {
   border-radius: 0 0 2rem 2rem;
   width: 100%;
   justify-content: center;
+  margin-top: -3px;
 }
 
 .site-nav a {
