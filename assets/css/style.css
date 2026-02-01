@@ -437,15 +437,13 @@ li {
 
   .site-header .container {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 0.75rem;
+    flex-direction: column;
+    align-items: center;
   }
 
   .header-horseshoe {
-    display: grid;
-    flex: 0 1 auto;
+    display: inline-grid;
+    grid-template-columns: 1fr;
   }
 
   /* When nav is closed, title has full rounded border (pill shape) */
@@ -477,8 +475,7 @@ li {
 
   .nav-toggle {
     display: block;
-    margin-top: 0;
-    flex-shrink: 0;
+    margin-top: 0.75rem;
   }
 
   .home-intro {
