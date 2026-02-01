@@ -490,6 +490,9 @@ li {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: none;
+    background: none;
+    padding: 0.5rem;
   }
 
   .home-intro {
