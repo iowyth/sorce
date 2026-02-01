@@ -86,11 +86,10 @@ a:hover {
   gap: 0;
 }
 
-.header-box {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  max-width: 650px;
+.header-horseshoe {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: stretch;
 }
 
 .site-title {
@@ -104,8 +103,8 @@ a:hover {
   background: transparent;
   border: 3px solid var(--primary-blue);
   border-radius: 2rem 2rem 0 0;
-  width: 100%;
   text-align: center;
+  display: block;
 }
 
 .site-title:hover {
@@ -120,7 +119,6 @@ a:hover {
   border: 3px solid var(--primary-blue);
   border-top: none;
   border-radius: 0 0 2rem 2rem;
-  width: 100%;
   justify-content: center;
 }
 
@@ -405,8 +403,7 @@ li {
     position: relative;
   }
 
-  .header-box {
-    min-width: auto;
+  .header-horseshoe {
     width: 100%;
   }
 
