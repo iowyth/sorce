@@ -119,6 +119,12 @@ a:hover {
   grid-template-columns: 1fr;
 }
 
+.header-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .site-title {
   font-family: 'uni 05_53', 'DM Mono', monospace;
   font-size: 2rem;
@@ -437,27 +443,37 @@ li {
 
   .site-header .container {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 0.75rem;
+    flex-direction: column;
+    align-items: center;
   }
 
   .header-horseshoe {
-    display: grid;
-    flex: 0 1 auto;
+    display: inline-grid;
+    grid-template-columns: 1fr;
   }
 
-  /* When nav is closed, title has full rounded border (pill shape) */
-  .site-title {
-    font-size: 1.5rem;
+  .header-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
     padding: 0.75rem 1.5rem;
+    background: transparent;
+    border: 3px solid var(--primary-blue);
     border-radius: 1.5rem;
   }
 
-  /* When nav is open, title gets top corners only to connect with nav */
-  .header-horseshoe.nav-open .site-title {
+  /* When nav is open, title row gets top corners only */
+  .header-horseshoe.nav-open .header-title-row {
     border-radius: 1.5rem 1.5rem 0 0;
+  }
+
+  /* Remove border from site-title on mobile since title-row has it */
+  .site-title {
+    font-size: 1.5rem;
+    padding: 0;
+    border: none;
+    border-radius: 0;
   }
 
   .site-nav {
@@ -476,8 +492,9 @@ li {
   }
 
   .nav-toggle {
-    display: block;
-    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     flex-shrink: 0;
   }
 
@@ -505,7 +522,6 @@ li {
   top: 2rem;
   height: fit-content;
   max-height: calc(100vh - 4rem);
-  overflow-y: auto;
 }
 
 .wiki-nav {
@@ -513,6 +529,43 @@ li {
   padding: 1.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
+  max-height: calc(100vh - 4rem);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Scrollable inner area */
+.wiki-nav-scroll {
+  overflow-y: auto;
+  flex: 1;
+  padding-right: 0.5rem;
+  margin-right: -0.5rem;
+}
+
+/* Custom scrollbar styling - WebKit */
+.wiki-nav-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.wiki-nav-scroll::-webkit-scrollbar-track {
+  background: var(--lavender-light);
+  border-radius: 4px;
+}
+
+.wiki-nav-scroll::-webkit-scrollbar-thumb {
+  background: var(--primary-blue);
+  border-radius: 4px;
+}
+
+.wiki-nav-scroll::-webkit-scrollbar-thumb:hover {
+  background: #0309a8;
+}
+
+/* Firefox scrollbar */
+.wiki-nav-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary-blue) var(--lavender-light);
 }
 
 .wiki-nav h3 {
@@ -535,8 +588,8 @@ li {
   margin-bottom: 0.5rem;
 }
 
-.wiki-nav h4:first-of-type {
-  margin-top: 0.75rem;
+.wiki-nav-scroll h4:first-child {
+  margin-top: 0;
 }
 
 .wiki-nav ul {

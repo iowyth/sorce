@@ -25,7 +25,14 @@
   <header class="site-header">
     <div class="container">
       <div class="header-horseshoe">
-        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+        <div class="header-title-row">
+          <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+          <button class="nav-toggle" aria-label="Toggle navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
         <nav class="site-nav">
           <a href="{{ '/about' | relative_url }}">About</a>
           <a href="{{ '/people' | relative_url }}">People</a>
@@ -35,11 +42,6 @@
           <a href="{{ '/blog' | relative_url }}">Blog</a>
         </nav>
       </div>
-      <button class="nav-toggle" aria-label="Toggle navigation">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
     </div>
   </header>
 
