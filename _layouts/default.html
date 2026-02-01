@@ -25,6 +25,9 @@
   <header class="site-header">
     <div class="container">
       <div class="header-box">
+        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      </div>
+      <div class="header-box">
         <nav class="site-nav">
           <a href="{{ '/about' | relative_url }}">About</a>
           <a href="{{ '/people' | relative_url }}">People</a>
@@ -33,9 +36,6 @@
           <a href="{{ '/resources' | relative_url }}">Resources</a>
           <a href="{{ '/blog' | relative_url }}">Blog</a>
         </nav>
-      </div>
-      <div class="header-box">
-        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
       </div>
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
