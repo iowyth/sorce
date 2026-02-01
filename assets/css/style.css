@@ -87,9 +87,8 @@ a:hover {
 }
 
 .header-horseshoe {
-  display: flex;
-  flex-direction: column;
-  width: max-content;
+  display: inline-grid;
+  grid-template-columns: 1fr;
 }
 
 .site-title {
@@ -104,9 +103,6 @@ a:hover {
   border: 3px solid var(--primary-blue);
   border-radius: 2rem 2rem 0 0;
   text-align: center;
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 .site-title:hover {
@@ -122,8 +118,6 @@ a:hover {
   border-top: none;
   border-radius: 0 0 2rem 2rem;
   justify-content: center;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 .site-nav a {
