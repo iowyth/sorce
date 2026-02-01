@@ -264,6 +264,7 @@ a:hover {
 
 .post-content, .page-content {
   margin-bottom: 2rem;
+  padding-top: 0.5rem;
 }
 
 .post-content img, .page-content img {
@@ -511,6 +512,10 @@ li {
   margin-bottom: 0.5rem;
 }
 
+.wiki-nav h4:first-of-type {
+  margin-top: 0.75rem;
+}
+
 .wiki-nav ul {
   list-style: none;
   padding: 0;
@@ -581,6 +586,7 @@ li {
 
 .wiki-body {
   margin-bottom: 2rem;
+  padding-top: 0.5rem;
 }
 
 .wiki-body h2 {
