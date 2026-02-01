@@ -157,18 +157,21 @@ a:hover {
 
 .nav-toggle {
   display: none;
-  background: none;
-  border: none;
+  background: transparent;
+  border: 3px solid var(--primary-blue);
+  border-radius: 0.5rem;
   cursor: pointer;
   padding: 0.5rem;
+  width: 44px;
+  height: 38px;
 }
 
 .nav-toggle span {
   display: block;
-  width: 24px;
-  height: 2px;
+  width: 20px;
+  height: 3px;
   background: var(--primary-blue);
-  margin: 4px 0;
+  margin: 3px auto;
   transition: 0.3s;
 }
 
@@ -635,6 +638,49 @@ li {
 /* Wiki Mobile Styles */
 @media (max-width: 900px) {
   .wiki-container {
+    grid-template-columns: 200px 1fr;
+    gap: 1rem;
+  }
+
+  .wiki-sidebar {
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 2rem);
+  }
+
+  .wiki-nav {
+    padding: 1rem;
+    border-radius: 1.5rem;
+  }
+
+  .wiki-nav h3 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .wiki-nav h4 {
+    font-size: 0.75rem;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .wiki-nav li a {
+    font-size: 0.8rem;
+    padding: 0.25rem 0;
+  }
+
+  .wiki-contribute {
+    display: none;
+  }
+
+  .wiki-content {
+    padding: 1.5rem;
+  }
+}
+
+/* Wiki Very Small Screens - Collapse sidebar */
+@media (max-width: 600px) {
+  .wiki-container {
     grid-template-columns: 1fr;
   }
 
@@ -643,6 +689,27 @@ li {
     max-height: none;
     order: 2;
     margin-top: 2rem;
+  }
+
+  .wiki-nav {
+    padding: 1.5rem;
+    border-radius: 2rem;
+  }
+
+  .wiki-nav h3 {
+    font-size: 1.1rem;
+  }
+
+  .wiki-nav h4 {
+    font-size: 0.85rem;
+  }
+
+  .wiki-nav li a {
+    font-size: 0.9rem;
+  }
+
+  .wiki-contribute {
+    display: block;
   }
 
   .wiki-content {
