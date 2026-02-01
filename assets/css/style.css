@@ -542,7 +542,7 @@ li {
 
 /* Custom scrollbar styling - WebKit */
 .wiki-nav-scroll::-webkit-scrollbar {
-  width: 6px;
+  width: 10px;
 }
 
 .wiki-nav-scroll::-webkit-scrollbar-track {
