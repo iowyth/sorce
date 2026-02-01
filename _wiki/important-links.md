@@ -20,41 +20,61 @@ As a ComCult student, you are a student at both York and TMU. You'll have accoun
 
 You may need to interact with the graduate studies office at your home institution for administrative matters.
 
-| | York | TMU |
-|---|---|---|
-| **Graduate Studies** | [Faculty of Graduate Studies](https://www.yorku.ca/gradstudies/) | [Yeates School of Graduate Studies](https://www.torontomu.ca/graduate/) |
-| **Current Students** | [FGS Current Students](https://www.yorku.ca/gradstudies/students/current-students/) | [YSGS Student Guide](https://www.torontomu.ca/graduate/student-guide/) |
-| **Forms & Deadlines** | [FGS Forms](https://www.yorku.ca/gradstudies/students/current-students/registration-enrolment/fgs-forms/) | [YSGS Forms](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/) |
+**Graduate Studies**
+- York: [Faculty of Graduate Studies](https://www.yorku.ca/gradstudies/)
+- TMU: [Yeates School of Graduate Studies](https://www.torontomu.ca/graduate/)
+
+**Current Students**
+- York: [FGS Current Students](https://www.yorku.ca/gradstudies/students/current-students/)
+- TMU: [YSGS Student Guide](https://www.torontomu.ca/graduate/student-guide/)
+
+**Forms & Deadlines**
+- York: [FGS Forms](https://www.yorku.ca/gradstudies/students/current-students/registration-enrolment/fgs-forms/)
+- TMU: [YSGS Forms](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/)
 
 ## Libraries
 
 You have full access to both library systems — use whichever has what you need!
 
-| | York | TMU |
-|---|---|---|
-| **Library** | [York Libraries](https://www.library.yorku.ca/web/) | [TMU Library](https://library.torontomu.ca/) |
-| **Interlibrary Loan** | [RACER](https://www.library.yorku.ca/web/borrow/obtain-items/request/) | [RACER](https://library.torontomu.ca/services/borrow/ill/) |
+**Library Home**
+- York: [York Libraries](https://www.library.yorku.ca/web/)
+- TMU: [TMU Library](https://library.torontomu.ca/)
+
+**Interlibrary Loan**
+- York: [RACER](https://www.library.yorku.ca/web/borrow/obtain-items/request/)
+- TMU: [RACER](https://library.torontomu.ca/services/borrow/ill/)
 
 **Tip**: If one library doesn't have a book or article, check the other. You can also request items through interlibrary loan.
 
 ## Student Services
 
-| | York | TMU |
-|---|---|---|
-| **Student Hub** | [Division of Students](https://students.yorku.ca/) | [Current Students](https://www.torontomu.ca/current-students/) |
-| **Counselling** | [Student Counselling](https://counselling.students.yorku.ca/) | [Student Wellbeing](https://www.torontomu.ca/student-wellbeing/) |
-| **Accessibility** | [Student Accessibility Services](https://accessibility.students.yorku.ca/) | [Academic Accommodation Support](https://www.torontomu.ca/accommodations/) |
-| **Writing Support** | [Writing Centre](https://www.yorku.ca/laps/writing-centre/) | [Student Life & Learning](https://www.torontomu.ca/student-life-and-learning/) |
+**Student Hub**
+- York: [Division of Students](https://students.yorku.ca/)
+- TMU: [Current Students](https://www.torontomu.ca/current-students/)
+
+**Counselling**
+- York: [Student Counselling](https://counselling.students.yorku.ca/)
+- TMU: [Student Wellbeing](https://www.torontomu.ca/student-wellbeing/)
+
+**Accessibility**
+- York: [Student Accessibility Services](https://accessibility.students.yorku.ca/)
+- TMU: [Academic Accommodation Support](https://www.torontomu.ca/accommodations/)
+
+**Writing Support**
+- York: [Writing Centre](https://www.yorku.ca/laps/writing-centre/)
+- TMU: [Student Life & Learning](https://www.torontomu.ca/student-life-and-learning/)
 
 ## Funding & Awards
 
-| | York | TMU |
-|---|---|---|
-| **Graduate Awards** | [FGS Funding](https://www.yorku.ca/gradstudies/students/current-students/student-finances/) | [YSGS Funding](https://www.torontomu.ca/graduate/future-students/financing-your-degree/) |
-| **Financial Aid** | [Student Financial Services](https://sfs.yorku.ca/) | [Financing Your Studies](https://www.torontomu.ca/current-students/tuition-fees/) |
+**Graduate Awards**
+- York: [FGS Funding](https://www.yorku.ca/gradstudies/students/current-students/student-finances/)
+- TMU: [YSGS Funding](https://www.torontomu.ca/graduate/future-students/financing-your-degree/)
 
-### External Funding
+**Financial Aid**
+- York: [Student Financial Services](https://sfs.yorku.ca/)
+- TMU: [Financing Your Studies](https://www.torontomu.ca/current-students/tuition-fees/)
 
+**External Funding**
 - [SSHRC](https://www.sshrc-crsh.gc.ca/) — Federal funding for social sciences and humanities
 - [OGS](https://www.ontario.ca/page/student-loans-grants-scholarships-and-bursaries) — Ontario Graduate Scholarship (apply through your university)
 
@@ -62,42 +82,51 @@ You have full access to both library systems — use whichever has what you need
 
 Your union and association can help with benefits, advocacy, and community.
 
-| | York | TMU |
-|---|---|---|
-| **Graduate Association** | [YUGSA](https://www.yugsa.ca/) | [TMGSU](https://www.tmgsu.ca/) |
-| **Health Plan** | [YUGSA Health](https://www.yugsa.ca/health-plan) | [TMGSU Health](https://www.tmgsu.ca/health-dental-plan) |
-| **Union (TAs)** | [CUPE 3903](https://cupe3903.org/) | [CUPE 3904](https://www.cupe3904.org/) |
+**Graduate Association**
+- York: [YUGSA](https://www.yugsa.ca/)
+- TMU: [TMGSU](https://www.tmgsu.ca/)
+
+**Health Plan**
+- York: [YUGSA Health](https://www.yugsa.ca/health-plan)
+- TMU: [TMGSU Health](https://www.tmgsu.ca/health-dental-plan)
+
+**Union (TAs)**
+- York: [CUPE 3903](https://cupe3903.org/)
+- TMU: [CUPE 3904](https://www.cupe3904.org/)
 
 ## Campus Maps & Getting Around
 
-| | York | TMU |
-|---|---|---|
-| **Campus Map** | [York Map](https://www.yorku.ca/maps/) | [TMU Map](https://www.torontomu.ca/maps/) |
-| **Getting to Campus** | [York Transit](https://www.yorku.ca/transportation/) | [TMU Location](https://www.torontomu.ca/maps/) |
+**Campus Map**
+- York: [York Map](https://www.yorku.ca/maps/)
+- TMU: [TMU Map](https://www.torontomu.ca/maps/)
+
+**Getting to Campus**
+- York: [York Transit](https://www.yorku.ca/transportation/)
+- TMU: [TMU Location](https://www.torontomu.ca/maps/)
 
 **TTC**: Both campuses are accessible by TTC. York is at the end of Line 1 (Keele Campus). TMU is downtown near Dundas and Yonge.
 
 ## Booking Space on Campus
 
-### TMU
+**TMU**
 - [Student Life & Learning](https://www.torontomu.ca/student-life-and-learning/)
 - Booking Rooms at the DCC (email Sarah to set-up Skedda account)
 
-### York
+**York**
 - [York Library Services](https://www.library.yorku.ca/web/ask-services/)
 - [Graduate Studies Resources](https://gradstudies.yorku.ca/current-students/campus-resources/)
 - [Glendon Athletic Club](https://www.yorku.ca/glendon/glendon-athletic-club/)
 
 ## Interesting Places
 
-### TMU
+**TMU**
 - [DMZ Tech Incubator](https://dmz.torontomu.ca/)
 - [The Creative School](https://www.torontomu.ca/the-creative-school/)
 - TMU Urban Farm: DCC 8th floor
 - The Music Den
 - The Fashion Zone: Design Incubator
 
-### York
+**York**
 - [The Sensorium](https://sensorium.info.yorku.ca/) — Media arts, performance, & digital tech
 - [Digital Scholarship Centre](https://www.library.yorku.ca/ds/) — Equipment Loans & space
 - [Research & Learn](https://www.library.yorku.ca/web/research-learn/) — Publishing support
