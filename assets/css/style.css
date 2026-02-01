@@ -86,6 +86,12 @@ a:hover {
   gap: 0;
 }
 
+.header-box {
+  display: flex;
+  justify-content: center;
+  min-width: 600px;
+}
+
 .site-title {
   font-family: 'uni 05_53', 'DM Mono', monospace;
   font-size: 2rem;
@@ -98,6 +104,8 @@ a:hover {
   border: 3px solid var(--primary-blue);
   border-top: none;
   border-radius: 0 0 2rem 2rem;
+  width: 100%;
+  text-align: center;
 }
 
 .site-title:hover {
@@ -107,11 +115,13 @@ a:hover {
 .site-nav {
   display: flex;
   gap: 1.5rem;
-  padding: 1rem 2rem;
+  padding: 1rem 2.5rem;
   background: transparent;
   border: 3px solid var(--primary-blue);
   border-bottom: none;
   border-radius: 2rem 2rem 0 0;
+  width: 100%;
+  justify-content: center;
 }
 
 .site-nav a {

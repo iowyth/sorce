@@ -24,15 +24,19 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <nav class="site-nav">
-        <a href="{{ '/about' | relative_url }}">About</a>
-        <a href="{{ '/people' | relative_url }}">People</a>
-        <a href="{{ '/initiatives' | relative_url }}">Initiatives</a>
-        <a href="{{ '/wiki/' | relative_url }}">Pirate Guide</a>
-        <a href="{{ '/resources' | relative_url }}">Resources</a>
-        <a href="{{ '/blog' | relative_url }}">Blog</a>
-      </nav>
-      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <div class="header-box">
+        <nav class="site-nav">
+          <a href="{{ '/about' | relative_url }}">About</a>
+          <a href="{{ '/people' | relative_url }}">People</a>
+          <a href="{{ '/initiatives' | relative_url }}">Initiatives</a>
+          <a href="{{ '/wiki/' | relative_url }}">Pirate Guide</a>
+          <a href="{{ '/resources' | relative_url }}">Resources</a>
+          <a href="{{ '/blog' | relative_url }}">Blog</a>
+        </nav>
+      </div>
+      <div class="header-box">
+        <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      </div>
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
         <span></span>
