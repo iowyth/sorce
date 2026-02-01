@@ -4,11 +4,13 @@ document.addEventListener('DOMContentLoaded', function() {
   // Mobile navigation toggle
   const navToggle = document.querySelector('.nav-toggle');
   const siteNav = document.querySelector('.site-nav');
+  const headerHorseshoe = document.querySelector('.header-horseshoe');
 
-  if (navToggle && siteNav) {
+  if (navToggle && siteNav && headerHorseshoe) {
     navToggle.addEventListener('click', function() {
       siteNav.classList.toggle('active');
       navToggle.classList.toggle('active');
+      headerHorseshoe.classList.toggle('nav-open');
     });
   }
 
