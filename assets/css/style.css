@@ -415,6 +415,14 @@ li {
   text-align: center;
 }
 
+.person-card h3 {
+  font-family: 'uni 05_53', 'DM Mono', monospace;
+}
+
+.person-card p {
+  font-family: 'uni 05_53', 'DM Mono', monospace;
+}
+
 .person-card img {
   width: 120px;
   height: 120px;
@@ -435,6 +443,14 @@ li {
   padding: 2rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
+}
+
+.initiative-card h3 {
+  font-family: 'uni 05_53', 'DM Mono', monospace;
+}
+
+.initiative-card p {
+  font-family: 'uni 05_53', 'DM Mono', monospace;
 }
 
 /* Responsive */
@@ -566,6 +582,7 @@ li {
 }
 
 .wiki-nav h3 {
+  font-family: 'uni 05_53', 'DM Mono', monospace;
   font-size: 1.1rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
