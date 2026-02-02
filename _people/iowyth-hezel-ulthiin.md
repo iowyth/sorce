@@ -2,7 +2,7 @@
 name: iowyth hezel ulthiin
 pronouns: they/them
 role: Community Steward
-institution: T'karonto Metropolitan University / York University
+institution: T'karonto Metropolitan University
 website: https://iowythulthiin.wixsite.com/manifestbreath
 ---
 
