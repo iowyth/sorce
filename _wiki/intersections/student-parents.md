@@ -86,10 +86,11 @@ Parenting while in graduate school brings unique joys and challenges. This secti
 
 Student parents can feel isolated. Connect through:
 
-- Student parent groups on campus
-- Graduate student associations
-- Online communities
-- Other parents in your program or department
+**TMU**
+- [Parent Network](https://www.torontomu.ca/student-life-and-learning/) — Support and connection for student parents
+
+**York**
+- [Atkinson Centre for Mature and Part-Time Students (ACMAPS)](https://acmaps.info.yorku.ca/) — Resources for mature students, including parents balancing studies with family responsibilities
 
 ## Self-Care
 
@@ -103,4 +104,4 @@ Parenting in grad school is hard. Remember:
 
 ---
 
-*This section should be led by student parents. Edit this page to contribute your experience.*
+*This section should be led by student parents. [Edit this page](https://github.com/iowyth/sorce/edit/main/_wiki/intersections/student-parents.md) to contribute your experience.*

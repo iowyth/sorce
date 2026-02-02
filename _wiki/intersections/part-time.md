@@ -6,6 +6,14 @@ section: Intersections
 
 Part-time graduate students balance their studies with work, family, or other commitments. This section gathers resources and advice for navigating the program on a part-time basis.
 
+## Understanding the Part-Time Experience
+
+Many part-time students face limited access to funding, scholarships, and assistantships. Major awards like SSHRC or OGS typically require full-time status, reinforcing a hierarchy of legitimacy tied to institutional support. Even department newsletters, events, and deadlines are often planned with full-time students in mind and may not capture the necessary information and guidance needed for those pursuing studies part-time.
+
+Being part-time can mean falling out of sync with your peers, as you are likely taking fewer courses and rarely overlapping with cohort members. Part-time students often pay more per course while receiving fewer services, like health benefits or access to student union support. Some are excluded from TA/RA roles, professional development programs, or union representation entirely, despite contributing equally when they do participate.
+
+Navigating part-time status can also mean dealing with confusing elements of a bureaucracy not specifically primed for your needs. This might include advisors who don't understand how to process and support your specific timeline, or supervisors who expect full-time outputs. Some policies may also be unclear as to how leave, extensions, or progress reviews specifically apply to your studies. Reaching out to other students and forming supportive networks can help you build resources around your specific needs.
+
 ## Choosing Part-Time Study
 
 Students pursue part-time study for many reasons:

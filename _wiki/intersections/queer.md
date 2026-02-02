@@ -87,4 +87,4 @@ Queer students hold multiple identities. Consider:
 
 ---
 
-*This section should be led by queer students. Edit this page to contribute your experience.*
+*This section should be led by queer students. [Edit this page](https://github.com/iowyth/sorce/edit/main/_wiki/intersections/queer.md) to contribute your experience.*

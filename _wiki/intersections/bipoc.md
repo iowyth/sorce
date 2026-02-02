@@ -8,6 +8,12 @@ Black, Indigenous, and People of Colour (BIPOC) students navigate academia while
 
 ## Navigating the Academy
 
+Graduate studies in Canada are not neutral spaces. They are embedded in institutions that have historically marginalized Indigenous, Black, and racialized people. While many departments now champion diversity, structural barriers persist: unequal access to mentorship, funding, and networks; underrepresentation in faculty ranks; curricula still anchored in Eurocentric frameworks; and those lacking cultural competency or backgrounds in academia may face exploitation without the ability to strongly advocate for space, credit, and flexibility.
+
+The legacies of white supremacy can make graduate school feel both isolating and conversely hyper-visible for marginalized students. Your identity may be underrepresented in your cohort, and those at the table become expected to speak for their entire community, being careful to sanitize their research for a white audience. Intellectual labour often intersects with emotional labour, especially with work that critiques colonialism, racism, or empire. Presence can be powerful, but not always protected.
+
+Well-meaning scholars may seek to make their own work appear more inclusive without addressing the underlying inequity of institutional life. Even when groups use language around diversity, equity, and inclusion, care and caution are what protect your time and energy. The institution was not designed to support diversity—many academics may unknowingly continue harmful practices that have been normalized.
+
 ### Systemic Challenges
 
 BIPOC students often face:
@@ -21,12 +27,48 @@ BIPOC students often face:
 
 ### Strategies for Thriving
 
-- Find community with other BIPOC students and faculty
+Support networks (both formal and informal) remain crucial for marginalized scholars:
+
+- Find or build affinity groups and join faculty-student coalitions
+- Learn your rights and know your resources
+- **Always document interactions with superiors**, especially when they feel problematic—these documents can later become proof if issues arise
+- If you already feel uncomfortable, try to avoid informal conversations where problematic issues can remain ambiguous and where you will not have hard-copies of what is said
 - Seek mentors who understand your experience
 - Set boundaries around unpaid labour
-- Document incidents when they occur
-- Know your resources and rights
 - Your research and perspectives are valuable
+
+### Racial Battle Fatigue
+
+Coined by W. A. Smith (University of Utah), racial battle fatigue describes the cumulative effects of dealing with racism. Symptoms may include:
+
+**Psychological:** Depression, chronic anxiety, anger, frustration, shock, disturbed sleep, disappointment, resentment, emotional or social withdrawal, intrusive thoughts, avoidance, helplessness, and fear. Acceptance of racist attributions (internalized racism) may also occur.
+
+**Physiological:** High blood pressure, headaches, increased breathing and heart rate in anticipation of racial conflict, upset stomach, ulcers, fatigue, exhaustion, and muscle tension around the neck, shoulders, and head.
+
+**Be kind to yourself.**
+
+### Recognizing White Supremacy Culture
+
+From *Dismantling Racism: A Workbook for Social Change Groups* by Kenneth Jones and Tema Okun:
+
+- Perfectionism
+- Sense of Urgency
+- Defensiveness
+- Quantity over Quality
+- Worship of the Written Word
+- Paternalism
+- Either/Or Thinking
+- Power Hoarding
+- Individualism
+- "Progress" as Bigger, More
+- Objectivity
+- Right to Comfort
+
+### Excerpts from the Anti-Black Racism Campus Climate Review (TMU)
+
+> "Black faculty participants reported facing burdens associated with being underrepresented in their departments, including disproportionate mentorship responsibilities and greater demands of their time." (p. 7)
+
+> "The broad spectrum of issues articulated involved: a sense of not belonging; lack of representation in the curriculum; safety moving around the campus; underrepresentation of Black faculty; issues with mentorship and problems with front-facing services like Student Life, Student Affairs, Counselling Services, the Human Rights Office, Security Services, etc. Black students made it clear that anti-Black racism is a feature of their experience at Ryerson and they want it to change in a positive way." (p. 9)
 
 ## Black Student Resources
 
@@ -34,7 +76,7 @@ BIPOC students often face:
 
 **[Black Student Success and Engagement](https://www.torontomu.ca/black-student-success/)**
 A hub providing Black students with programs, services, and opportunities including:
-- The Black Student Lounge – a safe space for community
+- **Black Student Lounge** (Kerr Hall 77A, open 7am–12am) – a safe space for community
 - [Black Initiative Fund](https://www.torontomu.ca/black-student-success/get-involved/) – up to $5,000 for student-led events
 - Annual Black Excellence Mixer and Graduation Celebration
 - [Tri-Mentoring Program](https://www.torontomu.ca/black-student-success/get-involved/) – connects students with upper-year mentors and career support
@@ -155,6 +197,9 @@ If you experience discrimination or harassment:
 
 **York**
 - [Centre for Human Rights, Equity & Inclusion](https://rights.info.yorku.ca/)
+- [CERLAC](https://www.yorku.ca/cerlac/) – Hub for inter/multidisciplinary research on Latin America and the Caribbean
+
+**Equity Strategy Feedback:** edistratplan@torontomu.ca
 
 Document what happened, reach out to trusted faculty or staff, and know your formal complaint processes. You have the right to a learning environment free from discrimination.
 
