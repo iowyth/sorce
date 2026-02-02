@@ -66,8 +66,10 @@ The First Generation Project supports FG students through:
 - Peer mentoring matching
 - Social and academic events
 
-**Contact:** tri_mentoring@torontomu.ca | Location: POD-54, Lower Level, Podium Building
-**Sign up:** ryerson.peoplegrove.com | Instagram/Twitter: @trimentoring
+**Contact:** tri_mentoring@torontomu.ca
+Location: POD-54, Lower Level, Podium Building
+**Sign up:** ryerson.peoplegrove.com
+Instagram/Twitter: @trimentoring
 
 **[Ontario First Generation Bursary](https://www.torontomu.ca/student-financial-assistance/scholarships-bursaries/first-generation/)**
 Through AwardSpring, TMU offers the Ontario First-Generation Bursary for students with financial need who are the first in their family to attend post-secondary education. Graduate students are eligible.
