@@ -51,16 +51,55 @@ Graduate school has unwritten rules that students from academic families often l
 
 ## Resources
 
-### On Campus
-- First-gen student groups and communities
-- Graduate student associations
-- Mentorship programs
-- Career services
+### At TMU
 
-### Beyond
-- [I'm First](https://imfirst.org/) - Community for first-gen students
-- Academic Twitter/social media communities
-- Podcasts and blogs by first-gen academics
+**[First Generation Programming & Tri-Mentoring Program](https://www.torontomu.ca/student-life-and-learning/trimentoring/first-gen/)**
+The First Generation Project supports FG students through:
+- Information about scholarships and bursaries
+- Networking and volunteer opportunities
+- Peer mentoring matching
+- Social and academic events
+
+**Contact:** tri_mentoring@torontomu.ca | Location: POD-54, Lower Level, Podium Building
+**Sign up:** ryerson.peoplegrove.com | Instagram/Twitter: @trimentoring
+
+**[Ontario First Generation Bursary](https://www.torontomu.ca/student-financial-assistance/scholarships-bursaries/first-generation/)**
+- Up to $40,000 in financial support for first-generation students with financial need
+- Apply through [AwardSpring](https://torontomu.awardspring.ca/) during fall semester
+- Requires a 500-word statement about your experience as a first-gen student
+- Does not affect OSAP entitlement
+
+**Ted Rogers School** has one of the highest percentages of first-generation students in Canada, with specific scholarships like the [Yardi Scholarship Program](https://www.torontomu.ca/tedrogersschool/news-events/2024/02/yardi-systems-invests-in-first-generation-and-graduate-students/).
+
+### At York
+
+**Ontario First Generation Bursary**
+York receives provincial funding to support first-generation students. To apply:
+1. Complete the [Student Financial Profile (SFP)](https://sfs.yorku.ca/aid/sfp) by October 15
+2. In the Additional Personal Information section, self-identify as first-generation
+3. Successful applicants notified by email in December
+
+**[FGS Bursaries](https://www.yorku.ca/gradstudies/students/current-students/awards-and-scholarships/bursaries/)**
+Graduate student bursaries are available for students with financial need:
+- Fall/Winter 2025-2026 SFP available September 1, 2025 to January 31, 2026
+- Contact: bursary@yorku.ca
+
+**[Atkinson Centre for Mature and Part-Time Students (ACMAPS)](https://acmaps.info.yorku.ca/)**
+Offers support services for first-generation students, including guidance on navigating university systems and expectations.
+
+### External Resources
+
+**[ScholarshipsCanada.com](https://www.scholarshipscanada.com/)**
+Searchable database of Canadian scholarships, bursaries, and awards—filter by location, degree type, and field.
+
+**[Universities Canada](https://univcan.ca/)**
+Information on how Canadian universities support first-generation students.
+
+**[I'm First](https://imfirst.org/)**
+Community and resources for first-generation college students.
+
+**Government of Canada Scholarships**
+- [Canada Graduate Scholarships](https://www.canada.ca/en/services/benefits/education/student-aid/scholarships.html) for graduate students in health, natural sciences, engineering, social sciences, or humanities
 
 ## Building Community
 
@@ -73,4 +112,4 @@ First-gen grad students often find support in connecting with others who share t
 
 ---
 
-*This section should be led by first generation students. Edit this page to contribute your experience.*
+*This section should be led by first generation students. [Edit this page](https://github.com/iowyth/sorce/edit/main/_wiki/intersections/first-generation.md) to contribute your experience.*

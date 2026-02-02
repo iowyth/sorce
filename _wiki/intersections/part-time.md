@@ -42,6 +42,52 @@ Check carefully:
 - Whether you can switch between part-time and full-time status
 - Impact on your funding if you change status
 
+## Funding Resources
+
+### OSAP for Part-Time Students
+
+Part-time OSAP provides government funding to help with **tuition, books, and fees** — but does not cover living costs.
+
+**Key requirements:**
+- Graduate students in part-time programs must apply for part-time OSAP regardless of course load
+- You must reapply each term (fall, winter, spring/summer require separate applications)
+- Apply at least 2 months before studies begin
+- You must pass all funded courses to maintain eligibility
+
+**TMU Students:** [Part-Time OSAP Information](https://www.torontomu.ca/student-financial-assistance/osap/part-time/)
+
+**York Students:** Contact [Student Financial Services](https://sfs.yorku.ca/)
+
+### At TMU
+
+**[Toronto Metropolitan Graduate Students' Union (TMGSU)](https://www.tmgsu.ca/)**
+All part-time graduate students are automatic TMGSU members with access to:
+- Health and dental coverage (opt-in for part-time students)
+- Legal aid services
+- Travel grants (up to $500/year for conference presentations)
+- Student project/event funding
+
+**Graduate Emergency Bursary** — Contact your program for information about emergency financial support.
+
+**[Professional Master's Diplomas](https://www.torontomu.ca/tedrogersschool/pmdiploma/)** — Short, focused programs designed for working professionals with part-time study options.
+
+### At York
+
+**[Graduate Funding](https://www.yorku.ca/gradstudies/students/current-students/graduate-funding/)** — Schedule one-on-one advising appointments with funding advisors assigned to your program.
+
+**[FGS Bursaries](https://www.yorku.ca/gradstudies/students/current-students/awards-and-scholarships/bursaries/)** — Some bursaries may be available; check eligibility requirements carefully as many require full-time status.
+
+**[CUPE 3903](https://cupe3903.org/)** — If you hold a GA, TA, or RA position, you're represented by CUPE 3903 with access to:
+- Extended healthcare, dental, and vision benefits
+- Vacation pay (4-6% added to paycheques)
+- Conference travel fund support
+
+### External Funding
+
+**Canada Student Grant for Part-Time Studies** — Available through OSAP; download the application from [OSAP's website](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/index.htm).
+
+**Note:** The [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) requires full-time enrollment for 2+ terms.
+
 ### Course Scheduling
 
 - Fewer courses per term
@@ -92,6 +138,28 @@ You might consider switching to full-time if:
 
 Discuss options with your supervisor and program director.
 
+## Resources
+
+### Graduate Student Associations
+
+**York**
+- [York University Graduate Students' Association (YUGSA)](https://www.yugsa.ca/)
+- Department-specific graduate associations
+
+**TMU**
+- [Toronto Metropolitan Graduate Students' Union (TMGSU)](https://www.tmgsu.ca/)
+- [TMGSU FAQ](https://www.tmgsu.ca/faq) — Answers common questions about membership and services
+
+### Support Services
+
+**TMU**
+- [Student Financial Assistance](https://www.torontomu.ca/student-financial-assistance/)
+- [Yeates School of Graduate Studies](https://www.torontomu.ca/graduate/)
+
+**York**
+- [Faculty of Graduate Studies](https://www.yorku.ca/gradstudies/)
+- [Student Financial Services](https://sfs.yorku.ca/)
+
 ---
 
-*This section should be led by part-time students. Edit this page to contribute your experience.*
+*This section should be led by part-time students. [Edit this page](https://github.com/iowyth/sorce/edit/main/_wiki/intersections/part-time.md) to contribute your experience.*
