@@ -1,27 +1,24 @@
 /**
  * Möbius-Klein Attractor Animation
- * Ported from Python matplotlib to Three.js for web
+ * Faithfully ported from Python matplotlib to Three.js
  */
 
 (function() {
-  // Wait for DOM to be ready
   function init() {
     const container = document.getElementById('mobius-container');
     if (!container) return;
 
-    // Ensure container has dimensions
     const width = container.offsetWidth || 800;
     const height = container.offsetHeight || 300;
 
     if (width === 0 || height === 0) {
-      // Retry after a short delay if container not ready
       setTimeout(init, 100);
       return;
     }
 
-    // Check for WebGL support
-    const canvas = document.createElement('canvas');
-    const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+    // Check WebGL
+    const testCanvas = document.createElement('canvas');
+    const gl = testCanvas.getContext('webgl') || testCanvas.getContext('experimental-webgl');
     if (!gl) {
       console.warn('WebGL not supported');
       return;
@@ -29,24 +26,47 @@
 
     // Scene setup
     const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(60, width / height, 0.1, 1000);
-    camera.position.z = 4;
+    const camera = new THREE.PerspectiveCamera(50, width / height, 0.1, 1000);
+    camera.position.z = 8;
 
     const renderer = new THREE.WebGLRenderer({
       alpha: true,
-      antialias: true,
-      powerPreference: "high-performance"
+      antialias: true
     });
     renderer.setSize(width, height);
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     renderer.setClearColor(0x000000, 0);
     container.appendChild(renderer.domElement);
 
-    // Color mapping function (blue -> yellow -> red based on z)
-    function getColor(z, zMin, zMax) {
-      const t = (z - zMin) / (zMax - zMin);
+    // Parameters matching Python
+    const numTracers = 200;
+    const trailLength = 50;
+    const R = 2.0;
+    const r = 0.7;
 
-      // Blue (0) -> Yellow (0.5) -> Red (1)
+    // Trail buffers [trailLength][numTracers]
+    let trailX = [];
+    let trailY = [];
+    let trailZ = [];
+    for (let i = 0; i < trailLength; i++) {
+      trailX.push(new Float32Array(numTracers));
+      trailY.push(new Float32Array(numTracers));
+      trailZ.push(new Float32Array(numTracers));
+    }
+
+    // Dynamic time scaling state
+    let globalEffectiveT = 0;
+    const baseDt = 0.5;
+    const alphaSpeed = 0.1;
+    const betaDt = 0.3;
+    let prevDt = baseDt;
+    let prevPoints = null;
+
+    // Quaternion state for SLERP
+    let globalQPrev = new THREE.Quaternion(0, 0, 0, 1);
+
+    // Blue-Yellow-Red colormap
+    function blueYellowRed(t) {
       let r, g, b;
       if (t < 0.5) {
         // Blue to Yellow
@@ -61,188 +81,215 @@
         g = 1 - s;
         b = 0;
       }
-
-      return new THREE.Color(r, g, b);
+      return { r, g, b };
     }
 
-    // Möbius-Klein attractor parameters
-    const a = 2.0;
-    const b = 0.5;
-    const c = 1.0;
-    const d = 0.3;
+    // Möbius-Klein attractor function matching Python
+    function mobiusKleinAttractor(t, quaternion) {
+      const positions = [];
 
-    // Generate attractor points
-    const numPoints = 5000;
-    const positions = [];
-    const colors = [];
+      const plasmaT1 = Math.sin(t * 0.02);
+      const plasmaT2 = Math.cos(t * 0.02);
 
-    // Initial point
-    let x = 0.1, y = 0.1, z = 0.1;
-    const dt = 0.002;
+      for (let i = 0; i < numTracers; i++) {
+        const u = (i / numTracers) * 2 * Math.PI;
+        const v = (i / numTracers) * 2 * Math.PI;
 
-    // Skip transient
-    for (let i = 0; i < 1000; i++) {
-      const dx = a * (y - x) + d * x * z;
-      const dy = b * x - y - x * z;
-      const dz = c * z + x * y - 0.1 * z * z * z;
-      x += dx * dt;
-      y += dy * dt;
-      z += dz * dt;
+        // Klein and Möbius recursion components
+        const kleinFactor = Math.cos(u) * Math.sin(v);
+        const mobiusFactor = Math.sin(u/2 + v/2) * kleinFactor;
+
+        let x = (R + r * kleinFactor + plasmaT1 * 0.5) * Math.cos(u);
+        let y = (R + r * kleinFactor + plasmaT1 * 0.5) * Math.sin(u);
+        let z = (r * Math.sin(u/2) + plasmaT2 * 0.3) * Math.cos(v);
+
+        // Higher-dimensional recursive folding
+        const phi = Math.sin(v * 4 + plasmaT1 * 0.7) * mobiusFactor;
+        const theta = Math.cos(u * 3 + plasmaT2 * 0.3) * mobiusFactor;
+        const omega = Math.sin(v * 2 + plasmaT1 * 0.5) * mobiusFactor;
+
+        const fastScale = 0.3;
+        let bx = x + Math.sin(t * 0.1 + phi) * fastScale;
+        let by = y + Math.cos(t * 0.1 + theta) * fastScale;
+        let bz = z + Math.sin(t * 0.1 + omega) * fastScale;
+
+        positions.push({ x: bx, y: by, z: bz });
+      }
+
+      // Apply quaternion rotation
+      if (quaternion) {
+        const rotatedPositions = positions.map(p => {
+          const vec = new THREE.Vector3(p.x, p.y, p.z);
+          vec.applyQuaternion(quaternion);
+          return { x: vec.x, y: vec.y, z: vec.z };
+        });
+        return rotatedPositions;
+      }
+
+      return positions;
     }
 
-    // Collect points
-    let minZ = Infinity, maxZ = -Infinity;
-    const rawPoints = [];
-
-    for (let i = 0; i < numPoints; i++) {
-      const dx = a * (y - x) + d * x * z;
-      const dy = b * x - y - x * z;
-      const dz = c * z + x * y - 0.1 * z * z * z;
-      x += dx * dt;
-      y += dy * dt;
-      z += dz * dt;
-
-      rawPoints.push({ x, y, z });
-      minZ = Math.min(minZ, z);
-      maxZ = Math.max(maxZ, z);
+    // Initialize trails with starting positions
+    const initQuat = new THREE.Quaternion(0, 0, 0, 1);
+    const initPositions = mobiusKleinAttractor(0, initQuat);
+    for (let t = 0; t < trailLength; t++) {
+      for (let i = 0; i < numTracers; i++) {
+        trailX[t][i] = initPositions[i].x;
+        trailY[t][i] = initPositions[i].y;
+        trailZ[t][i] = initPositions[i].z;
+      }
     }
+    prevPoints = initPositions.map(p => ({ x: p.x, y: p.y, z: p.z }));
 
-    // Scale and center
-    let sumX = 0, sumY = 0, sumZ = 0;
-    rawPoints.forEach(p => {
-      sumX += p.x;
-      sumY += p.y;
-      sumZ += p.z;
-    });
-    const centerX = sumX / numPoints;
-    const centerY = sumY / numPoints;
-    const centerZ = sumZ / numPoints;
+    // Create geometry for all trail points
+    const totalPoints = trailLength * numTracers;
+    const positions = new Float32Array(totalPoints * 3);
+    const colors = new Float32Array(totalPoints * 4);
 
-    let maxDist = 0;
-    rawPoints.forEach(p => {
-      const dist = Math.sqrt(
-        Math.pow(p.x - centerX, 2) +
-        Math.pow(p.y - centerY, 2) +
-        Math.pow(p.z - centerZ, 2)
-      );
-      maxDist = Math.max(maxDist, dist);
-    });
-
-    const scale = 1.5 / maxDist;
-
-    rawPoints.forEach((p, i) => {
-      const px = (p.x - centerX) * scale;
-      const py = (p.y - centerY) * scale;
-      const pz = (p.z - centerZ) * scale;
-
-      positions.push(px, py, pz);
-
-      const color = getColor(p.z, minZ, maxZ);
-      colors.push(color.r, color.g, color.b);
-    });
-
-    // Create points geometry
     const geometry = new THREE.BufferGeometry();
-    geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
-    geometry.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
+    geometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+    geometry.setAttribute('color', new THREE.BufferAttribute(colors, 4));
 
-    // Point material with vertex colors
-    const material = new THREE.PointsMaterial({
-      size: 0.02,
-      vertexColors: true,
+    // Custom shader material for per-vertex alpha
+    const material = new THREE.ShaderMaterial({
+      vertexShader: `
+        attribute vec4 color;
+        varying vec4 vColor;
+        void main() {
+          vColor = color;
+          vec4 mvPosition = modelViewMatrix * vec4(position, 1.0);
+          gl_PointSize = 3.0 * (300.0 / -mvPosition.z);
+          gl_Position = projectionMatrix * mvPosition;
+        }
+      `,
+      fragmentShader: `
+        varying vec4 vColor;
+        void main() {
+          float dist = length(gl_PointCoord - vec2(0.5));
+          if (dist > 0.5) discard;
+          gl_FragColor = vColor;
+        }
+      `,
       transparent: true,
-      opacity: 0.8,
-      sizeAttenuation: true,
+      depthWrite: false,
       blending: THREE.AdditiveBlending
     });
 
     const points = new THREE.Points(geometry, material);
     scene.add(points);
 
-    // Trail effect - create multiple slightly rotated copies with decreasing opacity
-    const trailCount = 5;
-    const trails = [];
+    let frame = 0;
 
-    for (let i = 1; i <= trailCount; i++) {
-      const trailGeometry = geometry.clone();
-      const trailMaterial = new THREE.PointsMaterial({
-        size: 0.015 - i * 0.002,
-        vertexColors: true,
-        transparent: true,
-        opacity: 0.6 - i * 0.1,
-        sizeAttenuation: true,
-        blending: THREE.AdditiveBlending
-      });
+    function updateColors() {
+      const colorAttr = geometry.attributes.color;
 
-      const trail = new THREE.Points(trailGeometry, trailMaterial);
-      trails.push(trail);
-      scene.add(trail);
+      // Find z range across all trail points
+      let zMin = Infinity, zMax = -Infinity;
+      for (let t = 0; t < trailLength; t++) {
+        for (let i = 0; i < numTracers; i++) {
+          const z = trailZ[t][i];
+          if (z < zMin) zMin = z;
+          if (z > zMax) zMax = z;
+        }
+      }
+      const zRange = zMax - zMin + 1e-6;
+
+      let idx = 0;
+      for (let t = 0; t < trailLength; t++) {
+        // Trail fade: older = more transparent
+        const trailAlpha = (t + 1) / trailLength;
+
+        for (let i = 0; i < numTracers; i++) {
+          const z = trailZ[t][i];
+          const zNorm = (z - zMin) / zRange;
+
+          const rgb = blueYellowRed(zNorm);
+
+          // Alpha modulation from Python: higher near middle z values
+          const baseAlpha = 0.5 + 0.5 * (1 - Math.abs(zNorm - 0.5) * 2);
+          const alpha = baseAlpha * trailAlpha * 0.8;
+
+          colorAttr.array[idx * 4] = rgb.r;
+          colorAttr.array[idx * 4 + 1] = rgb.g;
+          colorAttr.array[idx * 4 + 2] = rgb.b;
+          colorAttr.array[idx * 4 + 3] = alpha;
+          idx++;
+        }
+      }
+      colorAttr.needsUpdate = true;
     }
 
-    // Quaternion rotation setup for smooth animation
-    const targetQuaternion = new THREE.Quaternion();
-    const currentQuaternion = new THREE.Quaternion();
-    let time = 0;
-    let nextTargetTime = 0;
-    const targetDuration = 8; // seconds between new targets
-
-    function generateRandomQuaternion() {
-      const axis = new THREE.Vector3(
-        Math.random() - 0.5,
-        Math.random() - 0.5,
-        Math.random() - 0.5
-      ).normalize();
-      const angle = Math.random() * Math.PI * 2;
-      return new THREE.Quaternion().setFromAxisAngle(axis, angle);
+    function updatePositions() {
+      const posAttr = geometry.attributes.position;
+      let idx = 0;
+      for (let t = 0; t < trailLength; t++) {
+        for (let i = 0; i < numTracers; i++) {
+          posAttr.array[idx * 3] = trailX[t][i];
+          posAttr.array[idx * 3 + 1] = trailY[t][i];
+          posAttr.array[idx * 3 + 2] = trailZ[t][i];
+          idx++;
+        }
+      }
+      posAttr.needsUpdate = true;
     }
-
-    let startQuaternion = new THREE.Quaternion();
-    targetQuaternion.copy(generateRandomQuaternion());
-
-    // Animation loop
-    let lastTime = performance.now();
 
     function animate() {
       requestAnimationFrame(animate);
+      frame++;
 
-      const now = performance.now();
-      const delta = (now - lastTime) / 1000;
-      lastTime = now;
-      time += delta;
+      // Compute candidate quaternion (matching Python)
+      const qCandidate = new THREE.Quaternion(
+        Math.sin(frame * 0.01),
+        Math.cos(frame * 0.01),
+        Math.sin(frame * 0.005),
+        1
+      ).normalize();
 
-      // Update target quaternion periodically
-      if (time >= nextTargetTime) {
-        startQuaternion.copy(currentQuaternion);
-        targetQuaternion.copy(generateRandomQuaternion());
-        nextTargetTime = time + targetDuration;
+      // SLERP interpolation (t=0.2 like Python)
+      const qInterp = globalQPrev.clone().slerp(qCandidate, 0.2);
+      globalQPrev.copy(qInterp);
+
+      // Compute new attractor positions
+      const newPositions = mobiusKleinAttractor(globalEffectiveT, qInterp);
+
+      // Dynamic time scaling based on displacement
+      let totalDisplacement = 0;
+      for (let i = 0; i < numTracers; i++) {
+        const dx = newPositions[i].x - prevPoints[i].x;
+        const dy = newPositions[i].y - prevPoints[i].y;
+        const dz = newPositions[i].z - prevPoints[i].z;
+        totalDisplacement += Math.sqrt(dx*dx + dy*dy + dz*dz);
+      }
+      const avgSpeed = totalDisplacement / numTracers;
+      const newDt = baseDt / (1 + alphaSpeed * avgSpeed);
+      const dt = (1 - betaDt) * prevDt + betaDt * newDt;
+      prevDt = dt;
+      globalEffectiveT += dt;
+
+      // Update prev points
+      for (let i = 0; i < numTracers; i++) {
+        prevPoints[i].x = newPositions[i].x;
+        prevPoints[i].y = newPositions[i].y;
+        prevPoints[i].z = newPositions[i].z;
       }
 
-      // SLERP interpolation for smooth rotation
-      const t = Math.min((time - (nextTargetTime - targetDuration)) / targetDuration, 1);
-      const easeT = t * t * (3 - 2 * t); // Smoothstep easing
-      currentQuaternion.slerpQuaternions(startQuaternion, targetQuaternion, easeT);
+      // Shift trail buffers (older first)
+      const oldX = trailX.shift();
+      const oldY = trailY.shift();
+      const oldZ = trailZ.shift();
 
-      // Apply rotation to main points
-      points.quaternion.copy(currentQuaternion);
+      // Reuse arrays for new positions
+      for (let i = 0; i < numTracers; i++) {
+        oldX[i] = newPositions[i].x;
+        oldY[i] = newPositions[i].y;
+        oldZ[i] = newPositions[i].z;
+      }
+      trailX.push(oldX);
+      trailY.push(oldY);
+      trailZ.push(oldZ);
 
-      // Apply slightly delayed rotations to trails
-      trails.forEach((trail, i) => {
-        const trailT = Math.max(0, easeT - (i + 1) * 0.05);
-        const trailQuat = new THREE.Quaternion();
-        trailQuat.slerpQuaternions(startQuaternion, targetQuaternion, trailT);
-        trail.quaternion.copy(trailQuat);
-      });
-
-      // Subtle continuous rotation
-      const slowRotation = new THREE.Quaternion();
-      slowRotation.setFromEuler(new THREE.Euler(
-        Math.sin(time * 0.1) * 0.001,
-        delta * 0.2,
-        Math.cos(time * 0.15) * 0.001
-      ));
-
-      points.quaternion.multiply(slowRotation);
-      trails.forEach(trail => trail.quaternion.multiply(slowRotation));
+      updatePositions();
+      updateColors();
 
       renderer.render(scene, camera);
     }
@@ -253,30 +300,15 @@
     function onResize() {
       const newWidth = container.offsetWidth;
       const newHeight = container.offsetHeight;
-
       if (newWidth > 0 && newHeight > 0) {
         camera.aspect = newWidth / newHeight;
         camera.updateProjectionMatrix();
         renderer.setSize(newWidth, newHeight);
       }
     }
-
     window.addEventListener('resize', onResize);
-
-    // Cleanup on page navigation (for SPAs)
-    window.addEventListener('beforeunload', () => {
-      window.removeEventListener('resize', onResize);
-      geometry.dispose();
-      material.dispose();
-      trails.forEach(t => {
-        t.geometry.dispose();
-        t.material.dispose();
-      });
-      renderer.dispose();
-    });
   }
 
-  // Start when DOM is ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
   } else {
