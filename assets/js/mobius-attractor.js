@@ -196,19 +196,21 @@
 
     let frame = 0;
 
-    function blueYellowRed(t) {
-      // Exact colormap from Python
+    function siteColormap(t) {
+      // Site colors: lavender (#DDCFFF) -> blue (#040DE1) -> dark (#1a1a1a)
       let r, g, b;
       if (t < 0.5) {
+        // Lavender to Blue
         const s = t * 2;
-        r = s;
-        g = s;
-        b = 1 - s;
+        r = 0.867 * (1 - s) + 0.016 * s;  // DD -> 04
+        g = 0.812 * (1 - s) + 0.051 * s;  // CF -> 0D
+        b = 1.0 * (1 - s) + 0.882 * s;    // FF -> E1
       } else {
+        // Blue to Dark
         const s = (t - 0.5) * 2;
-        r = 1;
-        g = 1 - s;
-        b = 0;
+        r = 0.016 * (1 - s) + 0.1 * s;    // 04 -> 1a
+        g = 0.051 * (1 - s) + 0.1 * s;    // 0D -> 1a
+        b = 0.882 * (1 - s) + 0.1 * s;    // E1 -> 1a
       }
       return [r, g, b];
     }
@@ -290,7 +292,7 @@
           posAttr.array[idx*3+2] = trailZ[t][i];
 
           const zNorm = (trailZ[t][i] - zMin) / zRange;
-          const [r, g, b] = blueYellowRed(zNorm);
+          const [r, g, b] = siteColormap(zNorm);
 
           // Keep colors vibrant, minimal fade
           colAttr.array[idx*3] = r * trailFade;
