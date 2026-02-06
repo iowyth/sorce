@@ -57,7 +57,7 @@
 
     // Dynamic time scaling state
     let globalEffectiveT = 0;
-    const baseDt = 0.5;
+    const baseDt = 0.25;  // Slower animation
     const alphaSpeed = 0.1;
     const betaDt = 0.3;
     let prevDt = baseDt;
@@ -282,7 +282,8 @@
 
       let idx = 0;
       for (let t = 0; t < trailLength; t++) {
-        const trailFade = (t + 1) / trailLength;
+        // Trail fade: keep colors bright, just reduce slightly for older points
+        const trailFade = 0.4 + 0.6 * ((t + 1) / trailLength);
         for (let i = 0; i < numTracers; i++) {
           posAttr.array[idx*3] = trailX[t][i];
           posAttr.array[idx*3+1] = trailY[t][i];
@@ -291,7 +292,7 @@
           const zNorm = (trailZ[t][i] - zMin) / zRange;
           const [r, g, b] = blueYellowRed(zNorm);
 
-          // Apply trail fade to brightness
+          // Keep colors vibrant, minimal fade
           colAttr.array[idx*3] = r * trailFade;
           colAttr.array[idx*3+1] = g * trailFade;
           colAttr.array[idx*3+2] = b * trailFade;
