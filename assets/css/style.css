@@ -247,6 +247,29 @@ a:hover {
   margin-top: 0;
 }
 
+/* Möbius Attractor Animation */
+.mobius-animation {
+  width: 100%;
+  height: 300px;
+  margin: 1.5rem 0;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  background: transparent;
+}
+
+.mobius-animation canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .mobius-animation {
+    height: 200px;
+    margin: 1rem 0;
+  }
+}
+
 .posts-list {
   list-style: none;
   padding-left: 0;
