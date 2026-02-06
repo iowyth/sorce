@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
-
-<div class="home-intro">
-  <p><strong>SORCE Collective</strong> generates opportunities for artist-academics to connect, reflect, and share their practices in the hopes of fostering creative collaborations.</p>
-</div>
 
 ## Recent Posts
 

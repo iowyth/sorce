@@ -61,8 +61,9 @@ h1, h2, h3, h4, h5, h6 {
 .wiki-body > h1:first-child,
 .wiki-body > h2:first-child,
 .wiki-body > h3:first-child,
-.home-intro > h1:first-child,
-.home-intro > h2:first-child {
+.home-content > h1:first-child,
+.home-content > h2:first-child,
+.home-content > h3:first-child {
   margin-top: 0;
 }
 
@@ -214,21 +215,41 @@ a:hover {
 }
 
 /* Home Page */
-.home-intro {
+.home {
   background-color: transparent !important;
-  padding: 3rem;
+  padding: 2.5rem;
   border-radius: 2rem;
-  margin-bottom: 3rem;
   border: 3px solid var(--primary-blue);
 }
 
-.home-intro p {
+.home-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--primary-blue);
+}
+
+.home-title {
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+.home-subtitle {
   font-size: 1.1rem;
   margin-bottom: 0;
+  color: var(--text-dark);
+}
+
+.home-content {
+  padding-top: 0.5rem;
+}
+
+.home-content h2:first-child {
+  margin-top: 0;
 }
 
 .posts-list {
   list-style: none;
+  padding-left: 0;
 }
 
 .posts-list li {
