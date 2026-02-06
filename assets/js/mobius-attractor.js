@@ -116,6 +116,7 @@
 
     // Möbius-Klein attractor - exact port from Python
     function mobiusKleinAttractor(t, quat, outX, outY, outZ) {
+      // Plasma oscillation - EXACT Python frequencies
       const plasmaT1 = Math.sin(t * 0.02);
       const plasmaT2 = Math.cos(t * 0.02);
 
@@ -138,6 +139,7 @@
         const omega = Math.sin(v * 2 + plasmaT1 * 0.5) * mobiusFactor;
 
         const fastScale = 0.3;
+        // EXACT Python frequencies
         let bx = x + Math.sin(t * 0.1 + phi) * fastScale;
         let by = y + Math.cos(t * 0.1 + theta) * fastScale;
         let bz = z + Math.sin(t * 0.1 + omega) * fastScale;
@@ -197,7 +199,7 @@
     let frame = 0;
 
     function siteColormap(t) {
-      // Site colors: lavender (#DDCFFF) -> blue (#040DE1) -> dark (#1a1a1a)
+      // Gentler palette: lavender (#DDCFFF) -> blue (#040DE1) -> deep purple (#3a2875)
       let r, g, b;
       if (t < 0.5) {
         // Lavender to Blue
@@ -206,11 +208,11 @@
         g = 0.812 * (1 - s) + 0.051 * s;  // CF -> 0D
         b = 1.0 * (1 - s) + 0.882 * s;    // FF -> E1
       } else {
-        // Blue to Dark
+        // Blue to Deep Purple (not black)
         const s = (t - 0.5) * 2;
-        r = 0.016 * (1 - s) + 0.1 * s;    // 04 -> 1a
-        g = 0.051 * (1 - s) + 0.1 * s;    // 0D -> 1a
-        b = 0.882 * (1 - s) + 0.1 * s;    // E1 -> 1a
+        r = 0.016 * (1 - s) + 0.227 * s;  // 04 -> 3a
+        g = 0.051 * (1 - s) + 0.157 * s;  // 0D -> 28
+        b = 0.882 * (1 - s) + 0.459 * s;  // E1 -> 75
       }
       return [r, g, b];
     }
@@ -218,7 +220,7 @@
     function update() {
       frame++;
 
-      // Compute candidate quaternion (matching Python exactly)
+      // Compute candidate quaternion - EXACT Python frequencies
       const qCandidate = normalizeQuat([
         Math.sin(frame * 0.01),
         Math.cos(frame * 0.01),
