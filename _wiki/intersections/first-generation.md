@@ -6,11 +6,11 @@ section: Intersections
 
 First generation students—those who are the first in their families to attend university or pursue graduate studies—bring unique perspectives and face particular challenges. This section gathers resources and advice.
 
-There are several first-generation students and students from working-class backgrounds in graduate programs. There is communication and etiquette that those of us in this category are not aware of. It is often hard to figure out who the other first-generation and working-class students are unless the individual discloses the information.
+There are many potential barriers that first-generation students and students from working-class backgrounds might face in graduate programs. There is communication and etiquette that is assumed of cultural insiders that those without exposure could not be aware of. It can be hard to figure out, unless you have people you can ask who know and can explain necessary information. Practically, this can mean hidden labour that may create unseen disadvantages, but also hidden potential strengths.
 
 ## What Does "First Generation" Mean?
 
-Definitions vary, but typically refers to students whose parents did not attend university. This might mean:
+Definitions vary, but typically this refers to students whose parents did not attend university. This might mean:
 
 - First in your family to attend any post-secondary education
 - First to attend university (vs. college)
@@ -23,35 +23,38 @@ The experience of being first carries with it both pride and unique challenges.
 Graduate school has unwritten rules that students from academic families often learn growing up. As a first-gen student, you may need to actively learn things others take for granted:
 
 ### Academic Culture
-- How to address professors and supervisors
-- What conferences are and why they matter
-- How publishing works
-- The difference between thesis and dissertation
-- What "ABD" means (All But Dissertation)
+- Conversing with professors, supervisors, and other professionals
+- What conferences and publications matter and why
+- How the conventions of publishing "works"
+- Academic writing as a style
+- Acronyms like "ABD" (All But Dissertation)
 
 ### Practical Knowledge
-- How funding packages work
-- The purpose of office hours
-- How to ask for letters of reference
-- What professional development opportunities to pursue
-- How to network at academic events
+- How to string together different funding streams
+- Effective use of meetings, brainstorming, and advising
+- Obtaining good references
+- What opportunities to pursue and why
+- How to move networking into relationships
 
 ### Emotional Knowledge
-- Imposter syndrome is common and normal
-- Asking questions is a strength, not a weakness
-- You belong here
-- Your perspective is valuable
+- Imposter syndrome is pervasive
+- Feelings of ill-fit can be caused by real friction
+- Asking questions is how we learn
+- Learn who to ask questions and how
+- If you act like you belong, others may follow suit
+- Your perspective is crucial
 
 ## Tips from First-Gen Students
 
-**Finding your people:** First, build a support system. This could be a circle of care including friends, faculty mentors, and a community of people outside of academia. You may need to go to these people to reflect and disclose information if your supervisor or committee members do not have the capacity to talk with you as often as you may need.
+**Finding your people:** First, build a support system. This could be a circle of care including friends, faculty mentors, and a community of people outside of academia. You may need to go to these people to reflect and disclose information if your supervisor or committee members do not have the capacity to process with you as often as you may need.
 
-- Find mentors who understand your experience
-- Ask questions—there are no stupid questions
-- Connect with other first-gen students
+- Find mentors who share common ground with your experiences
+- Ask very specific questions
+- Learn exactly what you need to know and be direct
+- Form solidarity with other first-gen students
 - Celebrate your achievements
 - Your family may not understand your work, and that's okay
-- Translate academic jargon when talking to family
+- Translating academic jargon when talking to family can be a real strength
 
 **Further reading:** [Tips for First-Generation, Working-Class Grad School Students](https://www.insidehighered.com/opinion/career-advice/2023/11/03/tips-first-generation-working-class-grad-school-students-opinion) (Inside Higher Ed)
 
@@ -116,9 +119,9 @@ Community and resources for first-generation college students.
 First-gen grad students often find support in connecting with others who share the experience. Consider:
 
 - Starting or joining a first-gen grad student group
-- Mentoring first-gen undergrads
-- Sharing your story
-- Advocating for first-gen support services
+- Mentoring networks between undergraduate/graduate studies
+- Narrativising your stories, struggles, and achievements
+- Advocating for support services
 
 ---
 
