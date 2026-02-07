@@ -13,7 +13,7 @@
   <link href="https://fonts.cdnfonts.com/css/uni-0553" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=6">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=7">
 
   <!-- SEO -->
   {% seo %}
@@ -45,6 +45,8 @@
     </div>
   </header>
 
+  <div id="mobius-container" class="mobius-animation"></div>
+
   <main class="site-main">
     <div class="container">
       {{ content }}
@@ -61,5 +63,9 @@
   </footer>
 
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+
+  <!-- Three.js for animation -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="{{ '/assets/js/mobius-attractor.js' | relative_url }}?v=3"></script>
 </body>
 </html>
