@@ -74,7 +74,7 @@ Instagram/Twitter: @trimentoring
 **[Ontario First Generation Bursary](https://www.torontomu.ca/student-financial-assistance/scholarships-bursaries/first-generation/)**
 Through AwardSpring, TMU offers the Ontario First-Generation Bursary for students with financial need who are the first in their family to attend post-secondary education. Graduate students are eligible.
 - Apply through [AwardSpring](https://torontomu.awardspring.ca/) during fall semester
-- **Fall semester deadline: October 31, 2025**
+- **Fall semester deadline: October**
 - Requires a 500-word statement about your experience as a first-gen student
 - Does not affect OSAP entitlement
 
