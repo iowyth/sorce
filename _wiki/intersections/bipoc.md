@@ -4,7 +4,7 @@ permalink: /wiki/intersections/bipoc/
 section: Intersections
 ---
 
-Black, Indigenous, and People of Colour (BIPOC) students navigate academia while often facing systemic barriers, microaggressions, and additional labour. This section gathers resources specific to York and TMU.
+Black, Indigenous, and People of Colour (BIPOC) students navigate academia while often facing systemic barriers, microaggressions, and additional labour. 
 
 ## Navigating the Academy
 
