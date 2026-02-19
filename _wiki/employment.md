@@ -108,7 +108,7 @@ Your union can help with:
 - Contract Lecturers (Unit 1)
 - Continuing Education Instructors (Unit 2)
 
-[CUPE 3904 website](https://www.cupe3904.org/)
+[CUPE 3904 collective agreements](https://www.torontomu.ca/faculty-affairs/resources/documents/collective-agreements/)
 
 ### Why This Matters
 

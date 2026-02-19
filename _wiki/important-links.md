@@ -67,8 +67,8 @@ You have full access to both library systems — use whichever has what you need
 ## Funding & Awards
 
 **Graduate Awards**
-- York: [FGS Funding](https://www.yorku.ca/gradstudies/students/current-students/student-finances/)
-- TMU: [YSGS Funding](https://www.torontomu.ca/graduate/future-students/financing-your-degree/)
+- York: [FGS Funding](https://www.yorku.ca/gradstudies/students/current-students/graduate-funding/)
+- TMU: [YSGS Funding](https://www.torontomu.ca/graduate/tuition-funding/scholarships-awards/)
 
 **Financial Aid**
 - York: [Student Financial Services](https://sfs.yorku.ca/)
@@ -92,7 +92,7 @@ Your union and association can help with benefits, advocacy, and community.
 
 **Union (TAs)**
 - York: [CUPE 3903](https://cupe3903.org/)
-- TMU: [CUPE 3904](https://www.cupe3904.org/)
+- TMU: [CUPE 3904](https://www.torontomu.ca/faculty-affairs/resources/documents/collective-agreements/)
 
 ## Campus Maps & Getting Around
 
@@ -102,9 +102,9 @@ Your union and association can help with benefits, advocacy, and community.
 
 **Getting to Campus**
 - York: [York Transit](https://www.yorku.ca/transportation/)
-- TMU: [TMU Location](https://www.torontomu.ca/maps/)
+- TMU: [TMU Station (TTC)](https://www.ttc.ca/subway-stations/tmu-station)
 
-**TTC**: Both campuses are accessible by TTC. York is at the end of Line 1 (Keele Campus). TMU is downtown near Dundas and Yonge.
+**TTC**: Both campuses are accessible by TTC. York is at Pioneer Village Station (Line 1). TMU is at TMU Station (formerly Dundas, Line 1 at Yonge & Dundas).
 
 ## Booking Space on Campus
 
@@ -127,11 +127,10 @@ Your union and association can help with benefits, advocacy, and community.
 - The Fashion Zone: Design Incubator
 
 **York**
-- [The Sensorium](https://sensorium.info.yorku.ca/) — Media arts, performance, & digital tech
-- [Digital Scholarship Centre](https://www.library.yorku.ca/ds/) — Equipment Loans & space
-- [Research & Learn](https://www.library.yorku.ca/web/research-learn/) — Publishing support
-- Sound and Moving Image Archive
-- Dispersion Lab
+- [Sensorium](https://sensorium.ampd.yorku.ca/) — Centre for Digital Arts & Technology
+- [DisPerSion Lab](https://dispersionlab.org/) — Distributed performance & sensorial immersion
+- [Sound and Moving Image Library](https://www.library.yorku.ca/web/smil/) — Media archive & equipment
+- [Digital Scholarship Centre](https://www.library.yorku.ca/ds/) — Equipment loans & space
 
 ---
 

@@ -14,11 +14,11 @@ MA students in Communication and Culture must complete **9.0 credits** of course
 
 ### Required Core Courses
 
-| TMU Code | York Code | Course Title |
-|----------|-----------|--------------|
-| CC 8902 | CMCT 6000 | Research Methodologies |
-| CC 8905 | CMCT 6001 | MA Research Specialization and Practice |
-| CC 8906 | — | Communication and Culture: An Interdisciplinary Approach |
+| TMU Code | York Code | Course Title                                             |
+|:---------|:----------|:---------------------------------------------------------|
+| CC 8902  | CMCT 6000 | Research Methodologies                                   |
+| CC 8905  | CMCT 6001 | MA Research Specialization and Practice                  |
+| CC 8906  | —         | Communication and Culture: An Interdisciplinary Approach |
 
 ### Electives
 
