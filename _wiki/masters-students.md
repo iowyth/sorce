@@ -22,10 +22,10 @@ MA students in Communication and Culture must complete **9.0 credits** of course
 
 ### Electives
 
-The remaining credits come from specialization electives (approximately 5 credits), organized into three groups:
-- **Group I**: Communication Theory
-- **Group II**: Culture Theory
-- **Group III**: Research Methodologies
+The remaining credits come from specialization electives (approximately 5 credits). You must take at least one course from each of the three areas:
+- **Media and Culture (M&C)**
+- **Politics and Policy (P&P)**
+- **Technology in Practice (TinP)**
 
 ### Completion Options (1 credit)
 

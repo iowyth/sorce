@@ -60,10 +60,10 @@ The following core courses are required:
 | CC 9904  | CMCT 7000 | Perspectives in Communication and Culture   |
 | CC 9906  | CMCT 7005 | PhD Field Seminar: Disciplinary Practice    |
 
-The remaining credits come from specialization electives, which are organized into three groups:
-- **Group I**: Communication Theory
-- **Group II**: Culture Theory
-- **Group III**: Research Methodologies
+The remaining credits come from specialization electives. You choose a major (minimum 2 half-courses) and minor (minimum 1 half-course) from these three areas:
+- **Media and Culture (M&C)**
+- **Politics and Policy (P&P)**
+- **Technology in Practice (TinP)**
 
 You may take courses at either York or TMU. When selecting courses, consider:
 
