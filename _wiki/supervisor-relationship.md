@@ -21,7 +21,7 @@ All activities outside of these official duties, including meeting frequency, co
 
 ## Finding a Supervisor and Committee
 
-If you are completely at a loss of who might fit with your research, the [York program website](https://www.yorku.ca/gradstudies/cmct/) has a search option for the faculty that can be very helpful.
+If you are completely at a loss of who might fit with your research, the [York program website](https://www.yorku.ca/gradstudies/cmct/) has a search option for the faculty that can be very helpful and this is the [TMU faculty page] (https://www.torontomu.ca/graduate/programs/comcult/people/#!accordion-1732629529375-faculty-research-profiles) with links to research profiles.
 
 ### Considerations When Locating an Appropriate Supervisor
 
