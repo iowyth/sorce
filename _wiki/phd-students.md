@@ -54,11 +54,11 @@ PhD students in Communication and Culture must complete **6.0 credits** of cours
 
 The following core courses are required:
 
-| TMU Code | York Code | Course Title                                                        |
-|:---------|:----------|:--------------------------------------------------------------------|
-| CC 9900  | CMCT 7000 | Doctoral Research and Scholarly Writing                             |
-| CC 9904  | —         | Doctoral Research Specialization and Practice                       |
-| CC 9906  | —         | Communication and Culture: An Interdisciplinary Approach (Doctoral) |
+| TMU Code | York Code | Course Title                                |
+|:---------|:----------|:--------------------------------------------|
+| CC 9900  | CMCT 7200 | Advanced Research Methodologies             |
+| CC 9904  | CMCT 7000 | Perspectives in Communication and Culture   |
+| CC 9906  | CMCT 7005 | PhD Field Seminar: Disciplinary Practice    |
 
 The remaining credits come from specialization electives, which are organized into three groups:
 - **Group I**: Communication Theory
