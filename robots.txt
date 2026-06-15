@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iowyth.github.io/sorce/sitemap.xml
