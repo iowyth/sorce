@@ -25,8 +25,10 @@ section: Program Requirements
 ## Traditional Formatting
 
 **Basic Requirements:**
-- Title, name of the supervisor and the supervisory committee
-- Length: 8-10 pages + bibliography (maximum = 3500 words)
+- **Committee:** Must include the names of your supervisor and the supervisory committee members. Because this is a joint program, committees usually require faculty representatives from both York and TMU.
+- **Length:** The proposal text should not exceed **3,500 words** (excluding bibliography), which corresponds to approximately 8–10 double-spaced pages.
+- **Official Deadline:** The approved dissertation proposal must be formally submitted within **5 months** of successfully passing your Qualifying (Comprehensive) Examinations.
+- **Holds/Blocks:** Failing to submit the approved proposal within this 5-month window can result in registration holds or blocks at your home university (YSGPS at TMU or FGS at York).
 
 ### Title
 

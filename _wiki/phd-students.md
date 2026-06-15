@@ -48,7 +48,9 @@ For those who use AI, this can be helpful to summarise readings, however, it is 
 
 The [Course Schedule is available here](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/), under the section COURSE ENROLLMENT.
 
-PhD students in Communication and Culture must complete **6.0 credits** of coursework (typically 6 one-credit courses or equivalent).
+PhD students in Communication and Culture must complete **6 courses** total of coursework. This translates differently depending on your home institution:
+- At **TMU**, this equals **6.0 credits** (typically 6 one-credit courses).
+- At **York**, this equals **18.0 credits** (typically 6 three-credit courses).
 
 ### Required Courses
 
@@ -97,7 +99,7 @@ Directed reading courses are offered by individual faculty members. You make rea
 - Develop research focus
 
 ### Year 2-3
-- Complete comprehensive examinations
+- Complete comprehensive examinations (normally taken in the Fall term of Year 2, immediately following coursework completion)
 - Write and defend dissertation proposal
 - Apply for external funding (SSHRC, OGS)
 

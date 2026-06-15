@@ -22,17 +22,23 @@ MA students in Communication and Culture must complete **9.0 credits** of course
 
 ### Electives
 
-The remaining credits come from specialization electives (approximately 5 credits). You must take at least one course from each of the three areas:
+The remaining credits come from specialization electives. The exact number of electives depends on your chosen completion option:
+- **Major Research Paper (MRP) Option:** You must complete **5 elective courses** (3 required core courses + 5 electives = 8 courses total; the MRP itself acts as the 9th credit at TMU, or equivalent credit weight at York).
+- **Thesis or Project Option:** You must complete **3 elective courses** (3 required core courses + 3 electives = 6 courses total; the Thesis/Project itself represents a larger credit weight of 3.0 credits).
+
+Regardless of the option you select, you must take at least one elective course from each of the three program areas:
 - **Media and Culture (M&C)**
 - **Politics and Policy (P&P)**
 - **Technology in Practice (TinP)**
 
-### Completion Options (1 credit)
+### Completion Options
 
-You must complete one of the following:
-- **Research Paper** (MRP) — most common option
-- **Thesis** — involves committee and defense
-- **Project** — creative or applied work
+You must complete one of the following research milestones:
+- **Research Paper (MRP)** — most common option (usually 40–60 pages).
+- **Thesis** — involves original research, a committee, and an oral defense (normally 100–120 pages).
+- **Project** — creative, digital, or applied work accompanied by a written synthesis report.
+
+**Milestone Timing:** Full-time MA students are required to formally submit their Option Request (declaring whether they are doing a Thesis, MRP, or Project) and have their supervisor secured by **June 30** of their first year.
 
 You may take as many courses as you can or want. If you are on fellowship funding through the department, however, you get free courses, and the faculty pays per course, so don't go crazy. That said, a lot of learning and networking happens during the courses that happens nowhere else; it's nice to take full advantage of the courses offered.
 

@@ -52,9 +52,14 @@ Try: "Can you give me a survey of the major thinkers in (subject area), includin
 
 ## Choosing Your Questions
 
-You need to choose three questions for each section of your Comprehensive Exams. These will be the essay questions that you answer in your exam and are developed in collaboration with your supervisor and committee members, agreed upon, and then submitted to the chair for approval along with your comprehensive lists.
+In the ComCult program, the examination questions are developed in collaboration with your supervisor and committee, agreed upon, and then formally submitted for approval along with your comprehensive bibliographies.
 
-As you will only need to answer one of the three questions for each section, many candidates choose to "pre-write" two of their questions, leaving the third to fly in the wind. Two questions are selected by the committee, with the candidate then left to choose one of these. Pre-writing two papers enables efficient preparation for the exam.
+The questions are typically structured around a three-part analytical framework to assess your overall command of the field:
+1. **The Foundation (Breadth):** Tests your broad historical and theoretical grounding in the theorists, eras, or schools of thought represented in your bibliographies.
+2. **The Critical Friction (Depth):** Evaluates your ability to identify conflicts, limitations, contradictions, or blind spots within these theories.
+3. **The Synthesis (Application):** Assesses your capacity to apply these theoretical frameworks and critiques to a contemporary research problem, case study, or creative/pedagogical design.
+
+As you will only need to answer one question for each section of your exam, committees typically ask you to develop three questions for each section (giving them options to select from). Many candidates choose to "pre-write" outlines for two of their questions in each category to prepare efficiently.
 
 Of course, the traditional test gives you two days, only 24 hours for each section. In the 48hr option, you are expected to write 2 papers - both majors, and then you can take a break and have another 24 for your minor.
 
@@ -66,8 +71,9 @@ Committees will often select those questions that appear to be invested with spe
 - Is your question grounded, enabling you to selectively read your texts?
 
 **Request Your Exam:**
-- [TMU Forms & Resources](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/)
-- [York FGS Forms](https://www.yorku.ca/gradstudies/students/current-students/registration-enrolment/fgs-forms/)
+*   You must formally submit the Qualifying Exam request form at least **20 business days (1 month)** before your first written exam date.
+*   [TMU Forms & Resources](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/)
+*   [York FGS Forms](https://www.yorku.ca/gradstudies/students/current-students/registration-enrolment/fgs-forms/)
 
 ## Writing Your Comps Papers
 
