@@ -167,11 +167,13 @@
     // Create geometry
     const totalPoints = trailLength * numTracers;
     const positions = new Float32Array(totalPoints * 3);
-    const colors = new Float32Array(totalPoints * 4); // RGBA
+    const colors = new Float32Array(totalPoints * 3); // RGB
+    const alphas = new Float32Array(totalPoints);     // Alpha
 
     const geometry = new THREE.BufferGeometry();
     geometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
-    geometry.setAttribute('color', new THREE.BufferAttribute(colors, 4));
+    geometry.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+    geometry.setAttribute('alpha', new THREE.BufferAttribute(alphas, 1));
 
     function createFuzzyParticleTexture() {
       const size = 64;
@@ -198,6 +200,21 @@
       opacity: 0.7,
       depthWrite: false
     });
+
+    material.onBeforeCompile = (shader) => {
+      shader.vertexShader = shader.vertexShader.replace(
+        'void main() {',
+        'attribute float alpha;\nvarying float vAlpha;\nvoid main() {\nvAlpha = alpha;'
+      );
+      shader.fragmentShader = shader.fragmentShader.replace(
+        'void main() {',
+        'varying float vAlpha;\nvoid main() {'
+      );
+      shader.fragmentShader = shader.fragmentShader.replace(
+        'vec4 diffuseColor = vec4( diffuse, opacity );',
+        'vec4 diffuseColor = vec4( diffuse, opacity * vAlpha );'
+      );
+    };
 
     const points = new THREE.Points(geometry, material);
     scene.add(points);
@@ -278,6 +295,7 @@
       // Update geometry
       const posAttr = geometry.attributes.position;
       const colAttr = geometry.attributes.color;
+      const alphaAttr = geometry.attributes.alpha;
 
       // Find z range
       let zMin = Infinity, zMax = -Infinity;
@@ -302,16 +320,17 @@
           const [r, g, b] = siteColormap(zNorm);
           const alpha = (0.5 + 0.5 * (1.0 - Math.abs(zNorm - 0.5) * 2.0)) * trailFade;
 
-          colAttr.array[idx*4] = r;
-          colAttr.array[idx*4+1] = g;
-          colAttr.array[idx*4+2] = b;
-          colAttr.array[idx*4+3] = alpha;
+          colAttr.array[idx*3] = r;
+          colAttr.array[idx*3+1] = g;
+          colAttr.array[idx*3+2] = b;
+          alphaAttr.array[idx] = alpha;
 
           idx++;
         }
       }
       posAttr.needsUpdate = true;
       colAttr.needsUpdate = true;
+      alphaAttr.needsUpdate = true;
     }
 
     let lastTime = 0;
