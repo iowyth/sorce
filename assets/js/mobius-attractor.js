@@ -86,18 +86,16 @@
           qa[3] + t*(qb[3]-qa[3])
         ]);
       }
-      const theta0 = Math.acos(dot);
-      const theta = theta0 * t;
-      const sinTheta = Math.sin(theta);
+      const theta0 = Math.acos(Math.min(1.0, Math.max(-1.0, dot)));
       const sinTheta0 = Math.sin(theta0);
-      const s0 = Math.cos(theta) - dot * sinTheta / sinTheta0;
-      const s1 = sinTheta / sinTheta0;
-      return [
+      const s0 = Math.sin((1 - t) * theta0) / sinTheta0;
+      const s1 = Math.sin(t * theta0) / sinTheta0;
+      return normalizeQuat([
         s0*qa[0] + s1*qb[0],
         s0*qa[1] + s1*qb[1],
         s0*qa[2] + s1*qb[2],
         s0*qa[3] + s1*qb[3]
-      ];
+      ]);
     }
 
     function applyQuat(q, x, y, z) {
@@ -160,13 +158,6 @@
 
     mobiusKleinAttractor(0, initQuat, tempX, tempY, tempZ);
 
-    for (let t = 0; t < trailLength; t++) {
-      for (let i = 0; i < numTracers; i++) {
-        trailX[t][i] = tempX[i];
-        trailY[t][i] = tempY[i];
-        trailZ[t][i] = tempZ[i];
-      }
-    }
     for (let i = 0; i < numTracers; i++) {
       prevPoints[i*3] = tempX[i];
       prevPoints[i*3+1] = tempY[i];
@@ -176,20 +167,35 @@
     // Create geometry
     const totalPoints = trailLength * numTracers;
     const positions = new Float32Array(totalPoints * 3);
-    const colors = new Float32Array(totalPoints * 3);
+    const colors = new Float32Array(totalPoints * 4); // RGBA
 
     const geometry = new THREE.BufferGeometry();
     geometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
-    geometry.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+    geometry.setAttribute('color', new THREE.BufferAttribute(colors, 4));
+
+    function createFuzzyParticleTexture() {
+      const size = 64;
+      const canvas = document.createElement('canvas');
+      canvas.width = size;
+      canvas.height = size;
+      const ctx = canvas.getContext('2d');
+      const gradient = ctx.createRadialGradient(size/2, size/2, 0, size/2, size/2, size/2);
+      gradient.addColorStop(0, 'rgba(255, 255, 255, 1.0)');
+      gradient.addColorStop(0.2, 'rgba(255, 255, 255, 0.8)');
+      gradient.addColorStop(0.5, 'rgba(255, 255, 255, 0.3)');
+      gradient.addColorStop(1.0, 'rgba(255, 255, 255, 0.0)');
+      ctx.fillStyle = gradient;
+      ctx.fillRect(0, 0, size, size);
+      return new THREE.CanvasTexture(canvas);
+    }
 
     // Simple point material with vertex colors
     const material = new THREE.PointsMaterial({
-      size: 0.05,
+      size: 0.18, // slightly larger for soft overlapping smoke look
+      map: createFuzzyParticleTexture(),
       vertexColors: true,
       transparent: true,
-      opacity: 0.9,
-      sizeAttenuation: true,
-      blending: THREE.AdditiveBlending,
+      opacity: 0.7,
       depthWrite: false
     });
 
@@ -286,20 +292,20 @@
 
       let idx = 0;
       for (let t = 0; t < trailLength; t++) {
-        // Trail fade: keep colors bright, just reduce slightly for older points
         const trailFade = 0.4 + 0.6 * ((t + 1) / trailLength);
         for (let i = 0; i < numTracers; i++) {
           posAttr.array[idx*3] = trailX[t][i];
-          posAttr.array[idx*3+1] = trailY[t][i];
-          posAttr.array[idx*3+2] = trailZ[t][i];
+          posAttr.array[idx*3+1] = trailZ[t][i]; // Python Z -> Three.js Y (vertical)
+          posAttr.array[idx*3+2] = trailY[t][i]; // Python Y -> Three.js Z (depth)
 
           const zNorm = (trailZ[t][i] - zMin) / zRange;
           const [r, g, b] = siteColormap(zNorm);
+          const alpha = (0.5 + 0.5 * (1.0 - Math.abs(zNorm - 0.5) * 2.0)) * trailFade;
 
-          // Keep colors vibrant, minimal fade
-          colAttr.array[idx*3] = r * trailFade;
-          colAttr.array[idx*3+1] = g * trailFade;
-          colAttr.array[idx*3+2] = b * trailFade;
+          colAttr.array[idx*4] = r;
+          colAttr.array[idx*4+1] = g;
+          colAttr.array[idx*4+2] = b;
+          colAttr.array[idx*4+3] = alpha;
 
           idx++;
         }
@@ -308,10 +314,30 @@
       colAttr.needsUpdate = true;
     }
 
-    function animate() {
+    let lastTime = 0;
+    const interval = 30; // ms
+
+    function animate(currentTime) {
+      if (!container.contains(renderer.domElement)) {
+        renderer.dispose();
+        geometry.dispose();
+        material.dispose();
+        return;
+      }
       requestAnimationFrame(animate);
-      update();
-      renderer.render(scene, camera);
+
+      if (!currentTime) currentTime = performance.now();
+      if (!lastTime) lastTime = currentTime;
+      const elapsed = currentTime - lastTime;
+
+      if (elapsed >= interval) {
+        const steps = Math.min(Math.floor(elapsed / interval), 4);
+        for (let i = 0; i < steps; i++) {
+          update();
+        }
+        lastTime = currentTime - (elapsed % interval);
+        renderer.render(scene, camera);
+      }
     }
 
     animate();
