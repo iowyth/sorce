@@ -1,6 +1,23 @@
 // SORCE Collective - Main JavaScript
 
 (function() {
+  function updateActiveWikiLink(url) {
+    const targetPath = new URL(url, window.location.origin).pathname;
+    document.querySelectorAll('.wiki-nav a').forEach(link => {
+      try {
+        const linkPath = new URL(link.href, window.location.origin).pathname;
+        const normalize = p => p.replace(/\/$/, '');
+        if (normalize(linkPath) === normalize(targetPath)) {
+          link.classList.add('active');
+          link.closest('li')?.classList.add('active');
+        } else {
+          link.classList.remove('active');
+          link.closest('li')?.classList.remove('active');
+        }
+      } catch (e) {}
+    });
+  }
+
   // Page transition system for continuous animation
   function initPageTransitions() {
     // Only enable if we have the animation container
@@ -21,7 +38,7 @@
       }
     }
 
-    async function navigateTo(url) {
+    async function navigateTo(url, isPopState = false) {
       try {
         const response = await fetch(url);
         if (!response.ok) throw new Error('Page not found');
@@ -30,43 +47,73 @@
         const parser = new DOMParser();
         const doc = parser.parseFromString(html, 'text/html');
 
-        // Get new main content
+        const isCurrentWiki = document.querySelector('.wiki-container') !== null;
+        const isNewWiki = doc.querySelector('.wiki-container') !== null;
+
+        if (isCurrentWiki && isNewWiki) {
+          const newContent = doc.querySelector('.wiki-content');
+          const currentContent = document.querySelector('.wiki-content');
+
+          if (newContent && currentContent) {
+            currentContent.style.opacity = '0';
+            currentContent.style.transition = 'opacity 0.15s ease';
+
+            await new Promise(r => setTimeout(r, 150));
+
+            currentContent.innerHTML = newContent.innerHTML;
+
+            const newTitle = doc.querySelector('title');
+            if (newTitle) document.title = newTitle.textContent;
+
+            if (!isPopState) {
+              history.pushState({}, '', url);
+            }
+
+            updateActiveWikiLink(url);
+
+            currentContent.style.opacity = '1';
+
+            const wikiContainer = document.querySelector('.wiki-container');
+            if (wikiContainer) {
+              const headerHeight = document.querySelector('.site-header')?.offsetHeight || 0;
+              const targetY = wikiContainer.getBoundingClientRect().top + window.scrollY - headerHeight - 20;
+              window.scrollTo({ top: targetY, behavior: 'smooth' });
+            }
+
+            initDynamicContent();
+            return;
+          }
+        }
+
         const newMain = doc.querySelector('.site-main');
         const currentMain = document.querySelector('.site-main');
 
         if (newMain && currentMain) {
-          // Fade out current content
           currentMain.style.opacity = '0';
           currentMain.style.transition = 'opacity 0.15s ease';
 
           await new Promise(r => setTimeout(r, 150));
 
-          // Replace content
           currentMain.innerHTML = newMain.innerHTML;
 
-          // Update page title
           const newTitle = doc.querySelector('title');
           if (newTitle) document.title = newTitle.textContent;
 
-          // Update URL
-          history.pushState({}, '', url);
+          if (!isPopState) {
+            history.pushState({}, '', url);
+          }
 
-          // Fade in new content
           currentMain.style.opacity = '1';
 
-          // Scroll to top
           window.scrollTo({ top: 0, behavior: 'instant' });
 
-          // Re-initialize dynamic content
           initDynamicContent();
         }
       } catch (error) {
-        // Fallback to regular navigation
         window.location.href = url;
       }
     }
 
-    // Intercept clicks on internal links
     document.addEventListener('click', function(e) {
       const link = e.target.closest('a');
       if (!link) return;
@@ -76,9 +123,8 @@
       navigateTo(link.href);
     });
 
-    // Handle browser back/forward
     window.addEventListener('popstate', function() {
-      navigateTo(window.location.href);
+      navigateTo(window.location.href, true);
     });
   }
 
@@ -159,5 +205,8 @@
   document.addEventListener('DOMContentLoaded', function() {
     initPageTransitions();
     initDynamicContent();
+    if (document.querySelector('.wiki-container')) {
+      updateActiveWikiLink(window.location.href);
+    }
   });
 })();

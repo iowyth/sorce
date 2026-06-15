@@ -709,15 +709,18 @@ li {
 
 .wiki-nav li a {
   display: block;
-  padding: 0.35rem 0;
+  padding: 0.35rem 0 0.35rem 0.5rem;
   font-family: 'uni 05_53', 'DM Mono', monospace;
   font-size: 0.9rem;
-  border: none;
-  transition: color 0.2s ease;
+  border-left: 2px solid transparent;
+  transition: all 0.2s ease;
 }
 
-.wiki-nav li a:hover {
+.wiki-nav li a:hover,
+.wiki-nav li a.active,
+.wiki-nav li.active > a {
   color: var(--primary-blue);
+  border-left-color: var(--primary-blue);
 }
 
 .wiki-contribute {
