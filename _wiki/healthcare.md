@@ -95,7 +95,8 @@ Both universities have dedicated on-campus medical services available to student
 #### **Toronto Metropolitan University (TMU)**
 *   **Primary Clinic:** [TMU Medical Centre](https://www.torontomu.ca/student-wellbeing/medicalcentre/)
     *   **Location:** Kerr Hall West, Room 181 (use the entrance at **31 Gerrard Street East**).
-    *   **Phone:** 416-979-5070 | **Email:** medicalct@torontomu.ca
+    *   **Phone:** 416-979-5070
+    *   **Email:** [medicalct@torontomu.ca](mailto:medicalct@torontomu.ca)
     *   **Booking:** **Not a walk-in clinic** — you must call or register online to book an appointment.
     *   **Services:** Family-medicine style care, physicals, mental health assessments, immunizations, and STI testing. Bring your TMU OneCard and health card.
 
