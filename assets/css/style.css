@@ -644,12 +644,6 @@ li {
   overflow-y: auto;
   overflow-x: hidden;
   flex: 1;
-}
-
-.wiki-nav-scroll h3,
-.wiki-nav-scroll h4,
-.wiki-nav-scroll ul,
-.wiki-nav-scroll .wiki-contribute {
   padding-right: 1.5rem;
 }
 
@@ -665,11 +659,9 @@ li {
 .wiki-nav-scroll::-webkit-scrollbar-thumb {
   background-color: var(--primary-blue);
   background-clip: padding-box;
-  border-top: 40px solid transparent;
-  border-bottom: 40px solid transparent;
-  border-left: 2px solid transparent;
-  border-right: 2px solid transparent;
-  border-radius: 8px;
+  border-top: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+  border-radius: 5px;
 }
 
 .wiki-nav-scroll::-webkit-scrollbar-thumb:hover {
@@ -839,13 +831,6 @@ li {
   }
 
   .wiki-nav-scroll {
-    padding-right: 0;
-  }
-
-  .wiki-nav-scroll h3,
-  .wiki-nav-scroll h4,
-  .wiki-nav-scroll ul,
-  .wiki-nav-scroll .wiki-contribute {
     padding-right: 1rem;
   }
 
