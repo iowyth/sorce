@@ -630,7 +630,7 @@ li {
 
 .wiki-nav {
   background-color: transparent !important;
-  padding: 0 0 0 1.5rem;
+  padding: 1.5rem 0 1.5rem 1.5rem;
   border-radius: 2rem;
   border: 3px solid var(--primary-blue);
   max-height: calc(100vh - 4rem);
@@ -644,8 +644,6 @@ li {
   overflow-y: auto;
   overflow-x: hidden;
   flex: 1;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
 }
 
 .wiki-nav-scroll h3,
@@ -665,13 +663,17 @@ li {
 }
 
 .wiki-nav-scroll::-webkit-scrollbar-thumb {
-  background: var(--primary-blue);
-  border-radius: 0 !important;
-  -webkit-border-radius: 0 !important;
+  background-color: var(--primary-blue);
+  background-clip: padding-box;
+  border-top: 40px solid transparent;
+  border-bottom: 40px solid transparent;
+  border-left: 2px solid transparent;
+  border-right: 2px solid transparent;
+  border-radius: 8px;
 }
 
 .wiki-nav-scroll::-webkit-scrollbar-thumb:hover {
-  background: #0309a8;
+  background-color: #0309a8;
 }
 
 /* Firefox scrollbar */
@@ -826,7 +828,7 @@ li {
   }
 
   .wiki-nav {
-    padding: 0 0 0 1rem;
+    padding: 1rem 0 1rem 1rem;
     border-radius: 1.5rem;
   }
 
@@ -837,8 +839,6 @@ li {
   }
 
   .wiki-nav-scroll {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
     padding-right: 0;
   }
 
@@ -885,11 +885,6 @@ li {
   .wiki-nav {
     padding: 1.5rem;
     border-radius: 2rem;
-  }
-
-  .wiki-nav-scroll {
-    padding-top: 0;
-    padding-bottom: 0;
   }
 
   .wiki-nav-scroll h3,
