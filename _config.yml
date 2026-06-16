@@ -34,7 +34,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true
   - scope:
       path: ""
       type: "pages"
@@ -55,7 +54,6 @@ defaults:
       type: "wiki"
     values:
       layout: "wiki"
-      comments: true
 
 # Pagination
 paginate: 5

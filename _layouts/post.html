@@ -35,13 +35,6 @@ layout: default
     </a>
   </div>
 
-  {% if page.comments %}
-  <div class="post-comments">
-    <h2>Discussion</h2>
-    {% include giscus.html %}
-  </div>
-  {% endif %}
-
   <nav class="post-navigation">
     {% if page.previous.url %}
       <a href="{{ page.previous.url | relative_url }}" class="prev">&larr; {{ page.previous.title }}</a>
