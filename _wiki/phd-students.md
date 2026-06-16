@@ -10,7 +10,18 @@ ComCult at TMU and York is an orphan program located under the Yeates School of 
 
 *Note that York and TMU semesters do not start on the same day! Pay attention to this so that you do not miss a class.*
 
-The [Course Schedule is available here](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/), under the section COURSE ENROLLMENT.
+### Course Schedules & Offerings
+
+To see what courses are offered each term, consult the respective schedules for both universities:
+*   **TMU Course Schedule:** Access the [TMU ComCult Course Schedule](https://www.torontomu.ca/graduate/programs/comcult/forms-resources/) (under the "Course Enrollment" section).
+*   **York Course Schedule:** Access the [York Graduate Lecture Schedule](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/wa/gsls) (search under "CMCT" for Communication & Culture).
+
+### How to Register
+
+You do not register for courses online via a general public registry. Instead, enrollment is coordinated directly through the program department:
+1.  **Receive the Form:** Prior to the start of each semester, the program office at your home university (York or TMU) will email you the official course registration/enrollment request form.
+2.  **Submit Your Selections:** Complete the form with your chosen courses and return it to the program administration.
+3.  **Administration Enrollment:** The department staff will manually process the form and enroll you in the courses.
 
 PhD students in Communication and Culture must complete **6 courses** total of coursework. This translates differently depending on your home institution:
 - At **TMU**, this equals **6.0 credits** (typically 6 one-credit courses).
