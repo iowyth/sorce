@@ -55,6 +55,11 @@
           const currentContent = document.querySelector('.wiki-content');
 
           if (newContent && currentContent) {
+            // Calculate absolute top of the wiki container BEFORE the content transitions
+            // to avoid layout collapse affecting the scroll calculation
+            const wikiContainer = document.querySelector('.wiki-container');
+            const absoluteWikiTop = wikiContainer ? (wikiContainer.getBoundingClientRect().top + window.scrollY) : 0;
+
             currentContent.style.opacity = '0';
             currentContent.style.transition = 'opacity 0.15s ease';
 
@@ -73,11 +78,8 @@
 
             currentContent.style.opacity = '1';
 
-            const wikiContainer = document.querySelector('.wiki-container');
-            if (wikiContainer) {
-              const headerHeight = document.querySelector('.site-header')?.offsetHeight || 0;
-              const targetY = wikiContainer.getBoundingClientRect().top + window.scrollY - headerHeight - 20;
-              window.scrollTo({ top: targetY, behavior: 'smooth' });
+            if (absoluteWikiTop > 0) {
+              window.scrollTo({ top: absoluteWikiTop - 20, behavior: 'instant' });
             }
 
             initDynamicContent();
