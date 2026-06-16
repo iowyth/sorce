@@ -83,28 +83,44 @@ Graduate school can be challenging for mental health. Resources include:
 
 ### On Campus
 
-Both universities have health services that can provide:
+Both universities have dedicated on-campus medical services available to students, staff, and faculty:
 
-- Basic medical care
-- Referrals to specialists
-- Sexual health services
-- Immunizations
+#### **York University (Keele Campus)**
+*   **Primary Clinic:** [Appletree Medical Centre](https://yorklanes.ca/stores/appletree-medical-centre) (located in York Lanes)
+    *   **Phone:** 647-722-2370
+    *   **Services:** Family medicine, walk-in services, specialist referrals, and immunizations.
+*   **Virtual Care:** York has partnered with the **Virtual Health Clinic** to offer online medical appointments (primary care, mental health, nutrition, etc.) 7 days a week from 8 a.m. to 9 p.m.
+*   **Wellness Support:** [Student Counselling, Health & Well-being (SCHW)](https://counselling.students.yorku.ca/) offers personal counselling, support groups, and wellness coaching at Keele (Bennett Centre N110) and Glendon (Student Success Centre B108).
+
+#### **Toronto Metropolitan University (TMU)**
+*   **Primary Clinic:** [TMU Medical Centre](https://www.torontomu.ca/student-wellbeing/medicalcentre/)
+    *   **Location:** Kerr Hall West, Room 181 (use the entrance at **31 Gerrard Street East**).
+    *   **Phone:** 416-979-5070 | **Email:** medicalct@torontomu.ca
+    *   **Booking:** **Not a walk-in clinic** — you must call or register online to book an appointment.
+    *   **Services:** Family-medicine style care, physicals, mental health assessments, immunizations, and STI testing. Bring your TMU OneCard and health card.
 
 ### Finding a Doctor
 
 If you don't have a family doctor in Toronto:
 
-- Walk-in clinics for immediate needs
-- [Health Care Connect](https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner) to find a doctor accepting patients
-- University health services for some ongoing care
+- Walk-in clinics are available across the city for immediate, non-emergency needs.
+- Use [Health Care Connect](https://www.ontario.ca/page/find-family-doctor-or-nurse-practitioner) to register with the province to be matched with a family doctor or nurse practitioner accepting new patients.
+- You can use university clinics for short-term and primary care while in school.
 
-### OHIP
+### OHIP (Ontario Health Insurance Plan)
 
-Ontario Health Insurance Plan (OHIP) covers basic medical care for Ontario residents.
+OHIP covers basic medical care and hospital visits for Ontario residents. 
 
-- If you're new to Ontario, apply for OHIP
-- International students should check their visa requirements for health coverage
-- UHIP (University Health Insurance Plan) covers international students
+*   **How to Apply:** You must apply for a new OHIP health card **in person** at a ServiceOntario location (new registrations cannot be done online).
+    *   Find your nearest office using the [ServiceOntario Location Finder](https://www.ontario.ca/locations/serviceontario).
+*   **Required Documents:** You must bring **three original documents** (photocopies or printouts are not accepted):
+    1.  *Proof of Citizenship or eligible Immigration Status* (e.g., Canadian birth certificate, PR card, or eligible work permit).
+    2.  *Proof of Ontario Residency* (e.g., Ontario driver's license, utility bill, or signed residential tenancy agreement).
+    3.  *Proof of Identity* (e.g., credit card, student card, or passport).
+    *   See the official [OHIP Document Checklist](https://www.ontario.ca/page/documents-needed-to-get-health-card) for acceptable documents in each category.
+*   **Save Time:** You can download, print, and fill out the [Registration for Ontario Health Insurance Coverage (Form 014-0265)](https://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH&ENV=WWE&TIT=014-0265&NO=014-0265) before you go.
+*   **Detailed Guide:** Visit [Apply for OHIP and get a health card](https://www.ontario.ca/page/apply-ohip-and-get-health-card) for step-by-step guidance.
+*   **International Students:** International students are generally not covered by OHIP and are enrolled in **UHIP (University Health Insurance Plan)**, which matches basic OHIP coverage. Check with your university's international student office for details.
 
 ---
 
