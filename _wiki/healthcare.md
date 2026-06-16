@@ -65,13 +65,13 @@ Graduate school can be challenging for mental health. Resources include:
 ### On Campus
 
 **York**
-- [Student Counselling, Health & Well-being](https://counselling.students.yorku.ca/)
-- Peer support programs
+- [Student Counselling, Health & Well-being (SCHW)](https://counselling.students.yorku.ca/)
+- Peer support groups facilitated by SCHW, and the [Togetherall](https://togetherall.com/) anonymous online peer community.
 - [Good2Talk](https://good2talk.ca/) - 24/7 helpline
 
 **TMU**
-- [Centre for Student Development and Counselling](https://www.torontomu.ca/student-wellbeing/counselling/)
-- Peer support programs
+- [Centre for Student Development and Counselling (CSDC)](https://www.torontomu.ca/student-wellbeing/counselling/)
+- [TMU Student Wellbeing Peer Support](https://www.torontomu.ca/student-wellbeing/health-promotion/peer-support/) (including One-to-One bookings, weekly drop-ins, and dedicated GRAD Peer Support groups).
 - [Good2Talk](https://good2talk.ca/) - 24/7 helpline
 
 ### Off Campus
