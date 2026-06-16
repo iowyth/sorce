@@ -97,7 +97,7 @@ Both universities have dedicated on-campus medical services available to student
     *   **Location:** Kerr Hall West, Room 181 (use the entrance at **31 Gerrard Street East**).
     *   **Phone:** 416-979-5070
     *   **Email:** [medicalct@torontomu.ca](mailto:medicalct@torontomu.ca)
-    *   **Booking:** **Not a walk-in clinic** — you must call or register online to book an appointment.
+    *   **Booking:** You must call or register online to book an appointment.
     *   **Services:** Family-medicine style care, physicals, mental health assessments, immunizations, and STI testing. Bring your TMU OneCard and health card.
 
 ### Finding a Doctor
