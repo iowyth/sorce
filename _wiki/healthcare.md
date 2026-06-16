@@ -81,9 +81,8 @@ For affordable mental health care outside of the university, there are several d
 *   **Affordable Therapy Network:** [affordabletherapynetwork.com](https://affordabletherapynetwork.com/) — A directory connecting you with therapists offering low-cost/sliding-scale rates (many under $65/session).
 *   **Hard Feelings:** [hardfeelings.org](https://www.hardfeelings.org/) — A non-profit community space offering short-term, low-cost counselling (around $70–$100/session).
 *   **Open Path Psychotherapy Collective:** [openpathcollective.org](https://openpathcollective.org/) — A non-profit network where members pay a one-time fee to access sessions between $40 and $70.
-*   **Gestalt Student Clinic:** [gestalt.on.ca](https://gti.gestalt.on.ca/student-clinic/) — Offers low-cost therapy sessions (approx. $40) with student therapists-in-training.
 *   **Family Service Toronto:** [familyservicetoronto.org](https://familyservicetoronto.org/) — Provides sliding-scale counselling based on household income.
-*   **Ontario Structured Psychotherapy (OSP) Program:** [ontariohealth.ca](https://www.ontariohealth.ca/our-health-system/mental-health-addictions/ontario-structured-psychotherapy) — A free, publicly funded program providing Cognitive Behavioural Therapy (CBT) for depression and anxiety.
+*   **Ontario Structured Psychotherapy (OSP) Program:** [ontariohealth.ca](https://www.ontariohealth.ca/clinical/mental-health-addictions/structured-psychotherapy) — A free, publicly funded program providing Cognitive Behavioural Therapy (CBT) for depression and anxiety.
 
 ### Crisis Lines & Urgent Support
 
