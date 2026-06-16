@@ -37,8 +37,9 @@ You may take courses at either York or TMU. When selecting courses, consider:
 - Building comprehensive exam reading lists
 - Developing methodological skills
 - Networking with faculty in your field
-
-**Note for TMU students:** Do not register for York courses via their infrastructure. Go through TMU ComCult procedures. You can register via the York infrastructures but will be charged for your courses and will make the TMU admin salty.
+**Cross-Registration Rules:**
+*   **Note for TMU students:** Do not register for York courses via York's registration systems. You must register through the TMU ComCult program office using their course request forms. Registering directly through York will result in you being billed tuition fees by York.
+*   **Note for York students:** Do not register for TMU courses via TMU's registration systems (MyServiceHub). You must register through the York ComCult program office using their course request forms. Registering directly through TMU will result in you being billed tuition fees by TMU.
 
 ### External Courses
 
