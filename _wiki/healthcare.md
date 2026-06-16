@@ -47,7 +47,7 @@ The Toronto Metropolitan Graduate Students' Union (TMGSU) provides health and de
 **Vision Care:**
 - Eye exams, prescription glasses, or contact lenses (100% coverage, up to $200 combined every 24 months)
 
-[TMGSU Health Plan details](https://www.mystudentplan.ca/tmugrads/en/home) | [Alumo Portal](https://alumo.ca)
+[TMGSU Health Plan details](https://www.mystudentplan.ca/tmugrads/en/home) | [GreenShield Portal](https://www.greenshield.ca/)
 
 ### Opting Out
 
