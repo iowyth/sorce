@@ -31,12 +31,23 @@ The York University Graduate Students' Association (YUGSA) provides health and d
 
 ### TMU (TMGSU)
 
-The Toronto Metropolitan Graduate Students' Union (TMGSU) provides similar coverage through **Greenshield**:
+The Toronto Metropolitan Graduate Students' Union (TMGSU) provides health and dental coverage through **Green Shield Canada** (administered via **mystudentplan** / Gallivan / ALUMO):
 
-- Extended health
-- Dental
-- Vision
-- [TMGSU Health Plan details](https://www.tmgsu.ca/health-dental-plan)
+**Extended Health Coverage includes:**
+- Prescription drugs (80% coverage; 100% for contraceptives; generic equivalent limit)
+- Paramedical services (physio, chiro, massage, etc.)
+- Mental health practitioners (counselors, psychologists)
+- Emergency travel insurance and assistance
+
+**Dental Coverage includes:**
+- Preventive care (oral exams, scaling, polishing)
+- Basic services (fillings, extractions)
+- Endodontic and periodontic services
+
+**Vision Care:**
+- Eye exams, prescription glasses, or contact lenses (100% coverage, up to $200 combined every 24 months)
+
+[TMGSU Health Plan details](https://www.mystudentplan.ca/tmugrads/en/home) | [Alumo Portal](https://alumo.ca)
 
 ### Opting Out
 
