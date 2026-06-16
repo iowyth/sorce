@@ -121,7 +121,7 @@ OHIP covers basic medical care and hospital visits for Ontario residents.
     *   See the official [OHIP Document Checklist](https://www.ontario.ca/page/documents-needed-to-get-health-card) for acceptable documents in each category.
 *   **Save Time:** You can download, print, and fill out the [Registration for Ontario Health Insurance Coverage (Form 014-0265)](https://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?OpenForm&ACT=RDR&TAB=PROFILE&SRCH&ENV=WWE&TIT=014-0265&NO=014-0265) before you go.
 *   **Detailed Guide:** Visit [Apply for OHIP and get a health card](https://www.ontario.ca/page/apply-ohip-and-get-health-card) for step-by-step guidance.
-*   **International Students:** International students are generally not covered by OHIP and are enrolled in **UHIP (University Health Insurance Plan)**, which matches basic OHIP coverage. Check with your university's international student office for details.
+*   **International Students:** International students are generally not covered by OHIP and are enrolled in **UHIP (University Health Insurance Plan)**, which matches basic OHIP coverage.
 
 ---
 
