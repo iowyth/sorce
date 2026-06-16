@@ -74,12 +74,24 @@ Graduate school can be challenging for mental health. Resources include:
 - [TMU Student Wellbeing Peer Support](https://www.torontomu.ca/student-wellbeing/health-promotion/peer-support/) (including One-to-One bookings, weekly drop-ins, and dedicated GRAD Peer Support groups).
 - [Good2Talk](https://good2talk.ca/) - 24/7 helpline
 
-### Off Campus
+### Off Campus & Sliding Scale Therapy
 
-- Community mental health clinics
-- Sliding scale therapy options
-- [BetterHelp](https://www.betterhelp.com/) and other online options
-- Crisis lines for urgent situations
+For affordable mental health care outside of the university, there are several directories and non-profit services that offer sliding-scale fees (rates adjusted based on your income):
+
+*   **Affordable Therapy Network:** [affordabletherapynetwork.com](https://affordabletherapynetwork.com/) — A directory connecting you with therapists offering low-cost/sliding-scale rates (many under $65/session).
+*   **Hard Feelings:** [hardfeelings.org](https://www.hardfeelings.org/) — A non-profit community space offering short-term, low-cost counselling (around $70–$100/session).
+*   **Open Path Psychotherapy Collective:** [openpathcollective.org](https://openpathcollective.org/) — A non-profit network where members pay a one-time fee to access sessions between $40 and $70.
+*   **Gestalt Student Clinic:** [gestalt.on.ca](https://gti.gestalt.on.ca/student-clinic/) — Offers low-cost therapy sessions (approx. $40) with student therapists-in-training.
+*   **Family Service Toronto:** [familyservicetoronto.org](https://familyservicetoronto.org/) — Provides sliding-scale counselling based on household income.
+*   **Ontario Structured Psychotherapy (OSP) Program:** [ontariohealth.ca](https://www.ontariohealth.ca/our-health-system/mental-health-addictions/ontario-structured-psychotherapy) — A free, publicly funded program providing Cognitive Behavioural Therapy (CBT) for depression and anxiety.
+
+### Crisis Lines & Urgent Support
+
+If you or someone you know is in immediate distress, these free services are available 24/7:
+*   **Suicide Crisis Helpline:** Call or text **9-8-8** (toll-free across Canada).
+*   **Good2Talk:** Call **1-866-925-5454** or text **GOOD2TALKON** to **686868** (specific to post-secondary students).
+*   **Gerstein Crisis Centre:** Call **416-929-5200** (Toronto-based crisis support and mobile visits).
+*   **Distress Centres of Greater Toronto:** Call **416-408-4357**.
 
 ### Tips for Wellbeing
 
