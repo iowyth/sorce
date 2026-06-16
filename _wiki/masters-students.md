@@ -40,7 +40,7 @@ You must complete one of the following research milestones:
 
 **Milestone Timing:** Full-time MA students are required to formally submit their Option Request (declaring whether they are doing a Thesis, MRP, or Project) and have their supervisor secured by **June 30** of their first year.
 
-You may take as many courses as you can or want. If you are on fellowship funding through the department, however, you get free courses, and the faculty pays per course, so don't go crazy. That said, a lot of learning and networking happens during the courses that happens nowhere else; it's nice to take full advantage of the courses offered.
+Since ComCult charges tuition as a flat program-based fee per term, you can take elective courses beyond the minimum graduation requirements without any additional cost. While you have the flexibility to take extra courses of interest, be mindful of managing your time so that your coursework does not distract from your milestone research. That said, classes are a primary site for learning and networking, so it is highly recommended to take full advantage of the courses available.
 
 Half courses are 0.5 credits (lectures are typically 3h once a week) and are offered either in the Fall (Sep-Dec) or Winter (Jan-Apr) semesters. Full year courses are 1.0 credits (lectures are 1.5h or 2h twice a week) and usually run from September through April. If they are required courses, there will be a 3h lecture once a week for the first half of the year, and they will switch to an independent study for the second half.
 
