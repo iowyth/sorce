@@ -57,7 +57,6 @@ If you have equivalent coverage elsewhere (parent's plan, spouse's plan, ODSP, e
 - Opt-out deadlines are typically within the **first few weeks of September** — check exact dates each year
 - You need proof of alternative coverage
 - Once you opt out, you cannot opt back in until the next enrollment period
-- Consider carefully — the student plan is often better and cheaper than alternatives
 
 ## Mental Health Resources
 
